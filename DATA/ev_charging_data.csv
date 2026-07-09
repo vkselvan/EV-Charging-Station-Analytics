@@ -1,0 +1,1001 @@
+Session_ID,Customer_ID,Station_ID,City,State,Manufacturer,Vehicle_Model,Battery_Capacity_kWh,Battery_%_Before,Battery_%_After,Charger_Type,Connector_Type,Start_Time,End_Time,Charging_Duration_Min,Energy_Consumed_kWh,Charging_Cost,Weather,Day_Type,Payment_Method,Station_Status
+S00001,C1068,ST103,Coimbatore,Tamil Nadu,MG,ZS EV,50,79,100,AC,Type 2,2025-01-01 00:00:00,2025-01-01 02:52:00,172,19.73,355.14,Cloudy,Weekday,Credit Card,Available
+S00002,C1041,ST107,Kochi,Kerala,Hyundai,Ioniq 5,72,52,81,AC,Type 2,2025-01-01 01:00:00,2025-01-01 02:28:00,88,30.87,555.66,Sunny,Weekday,UPI,Busy
+S00003,C1093,ST103,Delhi,Delhi,Hyundai,Ioniq 5,72,66,90,AC,CCS2,2025-01-01 02:00:00,2025-01-01 03:51:00,111,42.15,758.7,Cloudy,Weekday,Debit Card,Available
+S00004,C1033,ST103,Chennai,Tamil Nadu,Tata,Punch EV,35,27,99,AC,Type 2,2025-01-01 03:00:00,2025-01-01 04:17:00,77,19.54,351.72,Cloudy,Weekday,Debit Card,Maintenance
+S00005,C1061,ST102,Mumbai,Maharashtra,Tata,Tiago EV,24,16,95,DC Fast,Type 2,2025-01-01 04:00:00,2025-01-01 05:09:00,69,55.37,996.66,Sunny,Weekday,Debit Card,Available
+S00006,C1027,ST103,Bangalore,Karnataka,Tata,Punch EV,35,67,98,DC Fast,Type 2,2025-01-01 05:00:00,2025-01-01 07:57:00,177,36.48,656.64,Cloudy,Weekday,Debit Card,Available
+S00007,C1075,ST104,Kochi,Kerala,Hyundai,Ioniq 5,72,38,80,AC,CCS2,2025-01-01 06:00:00,2025-01-01 06:35:00,35,25.63,461.34,Sunny,Weekday,UPI,Available
+S00008,C1079,ST104,Bangalore,Karnataka,BYD,Seal EV,82,63,81,DC Fast,CCS2,2025-01-01 07:00:00,2025-01-01 09:40:00,160,44.41,799.38,Sunny,Weekday,UPI,Available
+S00009,C1002,ST109,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,32,89,AC,Type 2,2025-01-01 08:00:00,2025-01-01 09:59:00,119,16.04,288.72,Sunny,Weekday,Debit Card,Maintenance
+S00010,C1012,ST106,Kochi,Kerala,Tata,Nexon EV,30,42,95,DC Fast,Type 2,2025-01-01 09:00:00,2025-01-01 11:42:00,162,33.85,609.3,Sunny,Weekday,Debit Card,Available
+S00011,C1046,ST108,Chennai,Tamil Nadu,Tata,Nexon EV,30,23,84,DC Fast,CCS2,2025-01-01 10:00:00,2025-01-01 11:29:00,89,21.51,387.18,Cloudy,Weekday,Credit Card,Busy
+S00012,C1096,ST109,Mumbai,Maharashtra,Hyundai,Kona Electric,39,68,81,DC Fast,CCS2,2025-01-01 11:00:00,2025-01-01 11:42:00,42,31.23,562.14,Cloudy,Weekday,Debit Card,Maintenance
+S00013,C1037,ST109,Hyderabad,Telangana,BYD,Atto 3,60,20,93,DC Fast,CCS2,2025-01-01 12:00:00,2025-01-01 13:38:00,98,40.91,736.38,Rainy,Weekday,UPI,Maintenance
+S00014,C1071,ST106,Kochi,Kerala,Mahindra,XUV400,40,52,88,AC,CCS2,2025-01-01 13:00:00,2025-01-01 14:27:00,87,15.77,283.86,Rainy,Weekday,Credit Card,Maintenance
+S00015,C1068,ST104,Delhi,Delhi,Tata,Nexon EV,30,16,86,DC Fast,Type 2,2025-01-01 14:00:00,2025-01-01 14:32:00,32,59.89,1078.02,Rainy,Weekday,UPI,Available
+S00016,C1090,ST102,Chennai,Tamil Nadu,Mahindra,XUV400,40,40,87,AC,CCS2,2025-01-01 15:00:00,2025-01-01 16:08:00,68,12.88,231.84,Cloudy,Weekday,Credit Card,Available
+S00017,C1031,ST106,Kochi,Kerala,Mahindra,XUV400,40,54,92,AC,CCS2,2025-01-01 16:00:00,2025-01-01 17:23:00,83,19.02,342.36,Rainy,Weekday,UPI,Maintenance
+S00018,C1073,ST104,Pune,Maharashtra,BYD,Seal EV,82,15,91,DC Fast,Type 2,2025-01-01 17:00:00,2025-01-01 19:51:00,171,37.77,679.86,Sunny,Weekday,Net Banking,Busy
+S00019,C1069,ST108,Coimbatore,Tamil Nadu,BYD,Atto 3,60,36,94,AC,Type 2,2025-01-01 18:00:00,2025-01-01 20:53:00,173,57.19,1029.42,Cloudy,Weekday,Debit Card,Available
+S00020,C1030,ST102,Mumbai,Maharashtra,MG,ZS EV,50,22,90,AC,Type 2,2025-01-01 19:00:00,2025-01-01 21:07:00,127,40.88,735.84,Sunny,Weekday,UPI,Available
+S00021,C1095,ST109,Delhi,Delhi,Mahindra,XUV400,40,22,91,DC Fast,CCS2,2025-01-01 20:00:00,2025-01-01 21:00:00,60,44.61,802.98,Sunny,Weekday,Net Banking,Available
+S00022,C1018,ST102,Pune,Maharashtra,Mahindra,XUV400,40,22,86,DC Fast,Type 2,2025-01-01 21:00:00,2025-01-01 22:04:00,64,42.53,765.54,Rainy,Weekday,Net Banking,Maintenance
+S00023,C1060,ST106,Kochi,Kerala,Tata,Punch EV,35,27,89,AC,CCS2,2025-01-01 22:00:00,2025-01-02 00:49:00,169,46.45,836.1,Sunny,Weekday,Credit Card,Maintenance
+S00024,C1034,ST106,Bangalore,Karnataka,Mahindra,XUV400,40,22,100,DC Fast,CCS2,2025-01-01 23:00:00,2025-01-02 01:23:00,143,24.42,439.56,Rainy,Weekday,Debit Card,Available
+S00025,C1017,ST101,Chennai,Tamil Nadu,BYD,Atto 3,60,78,93,DC Fast,Type 2,2025-01-02 00:00:00,2025-01-02 01:08:00,68,41.22,741.96,Rainy,Weekday,Debit Card,Available
+S00026,C1055,ST107,Chennai,Tamil Nadu,MG,Comet EV,17,41,85,DC Fast,Type 2,2025-01-02 01:00:00,2025-01-02 01:56:00,56,23.84,429.12,Rainy,Weekday,Credit Card,Maintenance
+S00027,C1046,ST106,Chennai,Tamil Nadu,MG,ZS EV,50,61,90,DC Fast,Type 2,2025-01-02 02:00:00,2025-01-02 02:33:00,33,20.85,375.3,Cloudy,Weekday,UPI,Maintenance
+S00028,C1097,ST106,Kochi,Kerala,Tata,Tiago EV,24,24,91,AC,Type 2,2025-01-02 03:00:00,2025-01-02 05:50:00,170,34.3,617.4,Rainy,Weekday,Debit Card,Maintenance
+S00029,C1052,ST103,Pune,Maharashtra,BYD,Seal EV,82,30,89,AC,CCS2,2025-01-02 04:00:00,2025-01-02 05:02:00,62,47.41,853.38,Cloudy,Weekday,UPI,Maintenance
+S00030,C1033,ST104,Bangalore,Karnataka,MG,Comet EV,17,47,80,AC,CCS2,2025-01-02 05:00:00,2025-01-02 07:36:00,156,26.27,472.86,Sunny,Weekday,UPI,Maintenance
+S00031,C1038,ST109,Hyderabad,Telangana,Hyundai,Kona Electric,39,27,84,DC Fast,Type 2,2025-01-02 06:00:00,2025-01-02 08:17:00,137,39.29,707.22,Rainy,Weekday,Net Banking,Busy
+S00032,C1066,ST106,Coimbatore,Tamil Nadu,MG,Comet EV,17,69,93,DC Fast,CCS2,2025-01-02 07:00:00,2025-01-02 09:30:00,150,25.38,456.84,Sunny,Weekday,Credit Card,Available
+S00033,C1073,ST105,Mumbai,Maharashtra,Tata,Tiago EV,24,48,91,DC Fast,CCS2,2025-01-02 08:00:00,2025-01-02 09:44:00,104,43.99,791.82,Cloudy,Weekday,UPI,Busy
+S00034,C1075,ST106,Delhi,Delhi,Tata,Punch EV,35,45,84,AC,Type 2,2025-01-02 09:00:00,2025-01-02 09:36:00,36,16.4,295.2,Rainy,Weekday,Net Banking,Maintenance
+S00035,C1072,ST105,Mumbai,Maharashtra,MG,Comet EV,17,70,84,AC,Type 2,2025-01-02 10:00:00,2025-01-02 10:22:00,22,50.22,903.96,Rainy,Weekday,Credit Card,Available
+S00036,C1017,ST109,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,80,96,AC,Type 2,2025-01-02 11:00:00,2025-01-02 11:37:00,37,59.12,1064.16,Cloudy,Weekday,UPI,Available
+S00037,C1015,ST102,Chennai,Tamil Nadu,Tata,Tiago EV,24,68,94,DC Fast,Type 2,2025-01-02 12:00:00,2025-01-02 13:23:00,83,22.11,397.98,Sunny,Weekday,Debit Card,Available
+S00038,C1038,ST104,Delhi,Delhi,MG,ZS EV,50,27,99,AC,CCS2,2025-01-02 13:00:00,2025-01-02 15:13:00,133,46.95,845.1,Cloudy,Weekday,Debit Card,Maintenance
+S00039,C1084,ST109,Delhi,Delhi,Hyundai,Ioniq 5,72,50,84,AC,CCS2,2025-01-02 14:00:00,2025-01-02 16:25:00,145,19.27,346.86,Sunny,Weekday,Credit Card,Available
+S00040,C1021,ST108,Mumbai,Maharashtra,Hyundai,Kona Electric,39,16,80,AC,Type 2,2025-01-02 15:00:00,2025-01-02 15:44:00,44,17.38,312.84,Rainy,Weekday,Credit Card,Maintenance
+S00041,C1025,ST101,Pune,Maharashtra,Hyundai,Kona Electric,39,45,83,AC,CCS2,2025-01-02 16:00:00,2025-01-02 18:27:00,147,25.12,452.16,Rainy,Weekday,Debit Card,Maintenance
+S00042,C1013,ST101,Chennai,Tamil Nadu,MG,Comet EV,17,79,84,AC,CCS2,2025-01-02 17:00:00,2025-01-02 19:48:00,168,35.39,637.02,Cloudy,Weekday,Net Banking,Available
+S00043,C1036,ST107,Pune,Maharashtra,BYD,Seal EV,82,16,100,AC,Type 2,2025-01-02 18:00:00,2025-01-02 18:54:00,54,17.22,309.96,Cloudy,Weekday,Debit Card,Maintenance
+S00044,C1086,ST104,Hyderabad,Telangana,Mahindra,XUV400,40,11,87,DC Fast,Type 2,2025-01-02 19:00:00,2025-01-02 20:11:00,71,30.23,544.14,Sunny,Weekday,UPI,Maintenance
+S00045,C1087,ST109,Mumbai,Maharashtra,Tata,Tiago EV,24,52,83,AC,Type 2,2025-01-02 20:00:00,2025-01-02 22:57:00,177,24.41,439.38,Cloudy,Weekday,Debit Card,Maintenance
+S00046,C1096,ST107,Chennai,Tamil Nadu,Mahindra,BE 6,59,75,95,AC,Type 2,2025-01-02 21:00:00,2025-01-02 23:04:00,124,32.73,589.14,Sunny,Weekday,Credit Card,Maintenance
+S00047,C1063,ST101,Delhi,Delhi,Hyundai,Kona Electric,39,23,82,AC,CCS2,2025-01-02 22:00:00,2025-01-02 22:34:00,34,50.27,904.86,Cloudy,Weekday,Credit Card,Maintenance
+S00048,C1099,ST103,Delhi,Delhi,Tata,Punch EV,35,31,84,DC Fast,CCS2,2025-01-02 23:00:00,2025-01-03 01:57:00,177,38.76,697.68,Rainy,Weekday,UPI,Busy
+S00049,C1046,ST101,Mumbai,Maharashtra,Mahindra,XUV400,40,24,83,DC Fast,CCS2,2025-01-03 00:00:00,2025-01-03 00:47:00,47,49.0,882.0,Sunny,Weekday,Debit Card,Busy
+S00050,C1012,ST102,Delhi,Delhi,Mahindra,XUV400,40,56,100,AC,CCS2,2025-01-03 01:00:00,2025-01-03 02:07:00,67,13.95,251.1,Cloudy,Weekday,UPI,Maintenance
+S00051,C1021,ST101,Delhi,Delhi,Mahindra,XUV400,40,75,85,DC Fast,Type 2,2025-01-03 02:00:00,2025-01-03 03:47:00,107,56.35,1014.3,Rainy,Weekday,Credit Card,Maintenance
+S00052,C1078,ST107,Pune,Maharashtra,Mahindra,XUV400,40,15,98,AC,CCS2,2025-01-03 03:00:00,2025-01-03 05:48:00,168,11.9,214.2,Rainy,Weekday,Net Banking,Available
+S00053,C1019,ST107,Hyderabad,Telangana,Hyundai,Ioniq 5,72,67,88,AC,CCS2,2025-01-03 04:00:00,2025-01-03 06:18:00,138,21.04,378.72,Cloudy,Weekday,UPI,Maintenance
+S00054,C1064,ST105,Bangalore,Karnataka,BYD,Atto 3,60,37,100,AC,Type 2,2025-01-03 05:00:00,2025-01-03 05:43:00,43,16.29,293.22,Rainy,Weekday,UPI,Available
+S00055,C1012,ST108,Chennai,Tamil Nadu,Tata,Punch EV,35,77,81,AC,CCS2,2025-01-03 06:00:00,2025-01-03 07:30:00,90,26.86,483.48,Cloudy,Weekday,Debit Card,Available
+S00056,C1097,ST109,Hyderabad,Telangana,MG,Comet EV,17,17,84,AC,Type 2,2025-01-03 07:00:00,2025-01-03 09:43:00,163,27.16,488.88,Rainy,Weekday,Credit Card,Busy
+S00057,C1068,ST110,Coimbatore,Tamil Nadu,MG,Comet EV,17,40,89,AC,Type 2,2025-01-03 08:00:00,2025-01-03 10:25:00,145,27.64,497.52,Cloudy,Weekday,Debit Card,Busy
+S00058,C1097,ST109,Chennai,Tamil Nadu,Tata,Tiago EV,24,24,99,DC Fast,Type 2,2025-01-03 09:00:00,2025-01-03 09:53:00,53,25.96,467.28,Sunny,Weekday,UPI,Maintenance
+S00059,C1023,ST104,Coimbatore,Tamil Nadu,Tata,Tiago EV,24,20,96,AC,CCS2,2025-01-03 10:00:00,2025-01-03 10:36:00,36,19.22,345.96,Rainy,Weekday,Credit Card,Available
+S00060,C1072,ST103,Pune,Maharashtra,BYD,Atto 3,60,62,82,AC,CCS2,2025-01-03 11:00:00,2025-01-03 12:01:00,61,24.76,445.68,Rainy,Weekday,UPI,Available
+S00061,C1084,ST109,Bangalore,Karnataka,Mahindra,XUV400,40,47,80,DC Fast,CCS2,2025-01-03 12:00:00,2025-01-03 14:27:00,147,51.61,928.98,Sunny,Weekday,Debit Card,Busy
+S00062,C1020,ST102,Mumbai,Maharashtra,Mahindra,XUV400,40,50,87,DC Fast,CCS2,2025-01-03 13:00:00,2025-01-03 14:33:00,93,25.23,454.14,Sunny,Weekday,UPI,Maintenance
+S00063,C1058,ST108,Bangalore,Karnataka,Mahindra,BE 6,59,19,80,DC Fast,CCS2,2025-01-03 14:00:00,2025-01-03 16:13:00,133,34.36,618.48,Cloudy,Weekday,Credit Card,Busy
+S00064,C1075,ST110,Mumbai,Maharashtra,BYD,Seal EV,82,66,89,DC Fast,Type 2,2025-01-03 15:00:00,2025-01-03 16:39:00,99,58.28,1049.04,Rainy,Weekday,Debit Card,Available
+S00065,C1070,ST110,Kochi,Kerala,Tata,Tiago EV,24,45,100,AC,CCS2,2025-01-03 16:00:00,2025-01-03 16:51:00,51,10.6,190.8,Cloudy,Weekday,UPI,Available
+S00066,C1003,ST104,Delhi,Delhi,MG,Comet EV,17,52,93,AC,Type 2,2025-01-03 17:00:00,2025-01-03 19:42:00,162,32.95,593.1,Rainy,Weekday,Net Banking,Busy
+S00067,C1045,ST104,Bangalore,Karnataka,BYD,Seal EV,82,29,87,AC,CCS2,2025-01-03 18:00:00,2025-01-03 19:19:00,79,18.65,335.7,Rainy,Weekday,Credit Card,Maintenance
+S00068,C1046,ST105,Kochi,Kerala,BYD,Seal EV,82,52,97,AC,CCS2,2025-01-03 19:00:00,2025-01-03 21:54:00,174,58.24,1048.32,Sunny,Weekday,Debit Card,Maintenance
+S00069,C1005,ST102,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,50,99,AC,CCS2,2025-01-03 20:00:00,2025-01-03 22:12:00,132,38.7,696.6,Cloudy,Weekday,Debit Card,Busy
+S00070,C1092,ST108,Kochi,Kerala,Mahindra,BE 6,59,54,81,AC,CCS2,2025-01-03 21:00:00,2025-01-03 21:50:00,50,53.7,966.6,Rainy,Weekday,Credit Card,Available
+S00071,C1008,ST108,Delhi,Delhi,BYD,Seal EV,82,76,94,AC,Type 2,2025-01-03 22:00:00,2025-01-03 23:10:00,70,32.08,577.44,Cloudy,Weekday,Debit Card,Maintenance
+S00072,C1059,ST107,Hyderabad,Telangana,MG,ZS EV,50,50,87,DC Fast,CCS2,2025-01-03 23:00:00,2025-01-04 01:10:00,130,21.67,390.06,Cloudy,Weekday,Credit Card,Available
+S00073,C1077,ST108,Bangalore,Karnataka,MG,ZS EV,50,77,99,AC,CCS2,2025-01-04 00:00:00,2025-01-04 02:43:00,163,42.29,761.22,Rainy,Weekend,UPI,Available
+S00074,C1022,ST110,Bangalore,Karnataka,Hyundai,Ioniq 5,72,73,97,AC,CCS2,2025-01-04 01:00:00,2025-01-04 03:47:00,167,44.43,799.74,Cloudy,Weekend,Debit Card,Available
+S00075,C1034,ST101,Coimbatore,Tamil Nadu,MG,Comet EV,17,33,80,AC,CCS2,2025-01-04 02:00:00,2025-01-04 04:42:00,162,50.27,904.86,Sunny,Weekend,UPI,Maintenance
+S00076,C1075,ST106,Kochi,Kerala,Mahindra,XUV400,40,23,86,DC Fast,CCS2,2025-01-04 03:00:00,2025-01-04 04:47:00,107,23.89,430.02,Sunny,Weekend,Debit Card,Busy
+S00077,C1027,ST107,Kochi,Kerala,Mahindra,XUV400,40,56,82,AC,Type 2,2025-01-04 04:00:00,2025-01-04 06:08:00,128,58.29,1049.22,Sunny,Weekend,Debit Card,Maintenance
+S00078,C1046,ST103,Kochi,Kerala,BYD,Atto 3,60,13,89,DC Fast,CCS2,2025-01-04 05:00:00,2025-01-04 06:43:00,103,58.84,1059.12,Cloudy,Weekend,UPI,Busy
+S00079,C1048,ST106,Delhi,Delhi,BYD,Seal EV,82,57,100,AC,Type 2,2025-01-04 06:00:00,2025-01-04 06:40:00,40,23.84,429.12,Cloudy,Weekend,Net Banking,Busy
+S00080,C1049,ST109,Kochi,Kerala,MG,ZS EV,50,70,85,AC,Type 2,2025-01-04 07:00:00,2025-01-04 07:47:00,47,31.65,569.7,Sunny,Weekend,Net Banking,Available
+S00081,C1083,ST110,Pune,Maharashtra,MG,Comet EV,17,51,85,AC,Type 2,2025-01-04 08:00:00,2025-01-04 09:41:00,101,46.22,831.96,Cloudy,Weekend,Net Banking,Busy
+S00082,C1027,ST107,Mumbai,Maharashtra,Mahindra,BE 6,59,67,85,AC,CCS2,2025-01-04 09:00:00,2025-01-04 10:03:00,63,54.21,975.78,Cloudy,Weekend,Debit Card,Maintenance
+S00083,C1045,ST110,Chennai,Tamil Nadu,Tata,Tiago EV,24,76,89,AC,Type 2,2025-01-04 10:00:00,2025-01-04 10:48:00,48,51.13,920.34,Sunny,Weekend,Net Banking,Maintenance
+S00084,C1083,ST107,Pune,Maharashtra,Hyundai,Ioniq 5,72,25,97,AC,CCS2,2025-01-04 11:00:00,2025-01-04 11:38:00,38,53.66,965.88,Cloudy,Weekend,UPI,Maintenance
+S00085,C1087,ST104,Kochi,Kerala,Tata,Nexon EV,30,17,94,AC,CCS2,2025-01-04 12:00:00,2025-01-04 13:30:00,90,20.06,361.08,Sunny,Weekend,Debit Card,Available
+S00086,C1065,ST106,Mumbai,Maharashtra,MG,ZS EV,50,46,90,DC Fast,CCS2,2025-01-04 13:00:00,2025-01-04 15:31:00,151,54.7,984.6,Sunny,Weekend,Debit Card,Busy
+S00087,C1084,ST104,Chennai,Tamil Nadu,Tata,Tiago EV,24,23,95,AC,CCS2,2025-01-04 14:00:00,2025-01-04 16:58:00,178,32.69,588.42,Sunny,Weekend,Credit Card,Busy
+S00088,C1056,ST103,Kochi,Kerala,Tata,Punch EV,35,66,96,AC,Type 2,2025-01-04 15:00:00,2025-01-04 17:42:00,162,20.09,361.62,Sunny,Weekend,Debit Card,Busy
+S00089,C1042,ST105,Kochi,Kerala,BYD,Atto 3,60,42,82,AC,Type 2,2025-01-04 16:00:00,2025-01-04 18:01:00,121,42.33,761.94,Rainy,Weekend,UPI,Maintenance
+S00090,C1083,ST110,Mumbai,Maharashtra,MG,Comet EV,17,26,87,DC Fast,Type 2,2025-01-04 17:00:00,2025-01-04 18:13:00,73,11.95,215.1,Sunny,Weekend,Credit Card,Busy
+S00091,C1096,ST105,Kochi,Kerala,BYD,Atto 3,60,62,89,DC Fast,CCS2,2025-01-04 18:00:00,2025-01-04 18:56:00,56,49.68,894.24,Sunny,Weekend,Net Banking,Maintenance
+S00092,C1008,ST108,Bangalore,Karnataka,MG,Comet EV,17,20,98,AC,Type 2,2025-01-04 19:00:00,2025-01-04 21:28:00,148,33.21,597.78,Cloudy,Weekend,UPI,Maintenance
+S00093,C1018,ST101,Chennai,Tamil Nadu,MG,Comet EV,17,46,92,AC,CCS2,2025-01-04 20:00:00,2025-01-04 22:45:00,165,28.24,508.32,Rainy,Weekend,Debit Card,Busy
+S00094,C1067,ST105,Coimbatore,Tamil Nadu,Tata,Tiago EV,24,78,95,AC,Type 2,2025-01-04 21:00:00,2025-01-04 23:55:00,175,24.96,449.28,Rainy,Weekend,Net Banking,Busy
+S00095,C1065,ST108,Chennai,Tamil Nadu,MG,ZS EV,50,42,82,DC Fast,Type 2,2025-01-04 22:00:00,2025-01-05 00:25:00,145,19.0,342.0,Rainy,Weekend,Credit Card,Available
+S00096,C1010,ST110,Coimbatore,Tamil Nadu,MG,Comet EV,17,27,86,AC,CCS2,2025-01-04 23:00:00,2025-01-05 01:44:00,164,17.43,313.74,Cloudy,Weekend,Debit Card,Busy
+S00097,C1027,ST105,Hyderabad,Telangana,Tata,Tiago EV,24,56,81,DC Fast,CCS2,2025-01-05 00:00:00,2025-01-05 00:42:00,42,55.32,995.76,Sunny,Weekend,Debit Card,Maintenance
+S00098,C1059,ST108,Bangalore,Karnataka,Tata,Tiago EV,24,55,94,DC Fast,Type 2,2025-01-05 01:00:00,2025-01-05 02:12:00,72,37.21,669.78,Rainy,Weekend,Credit Card,Maintenance
+S00099,C1027,ST102,Mumbai,Maharashtra,Mahindra,XUV400,40,23,91,DC Fast,Type 2,2025-01-05 02:00:00,2025-01-05 02:23:00,23,33.59,604.62,Sunny,Weekend,Debit Card,Available
+S00100,C1075,ST108,Hyderabad,Telangana,MG,Comet EV,17,35,84,DC Fast,CCS2,2025-01-05 03:00:00,2025-01-05 03:43:00,43,40.41,727.38,Rainy,Weekend,Debit Card,Maintenance
+S00101,C1096,ST102,Pune,Maharashtra,MG,Comet EV,17,49,99,DC Fast,CCS2,2025-01-05 04:00:00,2025-01-05 06:10:00,130,25.94,466.92,Sunny,Weekend,Net Banking,Available
+S00102,C1071,ST108,Pune,Maharashtra,Hyundai,Ioniq 5,72,64,100,DC Fast,Type 2,2025-01-05 05:00:00,2025-01-05 05:41:00,41,45.96,827.28,Rainy,Weekend,UPI,Maintenance
+S00103,C1087,ST102,Delhi,Delhi,Mahindra,XUV400,40,30,92,AC,CCS2,2025-01-05 06:00:00,2025-01-05 08:20:00,140,36.84,663.12,Sunny,Weekend,Net Banking,Maintenance
+S00104,C1075,ST106,Delhi,Delhi,Hyundai,Kona Electric,39,38,82,DC Fast,Type 2,2025-01-05 07:00:00,2025-01-05 09:31:00,151,32.76,589.68,Cloudy,Weekend,Debit Card,Available
+S00105,C1081,ST101,Delhi,Delhi,Mahindra,BE 6,59,62,97,DC Fast,Type 2,2025-01-05 08:00:00,2025-01-05 10:12:00,132,30.78,554.04,Sunny,Weekend,Debit Card,Maintenance
+S00106,C1068,ST101,Hyderabad,Telangana,MG,Comet EV,17,41,94,AC,Type 2,2025-01-05 09:00:00,2025-01-05 11:37:00,157,50.16,902.88,Cloudy,Weekend,Credit Card,Maintenance
+S00107,C1005,ST108,Mumbai,Maharashtra,Tata,Tiago EV,24,23,84,DC Fast,CCS2,2025-01-05 10:00:00,2025-01-05 10:49:00,49,29.86,537.48,Rainy,Weekend,Net Banking,Available
+S00108,C1067,ST103,Coimbatore,Tamil Nadu,Hyundai,Ioniq 5,72,19,97,AC,CCS2,2025-01-05 11:00:00,2025-01-05 12:48:00,108,28.79,518.22,Rainy,Weekend,Debit Card,Available
+S00109,C1068,ST110,Bangalore,Karnataka,Hyundai,Ioniq 5,72,54,83,AC,Type 2,2025-01-05 12:00:00,2025-01-05 12:48:00,48,21.13,380.34,Cloudy,Weekend,Credit Card,Maintenance
+S00110,C1075,ST109,Bangalore,Karnataka,BYD,Atto 3,60,23,93,DC Fast,CCS2,2025-01-05 13:00:00,2025-01-05 15:15:00,135,48.8,878.4,Rainy,Weekend,Debit Card,Maintenance
+S00111,C1004,ST108,Pune,Maharashtra,Mahindra,BE 6,59,69,100,AC,Type 2,2025-01-05 14:00:00,2025-01-05 14:58:00,58,18.99,341.82,Rainy,Weekend,Debit Card,Maintenance
+S00112,C1017,ST105,Chennai,Tamil Nadu,Tata,Nexon EV,30,34,91,AC,CCS2,2025-01-05 15:00:00,2025-01-05 16:32:00,92,21.22,381.96,Sunny,Weekend,Net Banking,Available
+S00113,C1006,ST109,Hyderabad,Telangana,BYD,Atto 3,60,32,85,DC Fast,CCS2,2025-01-05 16:00:00,2025-01-05 18:30:00,150,21.92,394.56,Cloudy,Weekend,Net Banking,Maintenance
+S00114,C1021,ST102,Bangalore,Karnataka,MG,Comet EV,17,40,91,DC Fast,Type 2,2025-01-05 17:00:00,2025-01-05 19:42:00,162,44.4,799.2,Sunny,Weekend,Credit Card,Busy
+S00115,C1086,ST108,Kochi,Kerala,Tata,Nexon EV,30,66,100,AC,CCS2,2025-01-05 18:00:00,2025-01-05 18:38:00,38,48.18,867.24,Rainy,Weekend,Debit Card,Busy
+S00116,C1077,ST107,Pune,Maharashtra,Tata,Punch EV,35,18,87,AC,CCS2,2025-01-05 19:00:00,2025-01-05 21:34:00,154,49.8,896.4,Rainy,Weekend,Net Banking,Available
+S00117,C1082,ST108,Bangalore,Karnataka,Mahindra,XUV400,40,60,90,AC,CCS2,2025-01-05 20:00:00,2025-01-05 22:56:00,176,35.09,631.62,Cloudy,Weekend,Debit Card,Maintenance
+S00118,C1002,ST109,Coimbatore,Tamil Nadu,MG,ZS EV,50,25,87,AC,Type 2,2025-01-05 21:00:00,2025-01-05 22:57:00,117,33.49,602.82,Rainy,Weekend,Net Banking,Maintenance
+S00119,C1086,ST102,Kochi,Kerala,MG,Comet EV,17,40,99,AC,Type 2,2025-01-05 22:00:00,2025-01-06 00:51:00,171,31.06,559.08,Sunny,Weekend,Debit Card,Busy
+S00120,C1030,ST101,Kochi,Kerala,Hyundai,Kona Electric,39,53,98,AC,CCS2,2025-01-05 23:00:00,2025-01-05 23:26:00,26,40.91,736.38,Rainy,Weekend,Debit Card,Maintenance
+S00121,C1068,ST110,Coimbatore,Tamil Nadu,Tata,Punch EV,35,40,89,DC Fast,CCS2,2025-01-06 00:00:00,2025-01-06 01:37:00,97,58.03,1044.54,Sunny,Weekday,Net Banking,Maintenance
+S00122,C1017,ST110,Pune,Maharashtra,Tata,Nexon EV,30,37,92,AC,CCS2,2025-01-06 01:00:00,2025-01-06 02:14:00,74,46.97,845.46,Cloudy,Weekday,UPI,Maintenance
+S00123,C1098,ST110,Delhi,Delhi,MG,Comet EV,17,29,85,AC,CCS2,2025-01-06 02:00:00,2025-01-06 04:58:00,178,38.48,692.64,Rainy,Weekday,Net Banking,Available
+S00124,C1065,ST107,Pune,Maharashtra,Mahindra,XUV400,40,43,100,DC Fast,CCS2,2025-01-06 03:00:00,2025-01-06 04:55:00,115,12.2,219.6,Rainy,Weekday,Credit Card,Busy
+S00125,C1055,ST105,Chennai,Tamil Nadu,Mahindra,BE 6,59,63,87,AC,CCS2,2025-01-06 04:00:00,2025-01-06 06:58:00,178,22.19,399.42,Rainy,Weekday,Net Banking,Maintenance
+S00126,C1007,ST101,Coimbatore,Tamil Nadu,Tata,Punch EV,35,74,100,DC Fast,Type 2,2025-01-06 05:00:00,2025-01-06 05:25:00,25,29.43,529.74,Rainy,Weekday,Credit Card,Available
+S00127,C1071,ST104,Kochi,Kerala,Tata,Nexon EV,30,46,82,AC,Type 2,2025-01-06 06:00:00,2025-01-06 06:44:00,44,42.08,757.44,Sunny,Weekday,Debit Card,Maintenance
+S00128,C1055,ST107,Mumbai,Maharashtra,Mahindra,BE 6,59,22,89,AC,CCS2,2025-01-06 07:00:00,2025-01-06 07:28:00,28,26.8,482.4,Cloudy,Weekday,Debit Card,Available
+S00129,C1027,ST110,Mumbai,Maharashtra,BYD,Seal EV,82,53,100,DC Fast,Type 2,2025-01-06 08:00:00,2025-01-06 10:54:00,174,42.48,764.64,Cloudy,Weekday,Credit Card,Maintenance
+S00130,C1084,ST103,Hyderabad,Telangana,BYD,Atto 3,60,76,96,DC Fast,Type 2,2025-01-06 09:00:00,2025-01-06 11:43:00,163,39.47,710.46,Cloudy,Weekday,Debit Card,Available
+S00131,C1080,ST109,Mumbai,Maharashtra,Tata,Nexon EV,30,18,89,DC Fast,Type 2,2025-01-06 10:00:00,2025-01-06 11:29:00,89,10.71,192.78,Cloudy,Weekday,UPI,Available
+S00132,C1053,ST107,Bangalore,Karnataka,MG,ZS EV,50,40,92,AC,Type 2,2025-01-06 11:00:00,2025-01-06 12:06:00,66,19.73,355.14,Cloudy,Weekday,Debit Card,Busy
+S00133,C1043,ST110,Kochi,Kerala,BYD,Atto 3,60,49,80,AC,Type 2,2025-01-06 12:00:00,2025-01-06 14:01:00,121,44.94,808.92,Sunny,Weekday,Credit Card,Busy
+S00134,C1066,ST104,Bangalore,Karnataka,BYD,Seal EV,82,75,86,AC,Type 2,2025-01-06 13:00:00,2025-01-06 13:53:00,53,14.03,252.54,Rainy,Weekday,Credit Card,Maintenance
+S00135,C1052,ST106,Mumbai,Maharashtra,Mahindra,BE 6,59,62,81,DC Fast,Type 2,2025-01-06 14:00:00,2025-01-06 15:17:00,77,40.9,736.2,Rainy,Weekday,Net Banking,Busy
+S00136,C1087,ST110,Mumbai,Maharashtra,Hyundai,Kona Electric,39,31,89,AC,Type 2,2025-01-06 15:00:00,2025-01-06 15:49:00,49,15.44,277.92,Cloudy,Weekday,UPI,Maintenance
+S00137,C1087,ST109,Hyderabad,Telangana,BYD,Seal EV,82,78,85,AC,Type 2,2025-01-06 16:00:00,2025-01-06 18:56:00,176,19.16,344.88,Sunny,Weekday,Credit Card,Busy
+S00138,C1003,ST103,Bangalore,Karnataka,MG,ZS EV,50,36,100,AC,Type 2,2025-01-06 17:00:00,2025-01-06 19:50:00,170,45.44,817.92,Cloudy,Weekday,UPI,Available
+S00139,C1078,ST110,Hyderabad,Telangana,MG,Comet EV,17,26,97,AC,CCS2,2025-01-06 18:00:00,2025-01-06 20:10:00,130,37.59,676.62,Cloudy,Weekday,Credit Card,Busy
+S00140,C1023,ST108,Pune,Maharashtra,BYD,Atto 3,60,24,89,DC Fast,CCS2,2025-01-06 19:00:00,2025-01-06 20:48:00,108,30.47,548.46,Sunny,Weekday,Net Banking,Available
+S00141,C1052,ST106,Mumbai,Maharashtra,Mahindra,XUV400,40,53,94,DC Fast,Type 2,2025-01-06 20:00:00,2025-01-06 21:25:00,85,58.62,1055.16,Cloudy,Weekday,Credit Card,Available
+S00142,C1012,ST107,Delhi,Delhi,Tata,Punch EV,35,17,99,AC,Type 2,2025-01-06 21:00:00,2025-01-06 22:00:00,60,25.66,461.88,Sunny,Weekday,Credit Card,Maintenance
+S00143,C1015,ST106,Mumbai,Maharashtra,BYD,Seal EV,82,70,99,AC,CCS2,2025-01-06 22:00:00,2025-01-07 01:00:00,180,15.67,282.06,Sunny,Weekday,Credit Card,Busy
+S00144,C1100,ST101,Kochi,Kerala,MG,ZS EV,50,12,82,DC Fast,CCS2,2025-01-06 23:00:00,2025-01-06 23:57:00,57,53.94,970.92,Rainy,Weekday,Net Banking,Maintenance
+S00145,C1004,ST107,Bangalore,Karnataka,Mahindra,BE 6,59,11,83,DC Fast,CCS2,2025-01-07 00:00:00,2025-01-07 00:27:00,27,20.76,373.68,Cloudy,Weekday,UPI,Busy
+S00146,C1076,ST110,Hyderabad,Telangana,Mahindra,XUV400,40,36,92,DC Fast,CCS2,2025-01-07 01:00:00,2025-01-07 03:34:00,154,20.17,363.06,Sunny,Weekday,Net Banking,Available
+S00147,C1041,ST109,Bangalore,Karnataka,MG,ZS EV,50,21,84,DC Fast,CCS2,2025-01-07 02:00:00,2025-01-07 04:51:00,171,37.38,672.84,Rainy,Weekday,Debit Card,Busy
+S00148,C1074,ST102,Coimbatore,Tamil Nadu,Mahindra,BE 6,59,51,80,AC,CCS2,2025-01-07 03:00:00,2025-01-07 03:59:00,59,33.4,601.2,Cloudy,Weekday,UPI,Busy
+S00149,C1054,ST107,Hyderabad,Telangana,BYD,Atto 3,60,44,87,AC,Type 2,2025-01-07 04:00:00,2025-01-07 05:55:00,115,54.07,973.26,Rainy,Weekday,UPI,Maintenance
+S00150,C1028,ST101,Coimbatore,Tamil Nadu,BYD,Atto 3,60,30,97,AC,Type 2,2025-01-07 05:00:00,2025-01-07 05:20:00,20,44.33,797.94,Cloudy,Weekday,Debit Card,Busy
+S00151,C1096,ST105,Mumbai,Maharashtra,Hyundai,Kona Electric,39,50,92,AC,Type 2,2025-01-07 06:00:00,2025-01-07 06:36:00,36,25.45,458.1,Sunny,Weekday,Credit Card,Maintenance
+S00152,C1055,ST106,Mumbai,Maharashtra,Hyundai,Kona Electric,39,63,81,DC Fast,Type 2,2025-01-07 07:00:00,2025-01-07 07:22:00,22,36.37,654.66,Rainy,Weekday,Credit Card,Available
+S00153,C1093,ST110,Chennai,Tamil Nadu,Hyundai,Kona Electric,39,75,85,AC,CCS2,2025-01-07 08:00:00,2025-01-07 08:40:00,40,52.07,937.26,Cloudy,Weekday,Debit Card,Maintenance
+S00154,C1061,ST105,Delhi,Delhi,MG,Comet EV,17,77,88,DC Fast,CCS2,2025-01-07 09:00:00,2025-01-07 11:55:00,175,49.65,893.7,Rainy,Weekday,Net Banking,Available
+S00155,C1027,ST107,Pune,Maharashtra,Tata,Nexon EV,30,31,84,DC Fast,Type 2,2025-01-07 10:00:00,2025-01-07 12:53:00,173,16.61,298.98,Cloudy,Weekday,Debit Card,Maintenance
+S00156,C1042,ST110,Bangalore,Karnataka,Tata,Punch EV,35,48,94,AC,Type 2,2025-01-07 11:00:00,2025-01-07 12:26:00,86,52.4,943.2,Rainy,Weekday,Debit Card,Maintenance
+S00157,C1074,ST102,Coimbatore,Tamil Nadu,BYD,Seal EV,82,28,93,AC,Type 2,2025-01-07 12:00:00,2025-01-07 14:05:00,125,48.5,873.0,Sunny,Weekday,Debit Card,Maintenance
+S00158,C1025,ST106,Kochi,Kerala,Tata,Nexon EV,30,44,81,DC Fast,CCS2,2025-01-07 13:00:00,2025-01-07 14:15:00,75,25.1,451.8,Rainy,Weekday,Net Banking,Busy
+S00159,C1098,ST103,Pune,Maharashtra,Tata,Punch EV,35,30,91,DC Fast,CCS2,2025-01-07 14:00:00,2025-01-07 14:27:00,27,40.39,727.02,Sunny,Weekday,Net Banking,Busy
+S00160,C1040,ST105,Delhi,Delhi,MG,Comet EV,17,32,100,DC Fast,CCS2,2025-01-07 15:00:00,2025-01-07 17:47:00,167,35.82,644.76,Cloudy,Weekday,Net Banking,Available
+S00161,C1018,ST102,Kochi,Kerala,MG,ZS EV,50,35,91,AC,CCS2,2025-01-07 16:00:00,2025-01-07 16:42:00,42,34.35,618.3,Cloudy,Weekday,Credit Card,Busy
+S00162,C1090,ST102,Mumbai,Maharashtra,BYD,Atto 3,60,73,83,DC Fast,Type 2,2025-01-07 17:00:00,2025-01-07 17:34:00,34,51.05,918.9,Rainy,Weekday,Credit Card,Busy
+S00163,C1020,ST108,Hyderabad,Telangana,Tata,Punch EV,35,37,90,DC Fast,CCS2,2025-01-07 18:00:00,2025-01-07 18:23:00,23,49.07,883.26,Sunny,Weekday,Debit Card,Busy
+S00164,C1050,ST103,Chennai,Tamil Nadu,BYD,Atto 3,60,73,98,DC Fast,CCS2,2025-01-07 19:00:00,2025-01-07 19:55:00,55,12.75,229.5,Cloudy,Weekday,Credit Card,Busy
+S00165,C1037,ST110,Pune,Maharashtra,Tata,Nexon EV,30,20,85,DC Fast,CCS2,2025-01-07 20:00:00,2025-01-07 21:31:00,91,47.85,861.3,Sunny,Weekday,Debit Card,Maintenance
+S00166,C1044,ST103,Bangalore,Karnataka,MG,ZS EV,50,48,89,AC,Type 2,2025-01-07 21:00:00,2025-01-07 23:51:00,171,10.08,181.44,Cloudy,Weekday,UPI,Busy
+S00167,C1007,ST107,Bangalore,Karnataka,MG,ZS EV,50,14,92,DC Fast,CCS2,2025-01-07 22:00:00,2025-01-07 23:19:00,79,57.88,1041.84,Cloudy,Weekday,Debit Card,Busy
+S00168,C1064,ST109,Kochi,Kerala,Tata,Nexon EV,30,37,80,DC Fast,Type 2,2025-01-07 23:00:00,2025-01-08 01:16:00,136,20.13,362.34,Sunny,Weekday,Debit Card,Available
+S00169,C1033,ST105,Delhi,Delhi,Tata,Nexon EV,30,74,80,DC Fast,Type 2,2025-01-08 00:00:00,2025-01-08 01:43:00,103,51.72,930.96,Cloudy,Weekday,Debit Card,Busy
+S00170,C1092,ST108,Bangalore,Karnataka,BYD,Atto 3,60,37,80,DC Fast,Type 2,2025-01-08 01:00:00,2025-01-08 01:47:00,47,35.81,644.58,Rainy,Weekday,Credit Card,Busy
+S00171,C1045,ST101,Chennai,Tamil Nadu,Hyundai,Kona Electric,39,60,82,DC Fast,CCS2,2025-01-08 02:00:00,2025-01-08 03:10:00,70,34.98,629.64,Sunny,Weekday,Credit Card,Available
+S00172,C1059,ST110,Hyderabad,Telangana,Mahindra,BE 6,59,75,87,DC Fast,CCS2,2025-01-08 03:00:00,2025-01-08 05:49:00,169,12.31,221.58,Sunny,Weekday,Debit Card,Busy
+S00173,C1021,ST106,Bangalore,Karnataka,BYD,Seal EV,82,70,83,DC Fast,CCS2,2025-01-08 04:00:00,2025-01-08 06:47:00,167,36.07,649.26,Cloudy,Weekday,Credit Card,Busy
+S00174,C1030,ST106,Kochi,Kerala,Mahindra,XUV400,40,76,95,AC,CCS2,2025-01-08 05:00:00,2025-01-08 05:44:00,44,36.13,650.34,Sunny,Weekday,Debit Card,Maintenance
+S00175,C1056,ST102,Kochi,Kerala,BYD,Seal EV,82,69,99,AC,CCS2,2025-01-08 06:00:00,2025-01-08 08:57:00,177,18.41,331.38,Rainy,Weekday,UPI,Available
+S00176,C1067,ST108,Mumbai,Maharashtra,BYD,Seal EV,82,13,98,AC,CCS2,2025-01-08 07:00:00,2025-01-08 08:29:00,89,15.07,271.26,Rainy,Weekday,Net Banking,Maintenance
+S00177,C1025,ST103,Coimbatore,Tamil Nadu,Mahindra,BE 6,59,45,99,AC,CCS2,2025-01-08 08:00:00,2025-01-08 10:29:00,149,42.08,757.44,Rainy,Weekday,Net Banking,Available
+S00178,C1034,ST107,Pune,Maharashtra,Mahindra,BE 6,59,11,92,AC,Type 2,2025-01-08 09:00:00,2025-01-08 11:27:00,147,54.24,976.32,Rainy,Weekday,UPI,Busy
+S00179,C1027,ST109,Kochi,Kerala,MG,Comet EV,17,13,84,AC,CCS2,2025-01-08 10:00:00,2025-01-08 12:02:00,122,53.14,956.52,Cloudy,Weekday,UPI,Available
+S00180,C1068,ST105,Chennai,Tamil Nadu,Hyundai,Kona Electric,39,60,83,DC Fast,CCS2,2025-01-08 11:00:00,2025-01-08 11:35:00,35,22.45,404.1,Cloudy,Weekday,Net Banking,Available
+S00181,C1080,ST105,Pune,Maharashtra,Mahindra,BE 6,59,34,81,AC,Type 2,2025-01-08 12:00:00,2025-01-08 14:26:00,146,25.95,467.1,Rainy,Weekday,Credit Card,Available
+S00182,C1020,ST110,Chennai,Tamil Nadu,MG,Comet EV,17,45,87,AC,CCS2,2025-01-08 13:00:00,2025-01-08 15:25:00,145,12.63,227.34,Cloudy,Weekday,Credit Card,Busy
+S00183,C1006,ST105,Kochi,Kerala,Hyundai,Ioniq 5,72,15,97,DC Fast,Type 2,2025-01-08 14:00:00,2025-01-08 16:06:00,126,59.26,1066.68,Sunny,Weekday,Debit Card,Maintenance
+S00184,C1008,ST108,Coimbatore,Tamil Nadu,MG,Comet EV,17,56,87,DC Fast,CCS2,2025-01-08 15:00:00,2025-01-08 16:46:00,106,28.76,517.68,Rainy,Weekday,Debit Card,Busy
+S00185,C1014,ST103,Pune,Maharashtra,Tata,Tiago EV,24,61,85,AC,CCS2,2025-01-08 16:00:00,2025-01-08 17:52:00,112,33.01,594.18,Cloudy,Weekday,Credit Card,Available
+S00186,C1045,ST106,Pune,Maharashtra,Mahindra,XUV400,40,80,83,AC,Type 2,2025-01-08 17:00:00,2025-01-08 18:47:00,107,32.51,585.18,Sunny,Weekday,Debit Card,Busy
+S00187,C1060,ST101,Hyderabad,Telangana,MG,ZS EV,50,46,99,DC Fast,Type 2,2025-01-08 18:00:00,2025-01-08 18:29:00,29,19.36,348.48,Sunny,Weekday,UPI,Available
+S00188,C1010,ST107,Mumbai,Maharashtra,Hyundai,Ioniq 5,72,10,92,AC,CCS2,2025-01-08 19:00:00,2025-01-08 20:19:00,79,30.21,543.78,Rainy,Weekday,Debit Card,Busy
+S00189,C1045,ST106,Coimbatore,Tamil Nadu,Tata,Punch EV,35,80,80,DC Fast,Type 2,2025-01-08 20:00:00,2025-01-08 22:44:00,164,16.94,304.92,Cloudy,Weekday,UPI,Maintenance
+S00190,C1005,ST104,Pune,Maharashtra,Tata,Punch EV,35,49,100,DC Fast,CCS2,2025-01-08 21:00:00,2025-01-08 21:37:00,37,43.5,783.0,Sunny,Weekday,Net Banking,Maintenance
+S00191,C1015,ST101,Hyderabad,Telangana,Hyundai,Kona Electric,39,50,87,DC Fast,Type 2,2025-01-08 22:00:00,2025-01-08 22:35:00,35,35.48,638.64,Rainy,Weekday,Net Banking,Busy
+S00192,C1015,ST106,Mumbai,Maharashtra,Mahindra,XUV400,40,24,99,AC,CCS2,2025-01-08 23:00:00,2025-01-09 00:20:00,80,15.89,286.02,Cloudy,Weekday,UPI,Maintenance
+S00193,C1091,ST110,Delhi,Delhi,MG,Comet EV,17,71,83,DC Fast,CCS2,2025-01-09 00:00:00,2025-01-09 02:57:00,177,56.84,1023.12,Sunny,Weekday,Net Banking,Available
+S00194,C1014,ST104,Bangalore,Karnataka,Hyundai,Ioniq 5,72,80,82,DC Fast,CCS2,2025-01-09 01:00:00,2025-01-09 02:58:00,118,15.56,280.08,Sunny,Weekday,Credit Card,Maintenance
+S00195,C1034,ST103,Kochi,Kerala,Hyundai,Kona Electric,39,77,94,DC Fast,CCS2,2025-01-09 02:00:00,2025-01-09 03:46:00,106,18.38,330.84,Cloudy,Weekday,Credit Card,Busy
+S00196,C1076,ST106,Mumbai,Maharashtra,Hyundai,Ioniq 5,72,62,93,AC,CCS2,2025-01-09 03:00:00,2025-01-09 03:34:00,34,23.51,423.18,Rainy,Weekday,Debit Card,Busy
+S00197,C1083,ST108,Mumbai,Maharashtra,MG,Comet EV,17,45,93,AC,CCS2,2025-01-09 04:00:00,2025-01-09 06:49:00,169,29.08,523.44,Cloudy,Weekday,Credit Card,Maintenance
+S00198,C1088,ST106,Pune,Maharashtra,Hyundai,Ioniq 5,72,56,91,AC,CCS2,2025-01-09 05:00:00,2025-01-09 07:37:00,157,28.77,517.86,Rainy,Weekday,UPI,Maintenance
+S00199,C1038,ST107,Coimbatore,Tamil Nadu,BYD,Atto 3,60,49,88,DC Fast,Type 2,2025-01-09 06:00:00,2025-01-09 07:53:00,113,39.03,702.54,Rainy,Weekday,UPI,Available
+S00200,C1026,ST102,Mumbai,Maharashtra,Tata,Tiago EV,24,36,100,DC Fast,CCS2,2025-01-09 07:00:00,2025-01-09 08:32:00,92,35.32,635.76,Rainy,Weekday,Net Banking,Busy
+S00201,C1008,ST105,Kochi,Kerala,Hyundai,Ioniq 5,72,29,95,AC,Type 2,2025-01-09 08:00:00,2025-01-09 10:07:00,127,34.97,629.46,Rainy,Weekday,UPI,Maintenance
+S00202,C1007,ST109,Pune,Maharashtra,BYD,Atto 3,60,50,93,AC,CCS2,2025-01-09 09:00:00,2025-01-09 10:26:00,86,31.21,561.78,Cloudy,Weekday,Debit Card,Maintenance
+S00203,C1053,ST102,Chennai,Tamil Nadu,Tata,Punch EV,35,19,100,AC,Type 2,2025-01-09 10:00:00,2025-01-09 12:15:00,135,57.36,1032.48,Sunny,Weekday,Debit Card,Maintenance
+S00204,C1058,ST106,Bangalore,Karnataka,Tata,Nexon EV,30,65,80,DC Fast,Type 2,2025-01-09 11:00:00,2025-01-09 11:39:00,39,15.94,286.92,Cloudy,Weekday,Net Banking,Available
+S00205,C1092,ST110,Delhi,Delhi,Tata,Punch EV,35,46,89,DC Fast,CCS2,2025-01-09 12:00:00,2025-01-09 13:30:00,90,52.41,943.38,Rainy,Weekday,Credit Card,Busy
+S00206,C1096,ST105,Hyderabad,Telangana,MG,Comet EV,17,68,94,DC Fast,CCS2,2025-01-09 13:00:00,2025-01-09 15:20:00,140,41.99,755.82,Rainy,Weekday,Credit Card,Maintenance
+S00207,C1052,ST103,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,18,90,AC,CCS2,2025-01-09 14:00:00,2025-01-09 15:28:00,88,48.65,875.7,Sunny,Weekday,Debit Card,Busy
+S00208,C1057,ST105,Hyderabad,Telangana,Mahindra,XUV400,40,61,83,AC,Type 2,2025-01-09 15:00:00,2025-01-09 16:14:00,74,45.22,813.96,Cloudy,Weekday,Credit Card,Busy
+S00209,C1029,ST107,Delhi,Delhi,MG,Comet EV,17,10,85,AC,Type 2,2025-01-09 16:00:00,2025-01-09 18:03:00,123,21.44,385.92,Cloudy,Weekday,Debit Card,Available
+S00210,C1083,ST108,Kochi,Kerala,Hyundai,Ioniq 5,72,24,94,AC,Type 2,2025-01-09 17:00:00,2025-01-09 18:41:00,101,43.48,782.64,Rainy,Weekday,UPI,Maintenance
+S00211,C1082,ST107,Kochi,Kerala,Tata,Tiago EV,24,54,93,DC Fast,CCS2,2025-01-09 18:00:00,2025-01-09 18:43:00,43,24.77,445.86,Cloudy,Weekday,Net Banking,Available
+S00212,C1098,ST108,Chennai,Tamil Nadu,BYD,Atto 3,60,34,97,AC,CCS2,2025-01-09 19:00:00,2025-01-09 20:57:00,117,51.96,935.28,Rainy,Weekday,Debit Card,Available
+S00213,C1093,ST103,Hyderabad,Telangana,Tata,Tiago EV,24,40,97,DC Fast,CCS2,2025-01-09 20:00:00,2025-01-09 21:25:00,85,47.77,859.86,Rainy,Weekday,UPI,Busy
+S00214,C1010,ST107,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,58,95,DC Fast,Type 2,2025-01-09 21:00:00,2025-01-09 22:00:00,60,31.91,574.38,Cloudy,Weekday,UPI,Busy
+S00215,C1022,ST104,Pune,Maharashtra,Mahindra,BE 6,59,25,80,AC,CCS2,2025-01-09 22:00:00,2025-01-09 23:11:00,71,23.95,431.1,Cloudy,Weekday,Debit Card,Available
+S00216,C1095,ST110,Pune,Maharashtra,BYD,Seal EV,82,54,98,DC Fast,Type 2,2025-01-09 23:00:00,2025-01-10 00:22:00,82,13.13,236.34,Sunny,Weekday,UPI,Maintenance
+S00217,C1093,ST102,Chennai,Tamil Nadu,BYD,Atto 3,60,17,98,AC,CCS2,2025-01-10 00:00:00,2025-01-10 01:55:00,115,41.09,739.62,Rainy,Weekday,Net Banking,Available
+S00218,C1093,ST102,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,26,84,DC Fast,CCS2,2025-01-10 01:00:00,2025-01-10 02:36:00,96,49.02,882.36,Rainy,Weekday,Credit Card,Available
+S00219,C1018,ST105,Kochi,Kerala,Tata,Tiago EV,24,59,83,DC Fast,Type 2,2025-01-10 02:00:00,2025-01-10 03:34:00,94,50.62,911.16,Sunny,Weekday,UPI,Available
+S00220,C1090,ST107,Bangalore,Karnataka,Hyundai,Kona Electric,39,29,88,AC,CCS2,2025-01-10 03:00:00,2025-01-10 05:48:00,168,34.27,616.86,Rainy,Weekday,Credit Card,Maintenance
+S00221,C1027,ST108,Chennai,Tamil Nadu,BYD,Atto 3,60,61,84,AC,Type 2,2025-01-10 04:00:00,2025-01-10 06:59:00,179,51.14,920.52,Rainy,Weekday,Debit Card,Available
+S00222,C1015,ST107,Bangalore,Karnataka,Hyundai,Kona Electric,39,39,88,DC Fast,Type 2,2025-01-10 05:00:00,2025-01-10 06:58:00,118,52.8,950.4,Rainy,Weekday,Debit Card,Available
+S00223,C1054,ST102,Delhi,Delhi,Hyundai,Ioniq 5,72,28,96,DC Fast,Type 2,2025-01-10 06:00:00,2025-01-10 08:08:00,128,18.05,324.9,Rainy,Weekday,Debit Card,Maintenance
+S00224,C1023,ST103,Kochi,Kerala,BYD,Seal EV,82,33,85,DC Fast,Type 2,2025-01-10 07:00:00,2025-01-10 08:48:00,108,45.03,810.54,Rainy,Weekday,Credit Card,Busy
+S00225,C1080,ST106,Pune,Maharashtra,Tata,Nexon EV,30,23,98,AC,Type 2,2025-01-10 08:00:00,2025-01-10 08:41:00,41,16.27,292.86,Sunny,Weekday,Credit Card,Busy
+S00226,C1061,ST103,Bangalore,Karnataka,Mahindra,XUV400,40,29,97,AC,CCS2,2025-01-10 09:00:00,2025-01-10 10:59:00,119,46.53,837.54,Rainy,Weekday,Net Banking,Available
+S00227,C1034,ST108,Kochi,Kerala,BYD,Atto 3,60,69,92,DC Fast,Type 2,2025-01-10 10:00:00,2025-01-10 11:58:00,118,15.15,272.7,Rainy,Weekday,Debit Card,Busy
+S00228,C1053,ST109,Kochi,Kerala,BYD,Atto 3,60,58,99,DC Fast,CCS2,2025-01-10 11:00:00,2025-01-10 12:04:00,64,45.36,816.48,Rainy,Weekday,UPI,Maintenance
+S00229,C1028,ST104,Chennai,Tamil Nadu,BYD,Atto 3,60,52,86,DC Fast,Type 2,2025-01-10 12:00:00,2025-01-10 13:31:00,91,57.57,1036.26,Sunny,Weekday,UPI,Busy
+S00230,C1079,ST108,Pune,Maharashtra,MG,ZS EV,50,51,96,AC,CCS2,2025-01-10 13:00:00,2025-01-10 14:40:00,100,25.6,460.8,Cloudy,Weekday,Debit Card,Maintenance
+S00231,C1054,ST102,Kochi,Kerala,Tata,Tiago EV,24,55,82,DC Fast,CCS2,2025-01-10 14:00:00,2025-01-10 16:46:00,166,33.85,609.3,Sunny,Weekday,Debit Card,Busy
+S00232,C1044,ST109,Delhi,Delhi,Tata,Tiago EV,24,14,82,AC,Type 2,2025-01-10 15:00:00,2025-01-10 17:31:00,151,32.84,591.12,Sunny,Weekday,Credit Card,Maintenance
+S00233,C1028,ST106,Kochi,Kerala,BYD,Atto 3,60,15,83,AC,Type 2,2025-01-10 16:00:00,2025-01-10 17:37:00,97,18.85,339.3,Cloudy,Weekday,UPI,Available
+S00234,C1092,ST108,Coimbatore,Tamil Nadu,BYD,Seal EV,82,32,99,AC,Type 2,2025-01-10 17:00:00,2025-01-10 17:39:00,39,43.02,774.36,Rainy,Weekday,Credit Card,Available
+S00235,C1073,ST109,Pune,Maharashtra,BYD,Atto 3,60,77,90,AC,Type 2,2025-01-10 18:00:00,2025-01-10 19:54:00,114,34.85,627.3,Rainy,Weekday,Debit Card,Busy
+S00236,C1022,ST102,Bangalore,Karnataka,BYD,Seal EV,82,15,93,AC,CCS2,2025-01-10 19:00:00,2025-01-10 19:46:00,46,58.89,1060.02,Cloudy,Weekday,Net Banking,Busy
+S00237,C1050,ST103,Chennai,Tamil Nadu,Hyundai,Kona Electric,39,49,91,DC Fast,CCS2,2025-01-10 20:00:00,2025-01-10 21:05:00,65,57.25,1030.5,Rainy,Weekday,Net Banking,Available
+S00238,C1069,ST104,Mumbai,Maharashtra,Tata,Tiago EV,24,18,93,AC,CCS2,2025-01-10 21:00:00,2025-01-10 22:12:00,72,43.37,780.66,Cloudy,Weekday,UPI,Maintenance
+S00239,C1097,ST109,Chennai,Tamil Nadu,BYD,Atto 3,60,59,80,DC Fast,CCS2,2025-01-10 22:00:00,2025-01-11 00:13:00,133,27.19,489.42,Cloudy,Weekday,Debit Card,Busy
+S00240,C1045,ST102,Hyderabad,Telangana,BYD,Seal EV,82,15,97,DC Fast,Type 2,2025-01-10 23:00:00,2025-01-11 00:37:00,97,48.9,880.2,Rainy,Weekday,Credit Card,Available
+S00241,C1024,ST103,Mumbai,Maharashtra,Tata,Tiago EV,24,40,91,AC,CCS2,2025-01-11 00:00:00,2025-01-11 00:24:00,24,28.13,506.34,Cloudy,Weekend,Credit Card,Maintenance
+S00242,C1077,ST106,Mumbai,Maharashtra,BYD,Atto 3,60,46,81,DC Fast,Type 2,2025-01-11 01:00:00,2025-01-11 03:59:00,179,14.09,253.62,Cloudy,Weekend,UPI,Maintenance
+S00243,C1015,ST102,Mumbai,Maharashtra,Tata,Punch EV,35,68,89,DC Fast,CCS2,2025-01-11 02:00:00,2025-01-11 02:23:00,23,15.17,273.06,Rainy,Weekend,UPI,Maintenance
+S00244,C1088,ST103,Chennai,Tamil Nadu,Hyundai,Kona Electric,39,56,94,AC,CCS2,2025-01-11 03:00:00,2025-01-11 03:45:00,45,12.62,227.16,Cloudy,Weekend,Credit Card,Maintenance
+S00245,C1028,ST105,Coimbatore,Tamil Nadu,Mahindra,BE 6,59,26,88,AC,CCS2,2025-01-11 04:00:00,2025-01-11 04:42:00,42,56.49,1016.82,Rainy,Weekend,Net Banking,Busy
+S00246,C1032,ST102,Hyderabad,Telangana,Tata,Nexon EV,30,42,98,AC,Type 2,2025-01-11 05:00:00,2025-01-11 06:21:00,81,27.18,489.24,Sunny,Weekend,Net Banking,Maintenance
+S00247,C1053,ST108,Hyderabad,Telangana,Tata,Tiago EV,24,52,96,DC Fast,CCS2,2025-01-11 06:00:00,2025-01-11 08:25:00,145,14.09,253.62,Sunny,Weekend,Debit Card,Busy
+S00248,C1031,ST110,Coimbatore,Tamil Nadu,Mahindra,XUV400,40,56,83,AC,Type 2,2025-01-11 07:00:00,2025-01-11 08:05:00,65,31.2,561.6,Sunny,Weekend,Net Banking,Maintenance
+S00249,C1084,ST103,Mumbai,Maharashtra,BYD,Seal EV,82,10,85,AC,CCS2,2025-01-11 08:00:00,2025-01-11 10:35:00,155,49.73,895.14,Cloudy,Weekend,Debit Card,Maintenance
+S00250,C1096,ST107,Hyderabad,Telangana,MG,Comet EV,17,41,89,AC,Type 2,2025-01-11 09:00:00,2025-01-11 09:25:00,25,35.49,638.82,Cloudy,Weekend,Debit Card,Available
+S00251,C1039,ST106,Delhi,Delhi,BYD,Seal EV,82,20,85,AC,Type 2,2025-01-11 10:00:00,2025-01-11 12:33:00,153,39.46,710.28,Cloudy,Weekend,Credit Card,Maintenance
+S00252,C1024,ST104,Delhi,Delhi,Mahindra,XUV400,40,30,97,AC,Type 2,2025-01-11 11:00:00,2025-01-11 11:27:00,27,21.87,393.66,Rainy,Weekend,Net Banking,Available
+S00253,C1022,ST104,Chennai,Tamil Nadu,MG,ZS EV,50,73,94,DC Fast,CCS2,2025-01-11 12:00:00,2025-01-11 13:23:00,83,12.7,228.6,Sunny,Weekend,UPI,Maintenance
+S00254,C1051,ST107,Chennai,Tamil Nadu,Mahindra,XUV400,40,55,94,AC,CCS2,2025-01-11 13:00:00,2025-01-11 13:39:00,39,38.92,700.56,Sunny,Weekend,UPI,Available
+S00255,C1054,ST108,Coimbatore,Tamil Nadu,MG,ZS EV,50,31,91,AC,CCS2,2025-01-11 14:00:00,2025-01-11 15:56:00,116,56.95,1025.1,Sunny,Weekend,Debit Card,Available
+S00256,C1070,ST103,Delhi,Delhi,Mahindra,XUV400,40,49,92,AC,Type 2,2025-01-11 15:00:00,2025-01-11 16:40:00,100,33.64,605.52,Cloudy,Weekend,UPI,Available
+S00257,C1046,ST107,Bangalore,Karnataka,Mahindra,XUV400,40,19,89,DC Fast,Type 2,2025-01-11 16:00:00,2025-01-11 18:51:00,171,49.89,898.02,Sunny,Weekend,Debit Card,Available
+S00258,C1054,ST103,Bangalore,Karnataka,Mahindra,XUV400,40,40,85,AC,Type 2,2025-01-11 17:00:00,2025-01-11 17:40:00,40,23.03,414.54,Rainy,Weekend,UPI,Maintenance
+S00259,C1062,ST110,Kochi,Kerala,Mahindra,BE 6,59,33,93,DC Fast,Type 2,2025-01-11 18:00:00,2025-01-11 19:13:00,73,25.02,450.36,Sunny,Weekend,Credit Card,Busy
+S00260,C1080,ST101,Pune,Maharashtra,Tata,Nexon EV,30,51,99,DC Fast,CCS2,2025-01-11 19:00:00,2025-01-11 21:31:00,151,36.31,653.58,Rainy,Weekend,Net Banking,Available
+S00261,C1022,ST106,Delhi,Delhi,Hyundai,Kona Electric,39,57,91,AC,CCS2,2025-01-11 20:00:00,2025-01-11 20:45:00,45,57.92,1042.56,Rainy,Weekend,Debit Card,Busy
+S00262,C1013,ST109,Kochi,Kerala,BYD,Atto 3,60,35,94,DC Fast,Type 2,2025-01-11 21:00:00,2025-01-11 22:01:00,61,34.78,626.04,Sunny,Weekend,UPI,Busy
+S00263,C1096,ST108,Kochi,Kerala,Tata,Tiago EV,24,63,90,DC Fast,Type 2,2025-01-11 22:00:00,2025-01-11 23:08:00,68,20.75,373.5,Cloudy,Weekend,Net Banking,Busy
+S00264,C1063,ST102,Mumbai,Maharashtra,Hyundai,Ioniq 5,72,34,86,DC Fast,Type 2,2025-01-11 23:00:00,2025-01-12 01:33:00,153,38.25,688.5,Cloudy,Weekend,Net Banking,Busy
+S00265,C1070,ST108,Mumbai,Maharashtra,MG,Comet EV,17,10,84,AC,Type 2,2025-01-12 00:00:00,2025-01-12 00:47:00,47,22.24,400.32,Cloudy,Weekend,Debit Card,Maintenance
+S00266,C1099,ST101,Kochi,Kerala,Mahindra,BE 6,59,79,86,AC,CCS2,2025-01-12 01:00:00,2025-01-12 02:04:00,64,16.24,292.32,Sunny,Weekend,Credit Card,Maintenance
+S00267,C1071,ST102,Delhi,Delhi,BYD,Atto 3,60,32,89,DC Fast,CCS2,2025-01-12 02:00:00,2025-01-12 03:53:00,113,18.76,337.68,Sunny,Weekend,UPI,Available
+S00268,C1028,ST101,Bangalore,Karnataka,BYD,Seal EV,82,57,97,AC,Type 2,2025-01-12 03:00:00,2025-01-12 04:57:00,117,51.77,931.86,Sunny,Weekend,Debit Card,Available
+S00269,C1037,ST110,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,16,92,AC,CCS2,2025-01-12 04:00:00,2025-01-12 06:05:00,125,11.38,204.84,Cloudy,Weekend,Credit Card,Available
+S00270,C1071,ST108,Bangalore,Karnataka,Mahindra,BE 6,59,36,94,DC Fast,Type 2,2025-01-12 05:00:00,2025-01-12 05:40:00,40,26.63,479.34,Cloudy,Weekend,Debit Card,Busy
+S00271,C1004,ST106,Pune,Maharashtra,Tata,Nexon EV,30,67,92,DC Fast,CCS2,2025-01-12 06:00:00,2025-01-12 07:02:00,62,42.83,770.94,Sunny,Weekend,Debit Card,Busy
+S00272,C1082,ST108,Kochi,Kerala,Mahindra,XUV400,40,49,90,AC,CCS2,2025-01-12 07:00:00,2025-01-12 07:23:00,23,23.43,421.74,Sunny,Weekend,Debit Card,Maintenance
+S00273,C1026,ST105,Pune,Maharashtra,BYD,Seal EV,82,19,88,DC Fast,CCS2,2025-01-12 08:00:00,2025-01-12 08:40:00,40,51.71,930.78,Rainy,Weekend,Credit Card,Available
+S00274,C1010,ST107,Pune,Maharashtra,Tata,Tiago EV,24,66,85,DC Fast,Type 2,2025-01-12 09:00:00,2025-01-12 09:39:00,39,43.9,790.2,Cloudy,Weekend,Debit Card,Maintenance
+S00275,C1097,ST101,Delhi,Delhi,MG,ZS EV,50,25,82,DC Fast,Type 2,2025-01-12 10:00:00,2025-01-12 12:29:00,149,31.91,574.38,Rainy,Weekend,Net Banking,Available
+S00276,C1087,ST108,Chennai,Tamil Nadu,Mahindra,XUV400,40,41,84,AC,Type 2,2025-01-12 11:00:00,2025-01-12 12:15:00,75,14.38,258.84,Rainy,Weekend,UPI,Available
+S00277,C1006,ST102,Bangalore,Karnataka,MG,Comet EV,17,24,94,AC,Type 2,2025-01-12 12:00:00,2025-01-12 13:03:00,63,18.84,339.12,Sunny,Weekend,Credit Card,Maintenance
+S00278,C1045,ST106,Chennai,Tamil Nadu,Hyundai,Kona Electric,39,26,80,DC Fast,CCS2,2025-01-12 13:00:00,2025-01-12 15:36:00,156,19.0,342.0,Cloudy,Weekend,Debit Card,Maintenance
+S00279,C1053,ST106,Pune,Maharashtra,Tata,Tiago EV,24,22,89,DC Fast,Type 2,2025-01-12 14:00:00,2025-01-12 15:41:00,101,52.37,942.66,Cloudy,Weekend,UPI,Available
+S00280,C1072,ST107,Pune,Maharashtra,MG,ZS EV,50,39,81,DC Fast,CCS2,2025-01-12 15:00:00,2025-01-12 16:49:00,109,54.49,980.82,Cloudy,Weekend,Credit Card,Busy
+S00281,C1090,ST106,Hyderabad,Telangana,MG,Comet EV,17,70,85,DC Fast,CCS2,2025-01-12 16:00:00,2025-01-12 16:47:00,47,56.22,1011.96,Cloudy,Weekend,Net Banking,Maintenance
+S00282,C1088,ST107,Coimbatore,Tamil Nadu,Mahindra,BE 6,59,28,82,DC Fast,CCS2,2025-01-12 17:00:00,2025-01-12 19:40:00,160,54.38,978.84,Rainy,Weekend,Net Banking,Available
+S00283,C1066,ST101,Hyderabad,Telangana,MG,Comet EV,17,17,96,DC Fast,Type 2,2025-01-12 18:00:00,2025-01-12 20:49:00,169,53.72,966.96,Sunny,Weekend,Debit Card,Busy
+S00284,C1059,ST102,Bangalore,Karnataka,MG,ZS EV,50,73,83,AC,CCS2,2025-01-12 19:00:00,2025-01-12 21:25:00,145,42.66,767.88,Sunny,Weekend,Net Banking,Available
+S00285,C1036,ST110,Chennai,Tamil Nadu,Tata,Nexon EV,30,10,83,AC,Type 2,2025-01-12 20:00:00,2025-01-12 20:45:00,45,49.35,888.3,Sunny,Weekend,Net Banking,Maintenance
+S00286,C1089,ST104,Chennai,Tamil Nadu,Mahindra,BE 6,59,47,99,AC,Type 2,2025-01-12 21:00:00,2025-01-12 23:06:00,126,23.65,425.7,Sunny,Weekend,Credit Card,Maintenance
+S00287,C1066,ST102,Pune,Maharashtra,Hyundai,Kona Electric,39,15,100,AC,CCS2,2025-01-12 22:00:00,2025-01-12 22:29:00,29,37.4,673.2,Sunny,Weekend,Net Banking,Available
+S00288,C1069,ST108,Delhi,Delhi,Hyundai,Ioniq 5,72,34,81,AC,Type 2,2025-01-12 23:00:00,2025-01-13 00:50:00,110,22.61,406.98,Sunny,Weekend,Credit Card,Maintenance
+S00289,C1084,ST104,Chennai,Tamil Nadu,MG,ZS EV,50,43,91,AC,CCS2,2025-01-13 00:00:00,2025-01-13 00:57:00,57,24.29,437.22,Cloudy,Weekday,Net Banking,Maintenance
+S00290,C1086,ST101,Kochi,Kerala,Tata,Nexon EV,30,77,91,AC,CCS2,2025-01-13 01:00:00,2025-01-13 02:27:00,87,10.13,182.34,Sunny,Weekday,Debit Card,Maintenance
+S00291,C1047,ST101,Bangalore,Karnataka,BYD,Seal EV,82,18,87,DC Fast,Type 2,2025-01-13 02:00:00,2025-01-13 04:16:00,136,59.92,1078.56,Cloudy,Weekday,Net Banking,Available
+S00292,C1076,ST101,Coimbatore,Tamil Nadu,Tata,Nexon EV,30,25,83,DC Fast,Type 2,2025-01-13 03:00:00,2025-01-13 05:12:00,132,18.33,329.94,Sunny,Weekday,Debit Card,Busy
+S00293,C1049,ST108,Pune,Maharashtra,BYD,Atto 3,60,28,91,DC Fast,CCS2,2025-01-13 04:00:00,2025-01-13 04:22:00,22,34.49,620.82,Rainy,Weekday,Credit Card,Available
+S00294,C1086,ST103,Delhi,Delhi,Mahindra,BE 6,59,79,97,AC,CCS2,2025-01-13 05:00:00,2025-01-13 06:26:00,86,12.06,217.08,Rainy,Weekday,Credit Card,Busy
+S00295,C1017,ST104,Hyderabad,Telangana,Tata,Punch EV,35,62,93,DC Fast,CCS2,2025-01-13 06:00:00,2025-01-13 08:35:00,155,23.5,423.0,Rainy,Weekday,Credit Card,Maintenance
+S00296,C1063,ST102,Pune,Maharashtra,MG,Comet EV,17,47,98,AC,Type 2,2025-01-13 07:00:00,2025-01-13 07:34:00,34,41.69,750.42,Rainy,Weekday,Debit Card,Maintenance
+S00297,C1089,ST102,Bangalore,Karnataka,Mahindra,XUV400,40,69,82,DC Fast,CCS2,2025-01-13 08:00:00,2025-01-13 09:48:00,108,50.97,917.46,Cloudy,Weekday,Debit Card,Busy
+S00298,C1077,ST110,Chennai,Tamil Nadu,MG,ZS EV,50,16,91,DC Fast,CCS2,2025-01-13 09:00:00,2025-01-13 11:09:00,129,24.92,448.56,Cloudy,Weekday,Debit Card,Maintenance
+S00299,C1086,ST108,Kochi,Kerala,Tata,Tiago EV,24,66,83,DC Fast,Type 2,2025-01-13 10:00:00,2025-01-13 10:46:00,46,25.67,462.06,Cloudy,Weekday,Credit Card,Available
+S00300,C1020,ST103,Delhi,Delhi,BYD,Seal EV,82,77,93,DC Fast,Type 2,2025-01-13 11:00:00,2025-01-13 12:46:00,106,55.15,992.7,Rainy,Weekday,Debit Card,Maintenance
+S00301,C1012,ST105,Hyderabad,Telangana,BYD,Atto 3,60,50,82,DC Fast,CCS2,2025-01-13 12:00:00,2025-01-13 14:59:00,179,35.36,636.48,Rainy,Weekday,Credit Card,Busy
+S00302,C1003,ST104,Kochi,Kerala,Tata,Punch EV,35,11,86,DC Fast,Type 2,2025-01-13 13:00:00,2025-01-13 15:23:00,143,53.23,958.14,Sunny,Weekday,Net Banking,Available
+S00303,C1070,ST110,Chennai,Tamil Nadu,MG,Comet EV,17,79,90,AC,Type 2,2025-01-13 14:00:00,2025-01-13 15:52:00,112,26.56,478.08,Rainy,Weekday,Net Banking,Busy
+S00304,C1039,ST107,Bangalore,Karnataka,Hyundai,Kona Electric,39,57,80,DC Fast,Type 2,2025-01-13 15:00:00,2025-01-13 15:45:00,45,20.0,360.0,Cloudy,Weekday,UPI,Available
+S00305,C1058,ST110,Pune,Maharashtra,Tata,Nexon EV,30,24,95,DC Fast,Type 2,2025-01-13 16:00:00,2025-01-13 16:36:00,36,13.65,245.7,Cloudy,Weekday,Credit Card,Busy
+S00306,C1022,ST106,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,41,94,DC Fast,Type 2,2025-01-13 17:00:00,2025-01-13 19:16:00,136,16.21,291.78,Cloudy,Weekday,UPI,Maintenance
+S00307,C1010,ST102,Chennai,Tamil Nadu,BYD,Seal EV,82,39,87,DC Fast,Type 2,2025-01-13 18:00:00,2025-01-13 18:29:00,29,38.13,686.34,Cloudy,Weekday,Net Banking,Maintenance
+S00308,C1010,ST105,Coimbatore,Tamil Nadu,MG,ZS EV,50,62,92,AC,CCS2,2025-01-13 19:00:00,2025-01-13 19:22:00,22,56.72,1020.96,Cloudy,Weekday,Net Banking,Available
+S00309,C1076,ST107,Mumbai,Maharashtra,MG,ZS EV,50,50,88,AC,CCS2,2025-01-13 20:00:00,2025-01-13 22:54:00,174,40.2,723.6,Cloudy,Weekday,Credit Card,Available
+S00310,C1099,ST102,Bangalore,Karnataka,Mahindra,BE 6,59,70,82,DC Fast,CCS2,2025-01-13 21:00:00,2025-01-13 22:29:00,89,13.77,247.86,Cloudy,Weekday,Net Banking,Available
+S00311,C1004,ST109,Hyderabad,Telangana,Mahindra,BE 6,59,30,89,AC,CCS2,2025-01-13 22:00:00,2025-01-13 23:32:00,92,10.73,193.14,Cloudy,Weekday,Credit Card,Available
+S00312,C1072,ST102,Hyderabad,Telangana,Hyundai,Ioniq 5,72,45,95,AC,Type 2,2025-01-13 23:00:00,2025-01-14 00:56:00,116,19.22,345.96,Rainy,Weekday,Debit Card,Available
+S00313,C1043,ST107,Coimbatore,Tamil Nadu,Tata,Punch EV,35,68,88,AC,CCS2,2025-01-14 00:00:00,2025-01-14 01:09:00,69,10.98,197.64,Sunny,Weekday,Credit Card,Maintenance
+S00314,C1055,ST108,Kochi,Kerala,MG,Comet EV,17,15,87,AC,Type 2,2025-01-14 01:00:00,2025-01-14 03:53:00,173,42.03,756.54,Cloudy,Weekday,Debit Card,Available
+S00315,C1015,ST105,Mumbai,Maharashtra,MG,Comet EV,17,52,100,AC,CCS2,2025-01-14 02:00:00,2025-01-14 02:51:00,51,39.74,715.32,Cloudy,Weekday,Debit Card,Available
+S00316,C1034,ST108,Delhi,Delhi,BYD,Seal EV,82,74,94,AC,Type 2,2025-01-14 03:00:00,2025-01-14 04:29:00,89,13.61,244.98,Rainy,Weekday,UPI,Maintenance
+S00317,C1022,ST107,Kochi,Kerala,Tata,Tiago EV,24,18,87,AC,Type 2,2025-01-14 04:00:00,2025-01-14 06:29:00,149,29.3,527.4,Cloudy,Weekday,Credit Card,Maintenance
+S00318,C1001,ST106,Pune,Maharashtra,BYD,Atto 3,60,14,90,DC Fast,CCS2,2025-01-14 05:00:00,2025-01-14 06:03:00,63,16.41,295.38,Rainy,Weekday,UPI,Busy
+S00319,C1100,ST110,Delhi,Delhi,Mahindra,XUV400,40,59,89,AC,Type 2,2025-01-14 06:00:00,2025-01-14 06:20:00,20,59.23,1066.14,Sunny,Weekday,Credit Card,Maintenance
+S00320,C1026,ST107,Chennai,Tamil Nadu,BYD,Seal EV,82,71,81,DC Fast,Type 2,2025-01-14 07:00:00,2025-01-14 07:42:00,42,34.01,612.18,Cloudy,Weekday,Debit Card,Busy
+S00321,C1036,ST105,Coimbatore,Tamil Nadu,Mahindra,XUV400,40,77,92,DC Fast,Type 2,2025-01-14 08:00:00,2025-01-14 10:21:00,141,36.96,665.28,Rainy,Weekday,Credit Card,Available
+S00322,C1017,ST109,Hyderabad,Telangana,BYD,Seal EV,82,65,93,AC,Type 2,2025-01-14 09:00:00,2025-01-14 11:56:00,176,17.24,310.32,Rainy,Weekday,Net Banking,Available
+S00323,C1056,ST101,Pune,Maharashtra,Tata,Tiago EV,24,78,100,AC,Type 2,2025-01-14 10:00:00,2025-01-14 12:41:00,161,53.54,963.72,Cloudy,Weekday,Debit Card,Busy
+S00324,C1090,ST102,Delhi,Delhi,Hyundai,Kona Electric,39,17,87,DC Fast,Type 2,2025-01-14 11:00:00,2025-01-14 11:36:00,36,21.25,382.5,Rainy,Weekday,Debit Card,Busy
+S00325,C1002,ST107,Delhi,Delhi,BYD,Seal EV,82,71,98,AC,CCS2,2025-01-14 12:00:00,2025-01-14 13:53:00,113,37.58,676.44,Sunny,Weekday,UPI,Maintenance
+S00326,C1055,ST102,Bangalore,Karnataka,BYD,Atto 3,60,11,80,AC,CCS2,2025-01-14 13:00:00,2025-01-14 15:11:00,131,53.63,965.34,Cloudy,Weekday,Debit Card,Available
+S00327,C1080,ST109,Pune,Maharashtra,Mahindra,XUV400,40,56,96,AC,Type 2,2025-01-14 14:00:00,2025-01-14 16:14:00,134,55.12,992.16,Cloudy,Weekday,UPI,Available
+S00328,C1018,ST103,Pune,Maharashtra,MG,ZS EV,50,72,100,DC Fast,CCS2,2025-01-14 15:00:00,2025-01-14 16:07:00,67,39.59,712.62,Sunny,Weekday,Debit Card,Maintenance
+S00329,C1054,ST106,Bangalore,Karnataka,BYD,Seal EV,82,71,91,AC,Type 2,2025-01-14 16:00:00,2025-01-14 17:18:00,78,20.71,372.78,Rainy,Weekday,Net Banking,Available
+S00330,C1048,ST110,Pune,Maharashtra,Tata,Tiago EV,24,27,88,AC,Type 2,2025-01-14 17:00:00,2025-01-14 19:23:00,143,34.26,616.68,Sunny,Weekday,Credit Card,Maintenance
+S00331,C1071,ST105,Bangalore,Karnataka,MG,Comet EV,17,66,81,AC,CCS2,2025-01-14 18:00:00,2025-01-14 19:18:00,78,11.97,215.46,Cloudy,Weekday,UPI,Available
+S00332,C1072,ST107,Delhi,Delhi,Mahindra,XUV400,40,14,81,AC,Type 2,2025-01-14 19:00:00,2025-01-14 20:07:00,67,27.62,497.16,Rainy,Weekday,Credit Card,Busy
+S00333,C1006,ST103,Coimbatore,Tamil Nadu,Mahindra,XUV400,40,71,86,AC,Type 2,2025-01-14 20:00:00,2025-01-14 22:50:00,170,36.63,659.34,Rainy,Weekday,Net Banking,Busy
+S00334,C1074,ST101,Pune,Maharashtra,BYD,Seal EV,82,24,82,AC,Type 2,2025-01-14 21:00:00,2025-01-14 23:53:00,173,41.42,745.56,Sunny,Weekday,Net Banking,Maintenance
+S00335,C1084,ST103,Hyderabad,Telangana,MG,ZS EV,50,54,100,AC,CCS2,2025-01-14 22:00:00,2025-01-15 00:35:00,155,14.19,255.42,Rainy,Weekday,UPI,Maintenance
+S00336,C1078,ST109,Delhi,Delhi,MG,ZS EV,50,30,100,AC,Type 2,2025-01-14 23:00:00,2025-01-15 01:16:00,136,46.64,839.52,Cloudy,Weekday,UPI,Busy
+S00337,C1057,ST104,Delhi,Delhi,Mahindra,BE 6,59,50,83,DC Fast,Type 2,2025-01-15 00:00:00,2025-01-15 00:43:00,43,27.45,494.1,Cloudy,Weekday,Debit Card,Maintenance
+S00338,C1024,ST105,Chennai,Tamil Nadu,Tata,Punch EV,35,39,96,DC Fast,Type 2,2025-01-15 01:00:00,2025-01-15 01:29:00,29,39.45,710.1,Cloudy,Weekday,UPI,Available
+S00339,C1058,ST109,Pune,Maharashtra,Mahindra,BE 6,59,26,80,DC Fast,CCS2,2025-01-15 02:00:00,2025-01-15 03:44:00,104,28.57,514.26,Cloudy,Weekday,Credit Card,Maintenance
+S00340,C1040,ST109,Coimbatore,Tamil Nadu,Hyundai,Ioniq 5,72,42,88,AC,CCS2,2025-01-15 03:00:00,2025-01-15 05:35:00,155,35.86,645.48,Sunny,Weekday,Net Banking,Available
+S00341,C1050,ST106,Mumbai,Maharashtra,Hyundai,Kona Electric,39,68,80,AC,Type 2,2025-01-15 04:00:00,2025-01-15 04:24:00,24,28.45,512.1,Cloudy,Weekday,Debit Card,Available
+S00342,C1041,ST102,Coimbatore,Tamil Nadu,BYD,Atto 3,60,10,86,DC Fast,Type 2,2025-01-15 05:00:00,2025-01-15 07:14:00,134,52.75,949.5,Sunny,Weekday,UPI,Maintenance
+S00343,C1052,ST109,Delhi,Delhi,BYD,Seal EV,82,35,81,DC Fast,CCS2,2025-01-15 06:00:00,2025-01-15 08:40:00,160,10.16,182.88,Cloudy,Weekday,Net Banking,Maintenance
+S00344,C1010,ST103,Coimbatore,Tamil Nadu,MG,ZS EV,50,64,95,DC Fast,CCS2,2025-01-15 07:00:00,2025-01-15 07:20:00,20,35.66,641.88,Rainy,Weekday,UPI,Busy
+S00345,C1052,ST105,Coimbatore,Tamil Nadu,BYD,Seal EV,82,14,94,DC Fast,CCS2,2025-01-15 08:00:00,2025-01-15 09:42:00,102,38.0,684.0,Cloudy,Weekday,UPI,Busy
+S00346,C1029,ST109,Mumbai,Maharashtra,MG,Comet EV,17,66,95,DC Fast,CCS2,2025-01-15 09:00:00,2025-01-15 11:54:00,174,47.75,859.5,Rainy,Weekday,UPI,Maintenance
+S00347,C1087,ST108,Mumbai,Maharashtra,BYD,Atto 3,60,25,96,DC Fast,CCS2,2025-01-15 10:00:00,2025-01-15 12:07:00,127,23.52,423.36,Rainy,Weekday,Net Banking,Available
+S00348,C1075,ST103,Bangalore,Karnataka,BYD,Atto 3,60,72,95,DC Fast,CCS2,2025-01-15 11:00:00,2025-01-15 13:17:00,137,41.72,750.96,Sunny,Weekday,Debit Card,Maintenance
+S00349,C1032,ST102,Delhi,Delhi,Tata,Tiago EV,24,16,96,AC,Type 2,2025-01-15 12:00:00,2025-01-15 12:23:00,23,32.92,592.56,Cloudy,Weekday,UPI,Busy
+S00350,C1094,ST106,Delhi,Delhi,Tata,Nexon EV,30,63,84,DC Fast,CCS2,2025-01-15 13:00:00,2025-01-15 13:54:00,54,39.67,714.06,Sunny,Weekday,Net Banking,Available
+S00351,C1065,ST101,Kochi,Kerala,BYD,Seal EV,82,18,89,AC,CCS2,2025-01-15 14:00:00,2025-01-15 15:12:00,72,21.56,388.08,Rainy,Weekday,UPI,Available
+S00352,C1089,ST107,Hyderabad,Telangana,Hyundai,Kona Electric,39,72,86,DC Fast,CCS2,2025-01-15 15:00:00,2025-01-15 15:56:00,56,34.04,612.72,Sunny,Weekday,UPI,Maintenance
+S00353,C1057,ST110,Pune,Maharashtra,Mahindra,XUV400,40,66,95,DC Fast,CCS2,2025-01-15 16:00:00,2025-01-15 16:24:00,24,12.08,217.44,Sunny,Weekday,Credit Card,Busy
+S00354,C1053,ST107,Delhi,Delhi,MG,ZS EV,50,77,82,AC,Type 2,2025-01-15 17:00:00,2025-01-15 17:53:00,53,38.5,693.0,Sunny,Weekday,Credit Card,Maintenance
+S00355,C1066,ST107,Pune,Maharashtra,Mahindra,XUV400,40,72,89,AC,CCS2,2025-01-15 18:00:00,2025-01-15 18:46:00,46,24.47,440.46,Rainy,Weekday,UPI,Available
+S00356,C1051,ST109,Bangalore,Karnataka,Tata,Punch EV,35,25,91,DC Fast,CCS2,2025-01-15 19:00:00,2025-01-15 21:27:00,147,57.42,1033.56,Sunny,Weekday,Credit Card,Maintenance
+S00357,C1099,ST109,Mumbai,Maharashtra,Mahindra,XUV400,40,37,91,AC,Type 2,2025-01-15 20:00:00,2025-01-15 20:50:00,50,58.28,1049.04,Cloudy,Weekday,UPI,Available
+S00358,C1100,ST108,Coimbatore,Tamil Nadu,MG,Comet EV,17,63,98,AC,CCS2,2025-01-15 21:00:00,2025-01-15 22:36:00,96,43.87,789.66,Sunny,Weekday,UPI,Maintenance
+S00359,C1044,ST106,Delhi,Delhi,Mahindra,BE 6,59,55,89,AC,Type 2,2025-01-15 22:00:00,2025-01-15 22:24:00,24,39.61,712.98,Rainy,Weekday,Credit Card,Available
+S00360,C1093,ST108,Pune,Maharashtra,MG,ZS EV,50,15,95,DC Fast,Type 2,2025-01-15 23:00:00,2025-01-16 01:17:00,137,14.63,263.34,Sunny,Weekday,Credit Card,Busy
+S00361,C1095,ST109,Mumbai,Maharashtra,Mahindra,XUV400,40,23,93,DC Fast,Type 2,2025-01-16 00:00:00,2025-01-16 02:28:00,148,15.63,281.34,Rainy,Weekday,Debit Card,Available
+S00362,C1009,ST101,Chennai,Tamil Nadu,Hyundai,Kona Electric,39,69,90,AC,CCS2,2025-01-16 01:00:00,2025-01-16 03:33:00,153,42.4,763.2,Cloudy,Weekday,UPI,Available
+S00363,C1008,ST106,Delhi,Delhi,MG,Comet EV,17,15,86,DC Fast,Type 2,2025-01-16 02:00:00,2025-01-16 03:15:00,75,54.75,985.5,Sunny,Weekday,Debit Card,Busy
+S00364,C1095,ST110,Coimbatore,Tamil Nadu,BYD,Atto 3,60,34,80,DC Fast,Type 2,2025-01-16 03:00:00,2025-01-16 04:45:00,105,58.74,1057.32,Sunny,Weekday,UPI,Busy
+S00365,C1021,ST101,Bangalore,Karnataka,BYD,Atto 3,60,69,91,AC,Type 2,2025-01-16 04:00:00,2025-01-16 04:30:00,30,57.66,1037.88,Rainy,Weekday,Credit Card,Busy
+S00366,C1007,ST104,Chennai,Tamil Nadu,Hyundai,Ioniq 5,72,77,98,DC Fast,CCS2,2025-01-16 05:00:00,2025-01-16 07:35:00,155,27.01,486.18,Cloudy,Weekday,Debit Card,Maintenance
+S00367,C1076,ST102,Pune,Maharashtra,Tata,Nexon EV,30,11,100,DC Fast,CCS2,2025-01-16 06:00:00,2025-01-16 07:34:00,94,17.37,312.66,Cloudy,Weekday,UPI,Maintenance
+S00368,C1041,ST110,Kochi,Kerala,MG,ZS EV,50,57,89,DC Fast,CCS2,2025-01-16 07:00:00,2025-01-16 09:21:00,141,21.6,388.8,Cloudy,Weekday,Net Banking,Maintenance
+S00369,C1022,ST106,Kochi,Kerala,Mahindra,BE 6,59,41,81,DC Fast,Type 2,2025-01-16 08:00:00,2025-01-16 09:57:00,117,49.98,899.64,Sunny,Weekday,Net Banking,Available
+S00370,C1056,ST108,Kochi,Kerala,Mahindra,BE 6,59,32,87,AC,CCS2,2025-01-16 09:00:00,2025-01-16 10:20:00,80,35.67,642.06,Sunny,Weekday,Net Banking,Available
+S00371,C1013,ST101,Pune,Maharashtra,Mahindra,XUV400,40,69,94,DC Fast,CCS2,2025-01-16 10:00:00,2025-01-16 11:30:00,90,24.74,445.32,Cloudy,Weekday,Net Banking,Busy
+S00372,C1026,ST101,Kochi,Kerala,Hyundai,Kona Electric,39,63,83,DC Fast,Type 2,2025-01-16 11:00:00,2025-01-16 12:08:00,68,49.58,892.44,Cloudy,Weekday,Credit Card,Busy
+S00373,C1005,ST103,Mumbai,Maharashtra,Hyundai,Ioniq 5,72,48,87,AC,CCS2,2025-01-16 12:00:00,2025-01-16 14:47:00,167,34.65,623.7,Rainy,Weekday,UPI,Busy
+S00374,C1056,ST104,Hyderabad,Telangana,Mahindra,XUV400,40,38,99,AC,CCS2,2025-01-16 13:00:00,2025-01-16 13:38:00,38,14.4,259.2,Rainy,Weekday,Debit Card,Maintenance
+S00375,C1038,ST105,Hyderabad,Telangana,Hyundai,Kona Electric,39,24,89,AC,CCS2,2025-01-16 14:00:00,2025-01-16 15:58:00,118,21.66,389.88,Sunny,Weekday,Credit Card,Maintenance
+S00376,C1070,ST107,Kochi,Kerala,Mahindra,XUV400,40,57,97,AC,Type 2,2025-01-16 15:00:00,2025-01-16 16:59:00,119,40.82,734.76,Sunny,Weekday,UPI,Busy
+S00377,C1089,ST102,Kochi,Kerala,Mahindra,BE 6,59,70,95,DC Fast,CCS2,2025-01-16 16:00:00,2025-01-16 18:19:00,139,29.11,523.98,Sunny,Weekday,Net Banking,Available
+S00378,C1052,ST108,Mumbai,Maharashtra,MG,Comet EV,17,25,94,DC Fast,CCS2,2025-01-16 17:00:00,2025-01-16 17:59:00,59,21.61,388.98,Cloudy,Weekday,Credit Card,Maintenance
+S00379,C1081,ST108,Coimbatore,Tamil Nadu,BYD,Atto 3,60,33,90,DC Fast,CCS2,2025-01-16 18:00:00,2025-01-16 19:49:00,109,38.44,691.92,Sunny,Weekday,UPI,Busy
+S00380,C1034,ST101,Coimbatore,Tamil Nadu,BYD,Atto 3,60,58,93,AC,Type 2,2025-01-16 19:00:00,2025-01-16 21:36:00,156,17.03,306.54,Cloudy,Weekday,Net Banking,Maintenance
+S00381,C1020,ST103,Delhi,Delhi,BYD,Seal EV,82,25,94,AC,Type 2,2025-01-16 20:00:00,2025-01-16 21:27:00,87,11.56,208.08,Rainy,Weekday,Credit Card,Busy
+S00382,C1046,ST105,Hyderabad,Telangana,Mahindra,XUV400,40,46,83,DC Fast,Type 2,2025-01-16 21:00:00,2025-01-16 23:33:00,153,31.62,569.16,Cloudy,Weekday,UPI,Available
+S00383,C1001,ST105,Bangalore,Karnataka,Hyundai,Kona Electric,39,29,92,AC,Type 2,2025-01-16 22:00:00,2025-01-16 23:25:00,85,54.08,973.44,Rainy,Weekday,Debit Card,Maintenance
+S00384,C1034,ST103,Kochi,Kerala,MG,Comet EV,17,34,82,AC,CCS2,2025-01-16 23:00:00,2025-01-17 01:33:00,153,56.3,1013.4,Rainy,Weekday,UPI,Busy
+S00385,C1063,ST105,Chennai,Tamil Nadu,Mahindra,BE 6,59,29,86,DC Fast,CCS2,2025-01-17 00:00:00,2025-01-17 02:22:00,142,40.72,732.96,Rainy,Weekday,Credit Card,Maintenance
+S00386,C1049,ST103,Chennai,Tamil Nadu,Tata,Tiago EV,24,61,96,DC Fast,CCS2,2025-01-17 01:00:00,2025-01-17 03:35:00,155,57.43,1033.74,Rainy,Weekday,Net Banking,Busy
+S00387,C1060,ST104,Chennai,Tamil Nadu,Tata,Punch EV,35,65,83,DC Fast,Type 2,2025-01-17 02:00:00,2025-01-17 04:58:00,178,12.85,231.3,Sunny,Weekday,UPI,Busy
+S00388,C1079,ST108,Delhi,Delhi,Tata,Tiago EV,24,50,84,AC,CCS2,2025-01-17 03:00:00,2025-01-17 03:39:00,39,32.56,586.08,Sunny,Weekday,UPI,Busy
+S00389,C1003,ST104,Chennai,Tamil Nadu,Tata,Nexon EV,30,48,80,AC,Type 2,2025-01-17 04:00:00,2025-01-17 06:10:00,130,15.77,283.86,Sunny,Weekday,Net Banking,Available
+S00390,C1025,ST106,Kochi,Kerala,Mahindra,XUV400,40,67,96,AC,CCS2,2025-01-17 05:00:00,2025-01-17 05:21:00,21,20.94,376.92,Rainy,Weekday,Debit Card,Maintenance
+S00391,C1030,ST101,Hyderabad,Telangana,BYD,Atto 3,60,27,93,AC,CCS2,2025-01-17 06:00:00,2025-01-17 06:29:00,29,28.32,509.76,Sunny,Weekday,UPI,Available
+S00392,C1032,ST107,Kochi,Kerala,Tata,Punch EV,35,34,83,DC Fast,CCS2,2025-01-17 07:00:00,2025-01-17 07:34:00,34,47.02,846.36,Rainy,Weekday,Credit Card,Available
+S00393,C1040,ST101,Delhi,Delhi,MG,ZS EV,50,60,82,AC,Type 2,2025-01-17 08:00:00,2025-01-17 09:38:00,98,21.04,378.72,Sunny,Weekday,UPI,Available
+S00394,C1030,ST110,Chennai,Tamil Nadu,Tata,Nexon EV,30,65,99,DC Fast,Type 2,2025-01-17 09:00:00,2025-01-17 11:23:00,143,15.4,277.2,Cloudy,Weekday,Credit Card,Maintenance
+S00395,C1078,ST109,Pune,Maharashtra,Tata,Tiago EV,24,53,80,AC,Type 2,2025-01-17 10:00:00,2025-01-17 11:44:00,104,23.3,419.4,Cloudy,Weekday,UPI,Maintenance
+S00396,C1022,ST102,Chennai,Tamil Nadu,Mahindra,XUV400,40,78,93,AC,Type 2,2025-01-17 11:00:00,2025-01-17 13:19:00,139,20.44,367.92,Cloudy,Weekday,UPI,Busy
+S00397,C1066,ST103,Kochi,Kerala,Hyundai,Kona Electric,39,17,86,AC,Type 2,2025-01-17 12:00:00,2025-01-17 14:58:00,178,38.74,697.32,Cloudy,Weekday,Net Banking,Available
+S00398,C1070,ST109,Delhi,Delhi,BYD,Seal EV,82,56,100,DC Fast,Type 2,2025-01-17 13:00:00,2025-01-17 14:48:00,108,44.76,805.68,Cloudy,Weekday,UPI,Maintenance
+S00399,C1077,ST107,Delhi,Delhi,Tata,Tiago EV,24,17,81,AC,CCS2,2025-01-17 14:00:00,2025-01-17 15:00:00,60,38.46,692.28,Cloudy,Weekday,Net Banking,Available
+S00400,C1084,ST106,Chennai,Tamil Nadu,MG,Comet EV,17,48,89,DC Fast,CCS2,2025-01-17 15:00:00,2025-01-17 17:12:00,132,35.6,640.8,Sunny,Weekday,Net Banking,Available
+S00401,C1056,ST109,Coimbatore,Tamil Nadu,MG,ZS EV,50,68,89,AC,Type 2,2025-01-17 16:00:00,2025-01-17 18:13:00,133,44.26,796.68,Rainy,Weekday,UPI,Available
+S00402,C1084,ST101,Bangalore,Karnataka,BYD,Seal EV,82,49,100,AC,CCS2,2025-01-17 17:00:00,2025-01-17 18:30:00,90,35.56,640.08,Rainy,Weekday,Net Banking,Available
+S00403,C1066,ST110,Hyderabad,Telangana,Hyundai,Kona Electric,39,79,96,AC,CCS2,2025-01-17 18:00:00,2025-01-17 19:18:00,78,53.98,971.64,Sunny,Weekday,Debit Card,Busy
+S00404,C1054,ST105,Coimbatore,Tamil Nadu,BYD,Seal EV,82,41,100,DC Fast,Type 2,2025-01-17 19:00:00,2025-01-17 21:15:00,135,14.53,261.54,Rainy,Weekday,Credit Card,Maintenance
+S00405,C1075,ST110,Kochi,Kerala,Tata,Nexon EV,30,43,82,DC Fast,Type 2,2025-01-17 20:00:00,2025-01-17 20:25:00,25,26.35,474.3,Cloudy,Weekday,Credit Card,Available
+S00406,C1080,ST105,Chennai,Tamil Nadu,Tata,Tiago EV,24,16,95,AC,CCS2,2025-01-17 21:00:00,2025-01-17 21:33:00,33,52.82,950.76,Sunny,Weekday,UPI,Available
+S00407,C1027,ST110,Kochi,Kerala,Tata,Nexon EV,30,30,84,AC,CCS2,2025-01-17 22:00:00,2025-01-18 00:30:00,150,28.38,510.84,Rainy,Weekday,UPI,Busy
+S00408,C1043,ST109,Mumbai,Maharashtra,MG,Comet EV,17,34,85,AC,CCS2,2025-01-17 23:00:00,2025-01-18 00:56:00,116,42.51,765.18,Cloudy,Weekday,UPI,Maintenance
+S00409,C1057,ST104,Bangalore,Karnataka,BYD,Seal EV,82,37,84,AC,Type 2,2025-01-18 00:00:00,2025-01-18 01:59:00,119,56.24,1012.32,Cloudy,Weekend,UPI,Maintenance
+S00410,C1088,ST107,Pune,Maharashtra,Tata,Tiago EV,24,45,88,DC Fast,Type 2,2025-01-18 01:00:00,2025-01-18 01:42:00,42,13.34,240.12,Rainy,Weekend,Credit Card,Available
+S00411,C1034,ST101,Coimbatore,Tamil Nadu,MG,Comet EV,17,61,83,AC,CCS2,2025-01-18 02:00:00,2025-01-18 03:06:00,66,53.27,958.86,Cloudy,Weekend,Credit Card,Available
+S00412,C1059,ST105,Chennai,Tamil Nadu,Hyundai,Ioniq 5,72,12,97,DC Fast,CCS2,2025-01-18 03:00:00,2025-01-18 05:00:00,120,44.35,798.3,Sunny,Weekend,UPI,Available
+S00413,C1062,ST105,Bangalore,Karnataka,MG,ZS EV,50,47,98,AC,Type 2,2025-01-18 04:00:00,2025-01-18 05:00:00,60,45.27,814.86,Rainy,Weekend,Credit Card,Busy
+S00414,C1027,ST107,Pune,Maharashtra,Tata,Punch EV,35,12,90,DC Fast,CCS2,2025-01-18 05:00:00,2025-01-18 05:23:00,23,33.45,602.1,Cloudy,Weekend,Debit Card,Available
+S00415,C1056,ST108,Mumbai,Maharashtra,Hyundai,Kona Electric,39,59,98,AC,CCS2,2025-01-18 06:00:00,2025-01-18 07:49:00,109,35.02,630.36,Cloudy,Weekend,Credit Card,Busy
+S00416,C1086,ST101,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,78,96,AC,Type 2,2025-01-18 07:00:00,2025-01-18 09:22:00,142,13.41,241.38,Cloudy,Weekend,Net Banking,Available
+S00417,C1003,ST102,Bangalore,Karnataka,BYD,Atto 3,60,45,83,AC,Type 2,2025-01-18 08:00:00,2025-01-18 09:43:00,103,37.33,671.94,Sunny,Weekend,Debit Card,Maintenance
+S00418,C1020,ST102,Kochi,Kerala,Tata,Nexon EV,30,25,80,AC,CCS2,2025-01-18 09:00:00,2025-01-18 11:37:00,157,32.01,576.18,Cloudy,Weekend,UPI,Busy
+S00419,C1084,ST101,Chennai,Tamil Nadu,MG,ZS EV,50,52,93,DC Fast,Type 2,2025-01-18 10:00:00,2025-01-18 12:01:00,121,14.92,268.56,Sunny,Weekend,Net Banking,Maintenance
+S00420,C1001,ST108,Kochi,Kerala,Mahindra,BE 6,59,58,92,AC,Type 2,2025-01-18 11:00:00,2025-01-18 13:18:00,138,14.23,256.14,Cloudy,Weekend,Net Banking,Available
+S00421,C1077,ST103,Pune,Maharashtra,Mahindra,BE 6,59,58,88,DC Fast,Type 2,2025-01-18 12:00:00,2025-01-18 13:08:00,68,20.62,371.16,Sunny,Weekend,Net Banking,Busy
+S00422,C1013,ST102,Pune,Maharashtra,Mahindra,BE 6,59,50,89,DC Fast,CCS2,2025-01-18 13:00:00,2025-01-18 15:09:00,129,48.88,879.84,Cloudy,Weekend,UPI,Maintenance
+S00423,C1054,ST110,Delhi,Delhi,BYD,Seal EV,82,55,81,DC Fast,Type 2,2025-01-18 14:00:00,2025-01-18 16:20:00,140,18.69,336.42,Cloudy,Weekend,UPI,Busy
+S00424,C1020,ST101,Delhi,Delhi,BYD,Atto 3,60,42,90,DC Fast,Type 2,2025-01-18 15:00:00,2025-01-18 17:19:00,139,55.97,1007.46,Cloudy,Weekend,Debit Card,Busy
+S00425,C1054,ST104,Pune,Maharashtra,BYD,Atto 3,60,30,81,DC Fast,Type 2,2025-01-18 16:00:00,2025-01-18 16:51:00,51,31.82,572.76,Sunny,Weekend,UPI,Busy
+S00426,C1025,ST107,Delhi,Delhi,Mahindra,XUV400,40,23,93,DC Fast,Type 2,2025-01-18 17:00:00,2025-01-18 17:25:00,25,20.08,361.44,Cloudy,Weekend,Net Banking,Available
+S00427,C1081,ST102,Pune,Maharashtra,Mahindra,BE 6,59,32,94,AC,Type 2,2025-01-18 18:00:00,2025-01-18 19:56:00,116,29.25,526.5,Rainy,Weekend,UPI,Available
+S00428,C1054,ST105,Kochi,Kerala,MG,ZS EV,50,52,90,DC Fast,Type 2,2025-01-18 19:00:00,2025-01-18 19:26:00,26,26.45,476.1,Sunny,Weekend,Credit Card,Available
+S00429,C1022,ST101,Kochi,Kerala,BYD,Atto 3,60,21,97,DC Fast,CCS2,2025-01-18 20:00:00,2025-01-18 20:39:00,39,18.29,329.22,Cloudy,Weekend,Credit Card,Maintenance
+S00430,C1067,ST108,Kochi,Kerala,Mahindra,XUV400,40,80,87,AC,CCS2,2025-01-18 21:00:00,2025-01-18 23:24:00,144,50.23,904.14,Cloudy,Weekend,Credit Card,Busy
+S00431,C1035,ST102,Kochi,Kerala,Tata,Nexon EV,30,55,88,DC Fast,Type 2,2025-01-18 22:00:00,2025-01-18 22:46:00,46,37.15,668.7,Cloudy,Weekend,Credit Card,Maintenance
+S00432,C1067,ST101,Coimbatore,Tamil Nadu,BYD,Seal EV,82,28,99,AC,CCS2,2025-01-18 23:00:00,2025-01-19 00:07:00,67,34.44,619.92,Sunny,Weekend,Net Banking,Busy
+S00433,C1088,ST110,Pune,Maharashtra,Tata,Punch EV,35,10,83,DC Fast,Type 2,2025-01-19 00:00:00,2025-01-19 00:56:00,56,41.02,738.36,Rainy,Weekend,Credit Card,Maintenance
+S00434,C1045,ST110,Chennai,Tamil Nadu,BYD,Atto 3,60,17,87,DC Fast,Type 2,2025-01-19 01:00:00,2025-01-19 03:32:00,152,12.98,233.64,Sunny,Weekend,Net Banking,Busy
+S00435,C1021,ST108,Coimbatore,Tamil Nadu,BYD,Seal EV,82,26,83,DC Fast,CCS2,2025-01-19 02:00:00,2025-01-19 04:18:00,138,34.13,614.34,Cloudy,Weekend,Debit Card,Busy
+S00436,C1087,ST105,Chennai,Tamil Nadu,MG,Comet EV,17,19,83,AC,Type 2,2025-01-19 03:00:00,2025-01-19 05:49:00,169,58.74,1057.32,Sunny,Weekend,Debit Card,Available
+S00437,C1049,ST109,Pune,Maharashtra,MG,Comet EV,17,55,92,DC Fast,CCS2,2025-01-19 04:00:00,2025-01-19 04:36:00,36,41.16,740.88,Cloudy,Weekend,Credit Card,Available
+S00438,C1094,ST106,Kochi,Kerala,Mahindra,BE 6,59,78,89,AC,CCS2,2025-01-19 05:00:00,2025-01-19 05:33:00,33,33.9,610.2,Sunny,Weekend,Debit Card,Busy
+S00439,C1065,ST109,Chennai,Tamil Nadu,MG,Comet EV,17,53,95,AC,Type 2,2025-01-19 06:00:00,2025-01-19 08:09:00,129,30.32,545.76,Cloudy,Weekend,Net Banking,Available
+S00440,C1081,ST108,Bangalore,Karnataka,MG,Comet EV,17,49,80,AC,Type 2,2025-01-19 07:00:00,2025-01-19 08:51:00,111,32.89,592.02,Rainy,Weekend,Debit Card,Busy
+S00441,C1081,ST108,Pune,Maharashtra,Mahindra,XUV400,40,64,91,DC Fast,Type 2,2025-01-19 08:00:00,2025-01-19 10:08:00,128,22.4,403.2,Sunny,Weekend,Credit Card,Available
+S00442,C1090,ST104,Kochi,Kerala,MG,Comet EV,17,76,90,AC,Type 2,2025-01-19 09:00:00,2025-01-19 11:00:00,120,39.67,714.06,Cloudy,Weekend,UPI,Available
+S00443,C1057,ST105,Delhi,Delhi,Tata,Punch EV,35,77,83,DC Fast,CCS2,2025-01-19 10:00:00,2025-01-19 12:30:00,150,45.32,815.76,Sunny,Weekend,UPI,Maintenance
+S00444,C1036,ST105,Hyderabad,Telangana,Mahindra,BE 6,59,65,90,DC Fast,CCS2,2025-01-19 11:00:00,2025-01-19 11:42:00,42,48.88,879.84,Cloudy,Weekend,Debit Card,Maintenance
+S00445,C1061,ST107,Delhi,Delhi,Hyundai,Kona Electric,39,60,89,DC Fast,Type 2,2025-01-19 12:00:00,2025-01-19 12:54:00,54,24.64,443.52,Sunny,Weekend,Debit Card,Maintenance
+S00446,C1008,ST109,Kochi,Kerala,Mahindra,BE 6,59,15,98,AC,Type 2,2025-01-19 13:00:00,2025-01-19 14:01:00,61,36.65,659.7,Rainy,Weekend,Debit Card,Available
+S00447,C1063,ST109,Mumbai,Maharashtra,Hyundai,Kona Electric,39,58,82,AC,Type 2,2025-01-19 14:00:00,2025-01-19 16:09:00,129,25.59,460.62,Rainy,Weekend,Debit Card,Available
+S00448,C1074,ST105,Chennai,Tamil Nadu,Mahindra,XUV400,40,42,86,AC,CCS2,2025-01-19 15:00:00,2025-01-19 16:20:00,80,12.45,224.1,Cloudy,Weekend,Credit Card,Busy
+S00449,C1039,ST102,Hyderabad,Telangana,Mahindra,XUV400,40,10,90,AC,Type 2,2025-01-19 16:00:00,2025-01-19 17:18:00,78,56.37,1014.66,Sunny,Weekend,Debit Card,Maintenance
+S00450,C1036,ST104,Bangalore,Karnataka,Mahindra,XUV400,40,76,94,AC,Type 2,2025-01-19 17:00:00,2025-01-19 18:11:00,71,19.47,350.46,Cloudy,Weekend,Net Banking,Busy
+S00451,C1031,ST106,Coimbatore,Tamil Nadu,BYD,Seal EV,82,12,82,DC Fast,CCS2,2025-01-19 18:00:00,2025-01-19 19:38:00,98,51.44,925.92,Rainy,Weekend,Debit Card,Available
+S00452,C1052,ST105,Chennai,Tamil Nadu,Hyundai,Kona Electric,39,33,84,DC Fast,Type 2,2025-01-19 19:00:00,2025-01-19 21:29:00,149,53.43,961.74,Sunny,Weekend,Debit Card,Maintenance
+S00453,C1094,ST105,Bangalore,Karnataka,Mahindra,XUV400,40,35,98,DC Fast,CCS2,2025-01-19 20:00:00,2025-01-19 22:52:00,172,30.25,544.5,Sunny,Weekend,Credit Card,Busy
+S00454,C1014,ST107,Chennai,Tamil Nadu,Tata,Punch EV,35,74,100,DC Fast,CCS2,2025-01-19 21:00:00,2025-01-19 23:35:00,155,13.24,238.32,Sunny,Weekend,Credit Card,Busy
+S00455,C1081,ST108,Kochi,Kerala,Hyundai,Kona Electric,39,68,96,AC,Type 2,2025-01-19 22:00:00,2025-01-19 23:06:00,66,22.43,403.74,Cloudy,Weekend,Credit Card,Busy
+S00456,C1032,ST103,Kochi,Kerala,Tata,Punch EV,35,37,100,DC Fast,CCS2,2025-01-19 23:00:00,2025-01-20 00:43:00,103,29.89,538.02,Sunny,Weekend,UPI,Busy
+S00457,C1073,ST105,Mumbai,Maharashtra,Hyundai,Kona Electric,39,69,99,DC Fast,CCS2,2025-01-20 00:00:00,2025-01-20 02:21:00,141,57.38,1032.84,Sunny,Weekday,Debit Card,Available
+S00458,C1082,ST105,Coimbatore,Tamil Nadu,BYD,Seal EV,82,35,83,AC,CCS2,2025-01-20 01:00:00,2025-01-20 03:04:00,124,46.35,834.3,Rainy,Weekday,Net Banking,Available
+S00459,C1005,ST107,Hyderabad,Telangana,MG,Comet EV,17,16,86,AC,CCS2,2025-01-20 02:00:00,2025-01-20 02:53:00,53,10.04,180.72,Sunny,Weekday,UPI,Maintenance
+S00460,C1002,ST106,Pune,Maharashtra,Tata,Nexon EV,30,35,85,AC,Type 2,2025-01-20 03:00:00,2025-01-20 03:51:00,51,47.45,854.1,Rainy,Weekday,Net Banking,Busy
+S00461,C1082,ST110,Chennai,Tamil Nadu,Hyundai,Kona Electric,39,39,88,DC Fast,CCS2,2025-01-20 04:00:00,2025-01-20 05:11:00,71,16.53,297.54,Cloudy,Weekday,Credit Card,Busy
+S00462,C1047,ST110,Pune,Maharashtra,Mahindra,BE 6,59,71,88,AC,Type 2,2025-01-20 05:00:00,2025-01-20 06:12:00,72,27.14,488.52,Cloudy,Weekday,Debit Card,Busy
+S00463,C1080,ST103,Pune,Maharashtra,MG,ZS EV,50,62,87,DC Fast,Type 2,2025-01-20 06:00:00,2025-01-20 07:06:00,66,11.75,211.5,Rainy,Weekday,Debit Card,Maintenance
+S00464,C1067,ST104,Coimbatore,Tamil Nadu,Mahindra,BE 6,59,35,95,AC,Type 2,2025-01-20 07:00:00,2025-01-20 09:19:00,139,39.43,709.74,Cloudy,Weekday,Net Banking,Maintenance
+S00465,C1038,ST103,Mumbai,Maharashtra,BYD,Seal EV,82,54,97,DC Fast,Type 2,2025-01-20 08:00:00,2025-01-20 09:03:00,63,13.94,250.92,Cloudy,Weekday,Debit Card,Busy
+S00466,C1042,ST104,Bangalore,Karnataka,BYD,Seal EV,82,17,89,DC Fast,CCS2,2025-01-20 09:00:00,2025-01-20 11:54:00,174,10.96,197.28,Cloudy,Weekday,UPI,Available
+S00467,C1099,ST102,Pune,Maharashtra,MG,Comet EV,17,34,85,AC,CCS2,2025-01-20 10:00:00,2025-01-20 10:31:00,31,30.41,547.38,Rainy,Weekday,UPI,Maintenance
+S00468,C1035,ST109,Delhi,Delhi,MG,Comet EV,17,20,88,AC,Type 2,2025-01-20 11:00:00,2025-01-20 11:36:00,36,18.69,336.42,Sunny,Weekday,UPI,Busy
+S00469,C1053,ST105,Pune,Maharashtra,MG,Comet EV,17,72,81,DC Fast,Type 2,2025-01-20 12:00:00,2025-01-20 12:59:00,59,49.77,895.86,Sunny,Weekday,Credit Card,Available
+S00470,C1069,ST102,Bangalore,Karnataka,MG,Comet EV,17,58,98,DC Fast,Type 2,2025-01-20 13:00:00,2025-01-20 14:13:00,73,24.65,443.7,Rainy,Weekday,UPI,Maintenance
+S00471,C1077,ST110,Hyderabad,Telangana,BYD,Seal EV,82,29,80,AC,CCS2,2025-01-20 14:00:00,2025-01-20 16:59:00,179,19.63,353.34,Rainy,Weekday,Debit Card,Available
+S00472,C1022,ST104,Delhi,Delhi,Tata,Punch EV,35,72,92,DC Fast,Type 2,2025-01-20 15:00:00,2025-01-20 16:52:00,112,49.9,898.2,Sunny,Weekday,Credit Card,Available
+S00473,C1082,ST109,Pune,Maharashtra,Hyundai,Ioniq 5,72,63,84,AC,CCS2,2025-01-20 16:00:00,2025-01-20 17:49:00,109,54.42,979.56,Cloudy,Weekday,Credit Card,Busy
+S00474,C1100,ST102,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,25,100,DC Fast,CCS2,2025-01-20 17:00:00,2025-01-20 17:41:00,41,24.85,447.3,Cloudy,Weekday,Net Banking,Maintenance
+S00475,C1084,ST101,Bangalore,Karnataka,Tata,Punch EV,35,34,88,DC Fast,Type 2,2025-01-20 18:00:00,2025-01-20 20:56:00,176,54.67,984.06,Rainy,Weekday,Credit Card,Busy
+S00476,C1055,ST106,Delhi,Delhi,Mahindra,BE 6,59,36,93,DC Fast,Type 2,2025-01-20 19:00:00,2025-01-20 19:39:00,39,56.12,1010.16,Rainy,Weekday,Net Banking,Available
+S00477,C1022,ST106,Coimbatore,Tamil Nadu,Tata,Tiago EV,24,75,91,AC,CCS2,2025-01-20 20:00:00,2025-01-20 22:54:00,174,14.43,259.74,Sunny,Weekday,Debit Card,Maintenance
+S00478,C1013,ST108,Delhi,Delhi,Hyundai,Kona Electric,39,45,82,AC,CCS2,2025-01-20 21:00:00,2025-01-20 22:54:00,114,28.19,507.42,Cloudy,Weekday,UPI,Available
+S00479,C1094,ST107,Coimbatore,Tamil Nadu,BYD,Seal EV,82,69,84,AC,CCS2,2025-01-20 22:00:00,2025-01-20 22:48:00,48,42.34,762.12,Sunny,Weekday,UPI,Busy
+S00480,C1072,ST108,Hyderabad,Telangana,MG,Comet EV,17,61,81,DC Fast,CCS2,2025-01-20 23:00:00,2025-01-21 00:39:00,99,12.57,226.26,Sunny,Weekday,Credit Card,Busy
+S00481,C1053,ST101,Coimbatore,Tamil Nadu,MG,Comet EV,17,28,88,DC Fast,Type 2,2025-01-21 00:00:00,2025-01-21 02:18:00,138,31.82,572.76,Cloudy,Weekday,Credit Card,Maintenance
+S00482,C1038,ST108,Hyderabad,Telangana,Mahindra,BE 6,59,28,88,DC Fast,CCS2,2025-01-21 01:00:00,2025-01-21 02:29:00,89,36.04,648.72,Rainy,Weekday,Credit Card,Available
+S00483,C1026,ST107,Delhi,Delhi,Mahindra,XUV400,40,54,94,AC,Type 2,2025-01-21 02:00:00,2025-01-21 04:57:00,177,59.91,1078.38,Rainy,Weekday,Credit Card,Available
+S00484,C1078,ST109,Pune,Maharashtra,Mahindra,BE 6,59,37,95,DC Fast,Type 2,2025-01-21 03:00:00,2025-01-21 05:20:00,140,20.7,372.6,Cloudy,Weekday,UPI,Maintenance
+S00485,C1075,ST105,Bangalore,Karnataka,MG,ZS EV,50,56,87,AC,Type 2,2025-01-21 04:00:00,2025-01-21 06:56:00,176,34.94,628.92,Rainy,Weekday,UPI,Busy
+S00486,C1070,ST102,Bangalore,Karnataka,Tata,Nexon EV,30,76,84,AC,CCS2,2025-01-21 05:00:00,2025-01-21 06:14:00,74,13.23,238.14,Rainy,Weekday,Debit Card,Available
+S00487,C1063,ST107,Bangalore,Karnataka,Mahindra,BE 6,59,10,82,DC Fast,Type 2,2025-01-21 06:00:00,2025-01-21 07:03:00,63,16.77,301.86,Rainy,Weekday,UPI,Maintenance
+S00488,C1035,ST102,Chennai,Tamil Nadu,MG,Comet EV,17,28,90,AC,CCS2,2025-01-21 07:00:00,2025-01-21 09:18:00,138,30.47,548.46,Rainy,Weekday,Debit Card,Available
+S00489,C1066,ST104,Delhi,Delhi,Mahindra,XUV400,40,37,80,DC Fast,Type 2,2025-01-21 08:00:00,2025-01-21 08:59:00,59,14.44,259.92,Rainy,Weekday,UPI,Busy
+S00490,C1040,ST107,Coimbatore,Tamil Nadu,Tata,Tiago EV,24,32,80,AC,Type 2,2025-01-21 09:00:00,2025-01-21 11:17:00,137,53.98,971.64,Cloudy,Weekday,Credit Card,Available
+S00491,C1079,ST108,Mumbai,Maharashtra,Hyundai,Kona Electric,39,29,95,AC,CCS2,2025-01-21 10:00:00,2025-01-21 11:53:00,113,20.64,371.52,Sunny,Weekday,Net Banking,Available
+S00492,C1076,ST109,Mumbai,Maharashtra,MG,Comet EV,17,27,96,DC Fast,Type 2,2025-01-21 11:00:00,2025-01-21 13:44:00,164,48.45,872.1,Sunny,Weekday,Net Banking,Busy
+S00493,C1039,ST104,Chennai,Tamil Nadu,Mahindra,XUV400,40,25,99,DC Fast,Type 2,2025-01-21 12:00:00,2025-01-21 13:29:00,89,51.44,925.92,Sunny,Weekday,Debit Card,Maintenance
+S00494,C1074,ST106,Coimbatore,Tamil Nadu,MG,Comet EV,17,38,99,AC,Type 2,2025-01-21 13:00:00,2025-01-21 13:40:00,40,10.56,190.08,Cloudy,Weekday,Credit Card,Available
+S00495,C1047,ST107,Coimbatore,Tamil Nadu,Mahindra,BE 6,59,34,89,DC Fast,CCS2,2025-01-21 14:00:00,2025-01-21 16:26:00,146,21.23,382.14,Cloudy,Weekday,Credit Card,Busy
+S00496,C1062,ST103,Mumbai,Maharashtra,MG,ZS EV,50,75,81,DC Fast,Type 2,2025-01-21 15:00:00,2025-01-21 16:50:00,110,12.04,216.72,Sunny,Weekday,Credit Card,Maintenance
+S00497,C1085,ST109,Mumbai,Maharashtra,BYD,Seal EV,82,69,100,DC Fast,CCS2,2025-01-21 16:00:00,2025-01-21 17:39:00,99,59.73,1075.14,Sunny,Weekday,Debit Card,Busy
+S00498,C1072,ST108,Coimbatore,Tamil Nadu,BYD,Seal EV,82,36,86,AC,Type 2,2025-01-21 17:00:00,2025-01-21 19:23:00,143,18.35,330.3,Rainy,Weekday,Credit Card,Available
+S00499,C1094,ST109,Mumbai,Maharashtra,Tata,Punch EV,35,78,80,AC,Type 2,2025-01-21 18:00:00,2025-01-21 20:28:00,148,16.69,300.42,Rainy,Weekday,Net Banking,Busy
+S00500,C1097,ST108,Delhi,Delhi,Hyundai,Kona Electric,39,41,99,AC,CCS2,2025-01-21 19:00:00,2025-01-21 20:31:00,91,47.33,851.94,Cloudy,Weekday,UPI,Busy
+S00501,C1013,ST101,Chennai,Tamil Nadu,MG,Comet EV,17,28,98,AC,CCS2,2025-01-21 20:00:00,2025-01-21 21:35:00,95,54.41,979.38,Rainy,Weekday,UPI,Busy
+S00502,C1100,ST108,Pune,Maharashtra,Mahindra,XUV400,40,44,95,AC,CCS2,2025-01-21 21:00:00,2025-01-21 21:37:00,37,49.74,895.32,Rainy,Weekday,Credit Card,Maintenance
+S00503,C1016,ST110,Bangalore,Karnataka,BYD,Seal EV,82,73,93,AC,CCS2,2025-01-21 22:00:00,2025-01-21 23:30:00,90,25.34,456.12,Rainy,Weekday,Net Banking,Maintenance
+S00504,C1038,ST105,Bangalore,Karnataka,Mahindra,BE 6,59,78,82,DC Fast,Type 2,2025-01-21 23:00:00,2025-01-22 01:26:00,146,32.1,577.8,Cloudy,Weekday,Net Banking,Maintenance
+S00505,C1093,ST108,Mumbai,Maharashtra,MG,ZS EV,50,22,86,AC,CCS2,2025-01-22 00:00:00,2025-01-22 02:55:00,175,18.55,333.9,Sunny,Weekday,Debit Card,Maintenance
+S00506,C1036,ST110,Delhi,Delhi,Hyundai,Ioniq 5,72,38,81,DC Fast,CCS2,2025-01-22 01:00:00,2025-01-22 02:34:00,94,54.65,983.7,Rainy,Weekday,Credit Card,Maintenance
+S00507,C1022,ST106,Mumbai,Maharashtra,BYD,Seal EV,82,58,84,DC Fast,CCS2,2025-01-22 02:00:00,2025-01-22 04:00:00,120,47.4,853.2,Sunny,Weekday,Debit Card,Maintenance
+S00508,C1024,ST106,Mumbai,Maharashtra,BYD,Seal EV,82,65,96,AC,Type 2,2025-01-22 03:00:00,2025-01-22 04:05:00,65,37.67,678.06,Sunny,Weekday,Net Banking,Busy
+S00509,C1004,ST102,Hyderabad,Telangana,MG,ZS EV,50,34,99,DC Fast,CCS2,2025-01-22 04:00:00,2025-01-22 05:55:00,115,41.16,740.88,Rainy,Weekday,Debit Card,Maintenance
+S00510,C1038,ST103,Delhi,Delhi,MG,ZS EV,50,72,82,AC,Type 2,2025-01-22 05:00:00,2025-01-22 06:44:00,104,14.85,267.3,Cloudy,Weekday,Debit Card,Maintenance
+S00511,C1044,ST102,Hyderabad,Telangana,Tata,Nexon EV,30,11,97,DC Fast,CCS2,2025-01-22 06:00:00,2025-01-22 08:59:00,179,55.54,999.72,Cloudy,Weekday,Net Banking,Maintenance
+S00512,C1034,ST102,Chennai,Tamil Nadu,BYD,Atto 3,60,56,100,DC Fast,Type 2,2025-01-22 07:00:00,2025-01-22 08:46:00,106,50.45,908.1,Cloudy,Weekday,Net Banking,Busy
+S00513,C1066,ST109,Chennai,Tamil Nadu,Mahindra,XUV400,40,47,88,AC,Type 2,2025-01-22 08:00:00,2025-01-22 09:01:00,61,17.42,313.56,Cloudy,Weekday,Credit Card,Busy
+S00514,C1037,ST102,Kochi,Kerala,MG,ZS EV,50,44,83,AC,Type 2,2025-01-22 09:00:00,2025-01-22 11:07:00,127,36.77,661.86,Cloudy,Weekday,Credit Card,Available
+S00515,C1087,ST106,Coimbatore,Tamil Nadu,Mahindra,XUV400,40,59,95,DC Fast,CCS2,2025-01-22 10:00:00,2025-01-22 10:31:00,31,46.93,844.74,Cloudy,Weekday,UPI,Maintenance
+S00516,C1019,ST106,Kochi,Kerala,BYD,Atto 3,60,11,93,AC,Type 2,2025-01-22 11:00:00,2025-01-22 13:09:00,129,32.1,577.8,Rainy,Weekday,Credit Card,Maintenance
+S00517,C1042,ST105,Pune,Maharashtra,Mahindra,BE 6,59,63,97,DC Fast,CCS2,2025-01-22 12:00:00,2025-01-22 13:44:00,104,41.58,748.44,Cloudy,Weekday,Credit Card,Available
+S00518,C1003,ST108,Chennai,Tamil Nadu,MG,ZS EV,50,16,80,AC,CCS2,2025-01-22 13:00:00,2025-01-22 13:43:00,43,20.7,372.6,Sunny,Weekday,UPI,Busy
+S00519,C1009,ST102,Kochi,Kerala,Mahindra,XUV400,40,39,83,DC Fast,Type 2,2025-01-22 14:00:00,2025-01-22 15:37:00,97,29.3,527.4,Rainy,Weekday,Credit Card,Busy
+S00520,C1012,ST109,Chennai,Tamil Nadu,Mahindra,XUV400,40,18,91,DC Fast,Type 2,2025-01-22 15:00:00,2025-01-22 17:25:00,145,23.17,417.06,Rainy,Weekday,UPI,Busy
+S00521,C1038,ST106,Kochi,Kerala,Hyundai,Ioniq 5,72,65,96,DC Fast,CCS2,2025-01-22 16:00:00,2025-01-22 18:17:00,137,13.78,248.04,Sunny,Weekday,Credit Card,Maintenance
+S00522,C1034,ST107,Delhi,Delhi,BYD,Seal EV,82,46,93,AC,Type 2,2025-01-22 17:00:00,2025-01-22 19:59:00,179,22.38,402.84,Rainy,Weekday,Net Banking,Available
+S00523,C1081,ST104,Delhi,Delhi,Hyundai,Kona Electric,39,60,96,AC,CCS2,2025-01-22 18:00:00,2025-01-22 20:30:00,150,49.15,884.7,Cloudy,Weekday,Net Banking,Available
+S00524,C1084,ST106,Hyderabad,Telangana,Tata,Tiago EV,24,14,96,DC Fast,Type 2,2025-01-22 19:00:00,2025-01-22 20:16:00,76,42.57,766.26,Rainy,Weekday,Credit Card,Busy
+S00525,C1091,ST101,Coimbatore,Tamil Nadu,Mahindra,XUV400,40,70,95,DC Fast,Type 2,2025-01-22 20:00:00,2025-01-22 22:45:00,165,58.03,1044.54,Rainy,Weekday,Credit Card,Maintenance
+S00526,C1039,ST109,Delhi,Delhi,MG,ZS EV,50,43,84,DC Fast,Type 2,2025-01-22 21:00:00,2025-01-22 23:46:00,166,27.32,491.76,Cloudy,Weekday,Debit Card,Maintenance
+S00527,C1055,ST106,Mumbai,Maharashtra,BYD,Atto 3,60,53,90,DC Fast,Type 2,2025-01-22 22:00:00,2025-01-23 00:03:00,123,36.13,650.34,Rainy,Weekday,Net Banking,Available
+S00528,C1032,ST104,Kochi,Kerala,Tata,Nexon EV,30,16,87,AC,Type 2,2025-01-22 23:00:00,2025-01-23 01:19:00,139,46.58,838.44,Rainy,Weekday,Debit Card,Maintenance
+S00529,C1057,ST102,Delhi,Delhi,Tata,Nexon EV,30,71,85,DC Fast,Type 2,2025-01-23 00:00:00,2025-01-23 02:43:00,163,34.26,616.68,Sunny,Weekday,UPI,Available
+S00530,C1009,ST106,Bangalore,Karnataka,Hyundai,Ioniq 5,72,66,89,AC,Type 2,2025-01-23 01:00:00,2025-01-23 03:39:00,159,50.33,905.94,Cloudy,Weekday,Credit Card,Busy
+S00531,C1006,ST108,Mumbai,Maharashtra,Hyundai,Kona Electric,39,23,85,DC Fast,CCS2,2025-01-23 02:00:00,2025-01-23 04:25:00,145,55.76,1003.68,Rainy,Weekday,Credit Card,Busy
+S00532,C1008,ST106,Kochi,Kerala,Tata,Tiago EV,24,18,96,AC,Type 2,2025-01-23 03:00:00,2025-01-23 04:32:00,92,46.66,839.88,Rainy,Weekday,Credit Card,Busy
+S00533,C1037,ST109,Kochi,Kerala,BYD,Atto 3,60,37,94,AC,Type 2,2025-01-23 04:00:00,2025-01-23 06:32:00,152,54.06,973.08,Sunny,Weekday,Credit Card,Maintenance
+S00534,C1065,ST107,Bangalore,Karnataka,Hyundai,Ioniq 5,72,44,81,DC Fast,Type 2,2025-01-23 05:00:00,2025-01-23 06:25:00,85,49.98,899.64,Rainy,Weekday,UPI,Maintenance
+S00535,C1075,ST105,Delhi,Delhi,Tata,Nexon EV,30,61,98,DC Fast,CCS2,2025-01-23 06:00:00,2025-01-23 06:45:00,45,12.66,227.88,Sunny,Weekday,Debit Card,Busy
+S00536,C1037,ST102,Chennai,Tamil Nadu,MG,ZS EV,50,57,82,DC Fast,CCS2,2025-01-23 07:00:00,2025-01-23 09:16:00,136,46.65,839.7,Rainy,Weekday,Credit Card,Maintenance
+S00537,C1007,ST107,Mumbai,Maharashtra,BYD,Seal EV,82,78,99,DC Fast,CCS2,2025-01-23 08:00:00,2025-01-23 10:05:00,125,16.14,290.52,Sunny,Weekday,Net Banking,Available
+S00538,C1001,ST108,Chennai,Tamil Nadu,Mahindra,BE 6,59,31,92,AC,Type 2,2025-01-23 09:00:00,2025-01-23 11:53:00,173,27.87,501.66,Cloudy,Weekday,Credit Card,Available
+S00539,C1013,ST110,Hyderabad,Telangana,Hyundai,Kona Electric,39,48,92,AC,CCS2,2025-01-23 10:00:00,2025-01-23 10:54:00,54,11.71,210.78,Rainy,Weekday,UPI,Available
+S00540,C1064,ST102,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,51,97,AC,Type 2,2025-01-23 11:00:00,2025-01-23 11:40:00,40,56.6,1018.8,Cloudy,Weekday,Debit Card,Busy
+S00541,C1047,ST106,Delhi,Delhi,MG,ZS EV,50,73,97,AC,CCS2,2025-01-23 12:00:00,2025-01-23 12:47:00,47,31.07,559.26,Sunny,Weekday,Net Banking,Available
+S00542,C1028,ST103,Chennai,Tamil Nadu,Hyundai,Ioniq 5,72,39,90,DC Fast,Type 2,2025-01-23 13:00:00,2025-01-23 14:16:00,76,52.67,948.06,Rainy,Weekday,UPI,Maintenance
+S00543,C1029,ST107,Hyderabad,Telangana,MG,ZS EV,50,48,91,AC,CCS2,2025-01-23 14:00:00,2025-01-23 16:08:00,128,29.81,536.58,Cloudy,Weekday,Debit Card,Busy
+S00544,C1081,ST109,Hyderabad,Telangana,Tata,Tiago EV,24,57,93,AC,CCS2,2025-01-23 15:00:00,2025-01-23 15:38:00,38,16.95,305.1,Cloudy,Weekday,UPI,Busy
+S00545,C1086,ST101,Bangalore,Karnataka,BYD,Atto 3,60,73,89,DC Fast,CCS2,2025-01-23 16:00:00,2025-01-23 18:23:00,143,13.18,237.24,Sunny,Weekday,Net Banking,Available
+S00546,C1100,ST103,Bangalore,Karnataka,Mahindra,XUV400,40,72,91,DC Fast,CCS2,2025-01-23 17:00:00,2025-01-23 17:44:00,44,29.68,534.24,Cloudy,Weekday,Net Banking,Busy
+S00547,C1003,ST102,Kochi,Kerala,Hyundai,Ioniq 5,72,31,97,AC,Type 2,2025-01-23 18:00:00,2025-01-23 20:22:00,142,26.83,482.94,Rainy,Weekday,Debit Card,Busy
+S00548,C1043,ST106,Kochi,Kerala,BYD,Seal EV,82,13,100,DC Fast,Type 2,2025-01-23 19:00:00,2025-01-23 20:46:00,106,12.56,226.08,Rainy,Weekday,UPI,Busy
+S00549,C1054,ST101,Coimbatore,Tamil Nadu,Tata,Nexon EV,30,67,94,DC Fast,Type 2,2025-01-23 20:00:00,2025-01-23 22:41:00,161,39.66,713.88,Cloudy,Weekday,Credit Card,Available
+S00550,C1043,ST101,Kochi,Kerala,Hyundai,Kona Electric,39,74,81,DC Fast,CCS2,2025-01-23 21:00:00,2025-01-23 22:01:00,61,51.55,927.9,Sunny,Weekday,Credit Card,Available
+S00551,C1009,ST105,Coimbatore,Tamil Nadu,Hyundai,Ioniq 5,72,47,82,AC,Type 2,2025-01-23 22:00:00,2025-01-23 23:17:00,77,28.13,506.34,Sunny,Weekday,Debit Card,Available
+S00552,C1006,ST104,Kochi,Kerala,Tata,Tiago EV,24,18,88,AC,CCS2,2025-01-23 23:00:00,2025-01-23 23:43:00,43,53.68,966.24,Sunny,Weekday,UPI,Available
+S00553,C1020,ST110,Mumbai,Maharashtra,Tata,Nexon EV,30,74,81,DC Fast,CCS2,2025-01-24 00:00:00,2025-01-24 02:42:00,162,24.9,448.2,Rainy,Weekday,Debit Card,Maintenance
+S00554,C1042,ST104,Hyderabad,Telangana,Mahindra,BE 6,59,11,99,AC,CCS2,2025-01-24 01:00:00,2025-01-24 01:23:00,23,20.76,373.68,Cloudy,Weekday,Credit Card,Available
+S00555,C1026,ST107,Chennai,Tamil Nadu,Tata,Punch EV,35,61,82,DC Fast,CCS2,2025-01-24 02:00:00,2025-01-24 04:09:00,129,19.55,351.9,Rainy,Weekday,Debit Card,Maintenance
+S00556,C1057,ST102,Coimbatore,Tamil Nadu,MG,ZS EV,50,57,87,AC,CCS2,2025-01-24 03:00:00,2025-01-24 05:15:00,135,45.67,822.06,Sunny,Weekday,Credit Card,Available
+S00557,C1059,ST105,Pune,Maharashtra,Hyundai,Ioniq 5,72,72,88,DC Fast,CCS2,2025-01-24 04:00:00,2025-01-24 04:32:00,32,57.01,1026.18,Cloudy,Weekday,Credit Card,Available
+S00558,C1078,ST105,Chennai,Tamil Nadu,Mahindra,BE 6,59,41,86,AC,Type 2,2025-01-24 05:00:00,2025-01-24 06:09:00,69,22.24,400.32,Rainy,Weekday,Debit Card,Maintenance
+S00559,C1019,ST104,Bangalore,Karnataka,MG,ZS EV,50,24,100,AC,Type 2,2025-01-24 06:00:00,2025-01-24 08:24:00,144,49.7,894.6,Cloudy,Weekday,Net Banking,Maintenance
+S00560,C1069,ST109,Coimbatore,Tamil Nadu,Tata,Tiago EV,24,25,99,DC Fast,CCS2,2025-01-24 07:00:00,2025-01-24 09:35:00,155,21.45,386.1,Sunny,Weekday,UPI,Maintenance
+S00561,C1005,ST101,Bangalore,Karnataka,Tata,Tiago EV,24,62,80,AC,CCS2,2025-01-24 08:00:00,2025-01-24 10:38:00,158,22.32,401.76,Sunny,Weekday,Net Banking,Busy
+S00562,C1007,ST108,Bangalore,Karnataka,BYD,Atto 3,60,73,97,DC Fast,CCS2,2025-01-24 09:00:00,2025-01-24 11:12:00,132,48.23,868.14,Cloudy,Weekday,Net Banking,Available
+S00563,C1057,ST108,Pune,Maharashtra,Tata,Punch EV,35,41,92,AC,CCS2,2025-01-24 10:00:00,2025-01-24 12:17:00,137,41.95,755.1,Sunny,Weekday,Credit Card,Maintenance
+S00564,C1049,ST102,Delhi,Delhi,Hyundai,Kona Electric,39,58,87,AC,CCS2,2025-01-24 11:00:00,2025-01-24 13:44:00,164,36.06,649.08,Rainy,Weekday,Debit Card,Maintenance
+S00565,C1061,ST105,Pune,Maharashtra,Mahindra,BE 6,59,61,89,AC,Type 2,2025-01-24 12:00:00,2025-01-24 12:23:00,23,39.47,710.46,Cloudy,Weekday,Debit Card,Available
+S00566,C1049,ST105,Bangalore,Karnataka,BYD,Seal EV,82,53,89,DC Fast,CCS2,2025-01-24 13:00:00,2025-01-24 16:00:00,180,20.18,363.24,Cloudy,Weekday,UPI,Busy
+S00567,C1069,ST107,Mumbai,Maharashtra,BYD,Seal EV,82,12,100,AC,CCS2,2025-01-24 14:00:00,2025-01-24 16:54:00,174,38.87,699.66,Sunny,Weekday,UPI,Busy
+S00568,C1086,ST103,Coimbatore,Tamil Nadu,MG,Comet EV,17,12,90,DC Fast,Type 2,2025-01-24 15:00:00,2025-01-24 15:43:00,43,19.96,359.28,Sunny,Weekday,Debit Card,Busy
+S00569,C1090,ST103,Pune,Maharashtra,MG,ZS EV,50,21,94,DC Fast,CCS2,2025-01-24 16:00:00,2025-01-24 18:19:00,139,30.99,557.82,Rainy,Weekday,Net Banking,Busy
+S00570,C1073,ST108,Mumbai,Maharashtra,Mahindra,XUV400,40,69,96,AC,Type 2,2025-01-24 17:00:00,2025-01-24 17:24:00,24,42.37,762.66,Cloudy,Weekday,Net Banking,Available
+S00571,C1087,ST108,Delhi,Delhi,Mahindra,XUV400,40,44,99,AC,Type 2,2025-01-24 18:00:00,2025-01-24 19:59:00,119,49.98,899.64,Rainy,Weekday,Net Banking,Available
+S00572,C1011,ST110,Pune,Maharashtra,BYD,Seal EV,82,68,81,AC,CCS2,2025-01-24 19:00:00,2025-01-24 20:04:00,64,16.56,298.08,Rainy,Weekday,Debit Card,Available
+S00573,C1016,ST107,Mumbai,Maharashtra,MG,Comet EV,17,17,90,DC Fast,CCS2,2025-01-24 20:00:00,2025-01-24 21:26:00,86,56.11,1009.98,Cloudy,Weekday,Debit Card,Maintenance
+S00574,C1095,ST105,Kochi,Kerala,MG,ZS EV,50,66,86,DC Fast,Type 2,2025-01-24 21:00:00,2025-01-24 23:24:00,144,51.25,922.5,Sunny,Weekday,Credit Card,Busy
+S00575,C1046,ST107,Kochi,Kerala,BYD,Atto 3,60,70,92,AC,CCS2,2025-01-24 22:00:00,2025-01-24 23:12:00,72,57.96,1043.28,Sunny,Weekday,Net Banking,Busy
+S00576,C1099,ST104,Delhi,Delhi,BYD,Atto 3,60,78,98,AC,CCS2,2025-01-24 23:00:00,2025-01-25 00:29:00,89,26.03,468.54,Cloudy,Weekday,Net Banking,Available
+S00577,C1072,ST101,Delhi,Delhi,Hyundai,Ioniq 5,72,20,81,AC,Type 2,2025-01-25 00:00:00,2025-01-25 02:25:00,145,47.47,854.46,Sunny,Weekend,UPI,Maintenance
+S00578,C1007,ST106,Coimbatore,Tamil Nadu,MG,ZS EV,50,61,100,AC,CCS2,2025-01-25 01:00:00,2025-01-25 02:13:00,73,47.95,863.1,Sunny,Weekend,Debit Card,Maintenance
+S00579,C1047,ST108,Mumbai,Maharashtra,Tata,Tiago EV,24,26,82,DC Fast,CCS2,2025-01-25 02:00:00,2025-01-25 04:45:00,165,23.73,427.14,Sunny,Weekend,Net Banking,Busy
+S00580,C1075,ST105,Coimbatore,Tamil Nadu,BYD,Atto 3,60,52,91,AC,Type 2,2025-01-25 03:00:00,2025-01-25 05:45:00,165,49.92,898.56,Rainy,Weekend,Net Banking,Maintenance
+S00581,C1100,ST108,Bangalore,Karnataka,MG,ZS EV,50,73,93,DC Fast,Type 2,2025-01-25 04:00:00,2025-01-25 06:43:00,163,54.76,985.68,Cloudy,Weekend,Credit Card,Available
+S00582,C1055,ST101,Bangalore,Karnataka,Mahindra,XUV400,40,30,86,AC,Type 2,2025-01-25 05:00:00,2025-01-25 07:39:00,159,49.01,882.18,Cloudy,Weekend,Net Banking,Available
+S00583,C1076,ST109,Delhi,Delhi,Hyundai,Kona Electric,39,25,93,DC Fast,CCS2,2025-01-25 06:00:00,2025-01-25 07:19:00,79,38.55,693.9,Cloudy,Weekend,Net Banking,Busy
+S00584,C1098,ST101,Mumbai,Maharashtra,Tata,Nexon EV,30,46,95,DC Fast,Type 2,2025-01-25 07:00:00,2025-01-25 08:06:00,66,56.63,1019.34,Sunny,Weekend,UPI,Maintenance
+S00585,C1014,ST105,Chennai,Tamil Nadu,BYD,Seal EV,82,59,86,AC,CCS2,2025-01-25 08:00:00,2025-01-25 10:29:00,149,43.83,788.94,Rainy,Weekend,Debit Card,Busy
+S00586,C1049,ST107,Pune,Maharashtra,BYD,Seal EV,82,61,91,AC,CCS2,2025-01-25 09:00:00,2025-01-25 10:58:00,118,56.92,1024.56,Sunny,Weekend,UPI,Available
+S00587,C1068,ST102,Delhi,Delhi,BYD,Seal EV,82,74,90,AC,CCS2,2025-01-25 10:00:00,2025-01-25 12:24:00,144,43.93,790.74,Cloudy,Weekend,Credit Card,Maintenance
+S00588,C1002,ST106,Coimbatore,Tamil Nadu,Hyundai,Ioniq 5,72,61,96,AC,CCS2,2025-01-25 11:00:00,2025-01-25 12:50:00,110,45.55,819.9,Rainy,Weekend,UPI,Busy
+S00589,C1051,ST103,Pune,Maharashtra,MG,ZS EV,50,67,97,AC,Type 2,2025-01-25 12:00:00,2025-01-25 13:02:00,62,54.99,989.82,Sunny,Weekend,UPI,Maintenance
+S00590,C1072,ST110,Coimbatore,Tamil Nadu,BYD,Atto 3,60,69,86,DC Fast,Type 2,2025-01-25 13:00:00,2025-01-25 15:22:00,142,22.45,404.1,Rainy,Weekend,UPI,Busy
+S00591,C1081,ST110,Pune,Maharashtra,Mahindra,XUV400,40,63,97,DC Fast,CCS2,2025-01-25 14:00:00,2025-01-25 14:37:00,37,51.61,928.98,Rainy,Weekend,UPI,Busy
+S00592,C1043,ST102,Coimbatore,Tamil Nadu,Hyundai,Ioniq 5,72,64,97,AC,CCS2,2025-01-25 15:00:00,2025-01-25 17:57:00,177,16.38,294.84,Cloudy,Weekend,UPI,Available
+S00593,C1035,ST107,Bangalore,Karnataka,MG,Comet EV,17,44,85,DC Fast,Type 2,2025-01-25 16:00:00,2025-01-25 16:45:00,45,21.88,393.84,Rainy,Weekend,Debit Card,Busy
+S00594,C1024,ST101,Hyderabad,Telangana,MG,ZS EV,50,44,89,DC Fast,Type 2,2025-01-25 17:00:00,2025-01-25 18:40:00,100,22.9,412.2,Cloudy,Weekend,UPI,Maintenance
+S00595,C1092,ST101,Pune,Maharashtra,BYD,Atto 3,60,26,92,AC,CCS2,2025-01-25 18:00:00,2025-01-25 20:55:00,175,29.88,537.84,Sunny,Weekend,UPI,Busy
+S00596,C1048,ST108,Delhi,Delhi,MG,Comet EV,17,50,85,DC Fast,Type 2,2025-01-25 19:00:00,2025-01-25 19:32:00,32,21.14,380.52,Sunny,Weekend,Credit Card,Available
+S00597,C1083,ST107,Mumbai,Maharashtra,MG,Comet EV,17,52,91,AC,Type 2,2025-01-25 20:00:00,2025-01-25 22:14:00,134,57.23,1030.14,Cloudy,Weekend,UPI,Busy
+S00598,C1062,ST101,Chennai,Tamil Nadu,Mahindra,BE 6,59,31,93,DC Fast,CCS2,2025-01-25 21:00:00,2025-01-25 23:13:00,133,10.35,186.3,Cloudy,Weekend,UPI,Maintenance
+S00599,C1077,ST104,Mumbai,Maharashtra,BYD,Seal EV,82,34,93,DC Fast,CCS2,2025-01-25 22:00:00,2025-01-25 22:29:00,29,10.67,192.06,Sunny,Weekend,Debit Card,Busy
+S00600,C1017,ST107,Pune,Maharashtra,MG,ZS EV,50,29,82,DC Fast,Type 2,2025-01-25 23:00:00,2025-01-25 23:28:00,28,54.41,979.38,Rainy,Weekend,UPI,Busy
+S00601,C1078,ST103,Mumbai,Maharashtra,Mahindra,XUV400,40,71,83,AC,CCS2,2025-01-26 00:00:00,2025-01-26 00:49:00,49,35.38,636.84,Rainy,Weekend,Debit Card,Available
+S00602,C1035,ST108,Coimbatore,Tamil Nadu,BYD,Seal EV,82,48,80,DC Fast,CCS2,2025-01-26 01:00:00,2025-01-26 01:56:00,56,25.79,464.22,Cloudy,Weekend,Net Banking,Available
+S00603,C1004,ST109,Kochi,Kerala,BYD,Atto 3,60,43,81,AC,Type 2,2025-01-26 02:00:00,2025-01-26 02:43:00,43,30.93,556.74,Cloudy,Weekend,Debit Card,Maintenance
+S00604,C1079,ST105,Mumbai,Maharashtra,Hyundai,Kona Electric,39,51,85,AC,CCS2,2025-01-26 03:00:00,2025-01-26 04:17:00,77,15.13,272.34,Rainy,Weekend,Debit Card,Maintenance
+S00605,C1025,ST105,Coimbatore,Tamil Nadu,Mahindra,XUV400,40,66,98,AC,Type 2,2025-01-26 04:00:00,2025-01-26 05:05:00,65,35.14,632.52,Sunny,Weekend,Net Banking,Available
+S00606,C1099,ST107,Kochi,Kerala,Tata,Tiago EV,24,73,98,AC,CCS2,2025-01-26 05:00:00,2025-01-26 07:51:00,171,29.99,539.82,Rainy,Weekend,Net Banking,Maintenance
+S00607,C1067,ST103,Bangalore,Karnataka,Mahindra,BE 6,59,52,86,AC,Type 2,2025-01-26 06:00:00,2025-01-26 06:28:00,28,40.38,726.84,Rainy,Weekend,UPI,Maintenance
+S00608,C1060,ST105,Hyderabad,Telangana,MG,Comet EV,17,39,99,DC Fast,CCS2,2025-01-26 07:00:00,2025-01-26 07:44:00,44,24.69,444.42,Sunny,Weekend,Debit Card,Available
+S00609,C1096,ST101,Bangalore,Karnataka,Hyundai,Kona Electric,39,74,98,AC,CCS2,2025-01-26 08:00:00,2025-01-26 09:42:00,102,41.41,745.38,Cloudy,Weekend,Net Banking,Available
+S00610,C1096,ST108,Kochi,Kerala,Mahindra,BE 6,59,12,85,DC Fast,CCS2,2025-01-26 09:00:00,2025-01-26 09:35:00,35,36.37,654.66,Cloudy,Weekend,Debit Card,Maintenance
+S00611,C1025,ST107,Coimbatore,Tamil Nadu,BYD,Atto 3,60,48,94,DC Fast,CCS2,2025-01-26 10:00:00,2025-01-26 11:55:00,115,28.57,514.26,Rainy,Weekend,Credit Card,Maintenance
+S00612,C1061,ST109,Coimbatore,Tamil Nadu,Mahindra,BE 6,59,57,82,AC,Type 2,2025-01-26 11:00:00,2025-01-26 11:40:00,40,21.8,392.4,Sunny,Weekend,Debit Card,Maintenance
+S00613,C1010,ST103,Coimbatore,Tamil Nadu,MG,Comet EV,17,52,98,DC Fast,CCS2,2025-01-26 12:00:00,2025-01-26 13:36:00,96,54.76,985.68,Rainy,Weekend,Net Banking,Available
+S00614,C1059,ST107,Pune,Maharashtra,MG,ZS EV,50,67,98,DC Fast,Type 2,2025-01-26 13:00:00,2025-01-26 14:00:00,60,45.78,824.04,Sunny,Weekend,Net Banking,Maintenance
+S00615,C1055,ST104,Delhi,Delhi,Tata,Nexon EV,30,70,99,DC Fast,CCS2,2025-01-26 14:00:00,2025-01-26 16:52:00,172,57.7,1038.6,Rainy,Weekend,UPI,Busy
+S00616,C1021,ST108,Delhi,Delhi,BYD,Atto 3,60,16,87,AC,CCS2,2025-01-26 15:00:00,2025-01-26 16:07:00,67,54.73,985.14,Cloudy,Weekend,Debit Card,Available
+S00617,C1055,ST105,Coimbatore,Tamil Nadu,BYD,Atto 3,60,50,83,AC,CCS2,2025-01-26 16:00:00,2025-01-26 18:54:00,174,48.08,865.44,Rainy,Weekend,Credit Card,Busy
+S00618,C1057,ST103,Pune,Maharashtra,MG,Comet EV,17,58,86,AC,Type 2,2025-01-26 17:00:00,2025-01-26 17:36:00,36,43.87,789.66,Cloudy,Weekend,UPI,Maintenance
+S00619,C1063,ST107,Pune,Maharashtra,Mahindra,BE 6,59,72,82,AC,CCS2,2025-01-26 18:00:00,2025-01-26 20:49:00,169,38.53,693.54,Sunny,Weekend,Net Banking,Busy
+S00620,C1002,ST104,Delhi,Delhi,Mahindra,XUV400,40,43,93,DC Fast,CCS2,2025-01-26 19:00:00,2025-01-26 20:37:00,97,51.86,933.48,Cloudy,Weekend,Credit Card,Busy
+S00621,C1058,ST103,Coimbatore,Tamil Nadu,MG,Comet EV,17,62,96,DC Fast,CCS2,2025-01-26 20:00:00,2025-01-26 22:19:00,139,47.19,849.42,Cloudy,Weekend,Credit Card,Busy
+S00622,C1094,ST106,Delhi,Delhi,BYD,Atto 3,60,56,85,AC,CCS2,2025-01-26 21:00:00,2025-01-26 21:47:00,47,51.23,922.14,Rainy,Weekend,Net Banking,Maintenance
+S00623,C1002,ST102,Pune,Maharashtra,BYD,Seal EV,82,29,88,DC Fast,Type 2,2025-01-26 22:00:00,2025-01-26 23:04:00,64,31.21,561.78,Sunny,Weekend,Credit Card,Busy
+S00624,C1037,ST108,Chennai,Tamil Nadu,BYD,Atto 3,60,36,99,DC Fast,Type 2,2025-01-26 23:00:00,2025-01-27 01:55:00,175,33.72,606.96,Cloudy,Weekend,Credit Card,Busy
+S00625,C1012,ST108,Chennai,Tamil Nadu,BYD,Atto 3,60,78,80,AC,Type 2,2025-01-27 00:00:00,2025-01-27 00:30:00,30,12.56,226.08,Cloudy,Weekday,Debit Card,Busy
+S00626,C1011,ST108,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,36,90,AC,Type 2,2025-01-27 01:00:00,2025-01-27 03:02:00,122,34.51,621.18,Sunny,Weekday,UPI,Busy
+S00627,C1068,ST106,Delhi,Delhi,Tata,Tiago EV,24,25,85,AC,CCS2,2025-01-27 02:00:00,2025-01-27 04:50:00,170,52.75,949.5,Cloudy,Weekday,UPI,Available
+S00628,C1085,ST107,Coimbatore,Tamil Nadu,Mahindra,BE 6,59,17,83,AC,CCS2,2025-01-27 03:00:00,2025-01-27 04:06:00,66,58.53,1053.54,Sunny,Weekday,UPI,Busy
+S00629,C1024,ST102,Mumbai,Maharashtra,Mahindra,BE 6,59,57,95,DC Fast,Type 2,2025-01-27 04:00:00,2025-01-27 05:05:00,65,19.76,355.68,Cloudy,Weekday,Credit Card,Busy
+S00630,C1063,ST109,Mumbai,Maharashtra,Tata,Nexon EV,30,34,80,AC,CCS2,2025-01-27 05:00:00,2025-01-27 05:54:00,54,31.28,563.04,Sunny,Weekday,Credit Card,Available
+S00631,C1069,ST103,Mumbai,Maharashtra,Mahindra,XUV400,40,50,93,AC,CCS2,2025-01-27 06:00:00,2025-01-27 07:06:00,66,53.22,957.96,Cloudy,Weekday,Net Banking,Available
+S00632,C1013,ST102,Delhi,Delhi,Hyundai,Ioniq 5,72,65,83,AC,Type 2,2025-01-27 07:00:00,2025-01-27 07:21:00,21,44.71,804.78,Cloudy,Weekday,Credit Card,Busy
+S00633,C1093,ST109,Chennai,Tamil Nadu,Tata,Tiago EV,24,27,90,DC Fast,CCS2,2025-01-27 08:00:00,2025-01-27 08:35:00,35,51.26,922.68,Sunny,Weekday,Debit Card,Busy
+S00634,C1089,ST101,Delhi,Delhi,MG,ZS EV,50,35,81,AC,Type 2,2025-01-27 09:00:00,2025-01-27 09:22:00,22,39.54,711.72,Cloudy,Weekday,Credit Card,Available
+S00635,C1016,ST101,Chennai,Tamil Nadu,Mahindra,BE 6,59,80,81,DC Fast,Type 2,2025-01-27 10:00:00,2025-01-27 12:35:00,155,26.56,478.08,Rainy,Weekday,Debit Card,Maintenance
+S00636,C1074,ST110,Hyderabad,Telangana,BYD,Seal EV,82,67,90,DC Fast,Type 2,2025-01-27 11:00:00,2025-01-27 12:29:00,89,48.98,881.64,Sunny,Weekday,Debit Card,Available
+S00637,C1009,ST110,Hyderabad,Telangana,Tata,Tiago EV,24,11,87,AC,CCS2,2025-01-27 12:00:00,2025-01-27 13:23:00,83,12.13,218.34,Sunny,Weekday,Debit Card,Busy
+S00638,C1085,ST105,Chennai,Tamil Nadu,BYD,Seal EV,82,58,98,AC,CCS2,2025-01-27 13:00:00,2025-01-27 15:08:00,128,17.95,323.1,Sunny,Weekday,Debit Card,Available
+S00639,C1035,ST109,Mumbai,Maharashtra,Mahindra,BE 6,59,65,90,AC,CCS2,2025-01-27 14:00:00,2025-01-27 15:39:00,99,55.49,998.82,Cloudy,Weekday,Credit Card,Maintenance
+S00640,C1039,ST109,Bangalore,Karnataka,Tata,Nexon EV,30,15,100,AC,Type 2,2025-01-27 15:00:00,2025-01-27 16:52:00,112,24.22,435.96,Sunny,Weekday,Credit Card,Busy
+S00641,C1050,ST104,Bangalore,Karnataka,Hyundai,Ioniq 5,72,54,82,DC Fast,Type 2,2025-01-27 16:00:00,2025-01-27 17:34:00,94,46.82,842.76,Rainy,Weekday,Debit Card,Available
+S00642,C1074,ST102,Bangalore,Karnataka,Mahindra,XUV400,40,47,97,DC Fast,CCS2,2025-01-27 17:00:00,2025-01-27 18:57:00,117,53.4,961.2,Rainy,Weekday,Net Banking,Busy
+S00643,C1048,ST107,Kochi,Kerala,Tata,Nexon EV,30,70,91,DC Fast,Type 2,2025-01-27 18:00:00,2025-01-27 19:56:00,116,29.06,523.08,Rainy,Weekday,Debit Card,Busy
+S00644,C1078,ST102,Coimbatore,Tamil Nadu,BYD,Atto 3,60,39,96,AC,Type 2,2025-01-27 19:00:00,2025-01-27 21:14:00,134,29.9,538.2,Rainy,Weekday,Credit Card,Available
+S00645,C1080,ST105,Pune,Maharashtra,MG,Comet EV,17,44,82,DC Fast,Type 2,2025-01-27 20:00:00,2025-01-27 20:30:00,30,21.98,395.64,Sunny,Weekday,Credit Card,Busy
+S00646,C1050,ST108,Pune,Maharashtra,Hyundai,Ioniq 5,72,47,84,AC,Type 2,2025-01-27 21:00:00,2025-01-27 23:13:00,133,12.12,218.16,Rainy,Weekday,UPI,Busy
+S00647,C1051,ST109,Pune,Maharashtra,BYD,Seal EV,82,29,91,AC,Type 2,2025-01-27 22:00:00,2025-01-28 00:45:00,165,34.77,625.86,Sunny,Weekday,Credit Card,Maintenance
+S00648,C1033,ST110,Chennai,Tamil Nadu,Tata,Tiago EV,24,65,95,DC Fast,Type 2,2025-01-27 23:00:00,2025-01-28 01:48:00,168,46.32,833.76,Rainy,Weekday,UPI,Maintenance
+S00649,C1018,ST109,Bangalore,Karnataka,BYD,Seal EV,82,66,86,AC,Type 2,2025-01-28 00:00:00,2025-01-28 00:50:00,50,13.15,236.7,Cloudy,Weekday,UPI,Available
+S00650,C1080,ST108,Delhi,Delhi,MG,Comet EV,17,39,91,DC Fast,CCS2,2025-01-28 01:00:00,2025-01-28 03:35:00,155,20.72,372.96,Rainy,Weekday,Net Banking,Available
+S00651,C1052,ST108,Coimbatore,Tamil Nadu,Hyundai,Ioniq 5,72,57,100,DC Fast,CCS2,2025-01-28 02:00:00,2025-01-28 02:45:00,45,51.3,923.4,Rainy,Weekday,UPI,Busy
+S00652,C1098,ST101,Hyderabad,Telangana,BYD,Atto 3,60,70,86,DC Fast,CCS2,2025-01-28 03:00:00,2025-01-28 03:36:00,36,11.45,206.1,Sunny,Weekday,UPI,Maintenance
+S00653,C1061,ST109,Kochi,Kerala,Tata,Punch EV,35,50,85,DC Fast,CCS2,2025-01-28 04:00:00,2025-01-28 05:39:00,99,16.38,294.84,Sunny,Weekday,UPI,Maintenance
+S00654,C1023,ST104,Coimbatore,Tamil Nadu,MG,ZS EV,50,49,100,DC Fast,CCS2,2025-01-28 05:00:00,2025-01-28 06:23:00,83,38.41,691.38,Cloudy,Weekday,UPI,Maintenance
+S00655,C1022,ST104,Mumbai,Maharashtra,Hyundai,Ioniq 5,72,67,95,AC,Type 2,2025-01-28 06:00:00,2025-01-28 07:23:00,83,38.63,695.34,Sunny,Weekday,UPI,Busy
+S00656,C1033,ST109,Hyderabad,Telangana,BYD,Atto 3,60,45,97,DC Fast,Type 2,2025-01-28 07:00:00,2025-01-28 07:45:00,45,27.06,487.08,Rainy,Weekday,UPI,Busy
+S00657,C1047,ST103,Pune,Maharashtra,Mahindra,XUV400,40,55,81,AC,CCS2,2025-01-28 08:00:00,2025-01-28 09:39:00,99,15.62,281.16,Cloudy,Weekday,Net Banking,Busy
+S00658,C1026,ST103,Mumbai,Maharashtra,Tata,Tiago EV,24,48,92,AC,Type 2,2025-01-28 09:00:00,2025-01-28 09:55:00,55,28.02,504.36,Rainy,Weekday,Debit Card,Maintenance
+S00659,C1057,ST103,Pune,Maharashtra,Hyundai,Ioniq 5,72,20,93,AC,CCS2,2025-01-28 10:00:00,2025-01-28 12:17:00,137,24.14,434.52,Sunny,Weekday,Credit Card,Available
+S00660,C1027,ST106,Pune,Maharashtra,Mahindra,XUV400,40,12,87,DC Fast,Type 2,2025-01-28 11:00:00,2025-01-28 13:31:00,151,38.41,691.38,Sunny,Weekday,Net Banking,Maintenance
+S00661,C1093,ST109,Bangalore,Karnataka,Hyundai,Kona Electric,39,29,92,DC Fast,Type 2,2025-01-28 12:00:00,2025-01-28 12:22:00,22,38.33,689.94,Sunny,Weekday,UPI,Busy
+S00662,C1091,ST109,Coimbatore,Tamil Nadu,BYD,Seal EV,82,17,88,AC,Type 2,2025-01-28 13:00:00,2025-01-28 15:11:00,131,41.94,754.92,Rainy,Weekday,Credit Card,Maintenance
+S00663,C1084,ST110,Hyderabad,Telangana,Mahindra,XUV400,40,29,87,AC,Type 2,2025-01-28 14:00:00,2025-01-28 14:48:00,48,37.16,668.88,Cloudy,Weekday,Debit Card,Maintenance
+S00664,C1096,ST103,Hyderabad,Telangana,MG,ZS EV,50,29,81,DC Fast,Type 2,2025-01-28 15:00:00,2025-01-28 16:37:00,97,10.7,192.6,Cloudy,Weekday,UPI,Maintenance
+S00665,C1042,ST108,Chennai,Tamil Nadu,BYD,Seal EV,82,32,91,AC,CCS2,2025-01-28 16:00:00,2025-01-28 16:40:00,40,24.04,432.72,Cloudy,Weekday,Credit Card,Maintenance
+S00666,C1037,ST105,Mumbai,Maharashtra,BYD,Atto 3,60,68,86,DC Fast,Type 2,2025-01-28 17:00:00,2025-01-28 18:01:00,61,56.31,1013.58,Rainy,Weekday,UPI,Busy
+S00667,C1075,ST108,Kochi,Kerala,Hyundai,Ioniq 5,72,75,89,DC Fast,Type 2,2025-01-28 18:00:00,2025-01-28 19:42:00,102,50.42,907.56,Sunny,Weekday,Credit Card,Available
+S00668,C1055,ST102,Chennai,Tamil Nadu,MG,ZS EV,50,73,85,AC,CCS2,2025-01-28 19:00:00,2025-01-28 21:58:00,178,26.63,479.34,Sunny,Weekday,Credit Card,Maintenance
+S00669,C1024,ST104,Kochi,Kerala,Mahindra,BE 6,59,66,91,AC,CCS2,2025-01-28 20:00:00,2025-01-28 21:53:00,113,39.72,714.96,Rainy,Weekday,UPI,Available
+S00670,C1095,ST103,Coimbatore,Tamil Nadu,Mahindra,XUV400,40,39,83,DC Fast,Type 2,2025-01-28 21:00:00,2025-01-28 22:26:00,86,15.79,284.22,Sunny,Weekday,Credit Card,Busy
+S00671,C1078,ST103,Pune,Maharashtra,Tata,Nexon EV,30,60,97,DC Fast,Type 2,2025-01-28 22:00:00,2025-01-28 22:35:00,35,21.23,382.14,Sunny,Weekday,Net Banking,Available
+S00672,C1062,ST108,Kochi,Kerala,Tata,Nexon EV,30,40,96,DC Fast,Type 2,2025-01-28 23:00:00,2025-01-29 01:21:00,141,20.36,366.48,Cloudy,Weekday,UPI,Available
+S00673,C1060,ST101,Bangalore,Karnataka,Hyundai,Ioniq 5,72,11,97,AC,CCS2,2025-01-29 00:00:00,2025-01-29 02:54:00,174,33.54,603.72,Rainy,Weekday,Debit Card,Maintenance
+S00674,C1099,ST103,Delhi,Delhi,Hyundai,Ioniq 5,72,13,80,AC,Type 2,2025-01-29 01:00:00,2025-01-29 02:30:00,90,53.39,961.02,Rainy,Weekday,Debit Card,Available
+S00675,C1024,ST108,Chennai,Tamil Nadu,Hyundai,Kona Electric,39,64,81,AC,CCS2,2025-01-29 02:00:00,2025-01-29 03:59:00,119,39.46,710.28,Rainy,Weekday,UPI,Maintenance
+S00676,C1022,ST110,Coimbatore,Tamil Nadu,BYD,Seal EV,82,42,82,AC,CCS2,2025-01-29 03:00:00,2025-01-29 03:56:00,56,17.58,316.44,Rainy,Weekday,Net Banking,Available
+S00677,C1026,ST103,Bangalore,Karnataka,Tata,Tiago EV,24,67,90,AC,CCS2,2025-01-29 04:00:00,2025-01-29 06:48:00,168,39.72,714.96,Cloudy,Weekday,Net Banking,Busy
+S00678,C1015,ST110,Hyderabad,Telangana,Tata,Nexon EV,30,71,96,AC,CCS2,2025-01-29 05:00:00,2025-01-29 06:21:00,81,13.52,243.36,Sunny,Weekday,UPI,Busy
+S00679,C1041,ST101,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,58,98,DC Fast,CCS2,2025-01-29 06:00:00,2025-01-29 08:39:00,159,38.73,697.14,Rainy,Weekday,Debit Card,Busy
+S00680,C1045,ST105,Chennai,Tamil Nadu,Tata,Tiago EV,24,72,93,AC,Type 2,2025-01-29 07:00:00,2025-01-29 07:21:00,21,58.91,1060.38,Rainy,Weekday,Credit Card,Available
+S00681,C1020,ST108,Delhi,Delhi,Mahindra,BE 6,59,73,90,DC Fast,Type 2,2025-01-29 08:00:00,2025-01-29 08:35:00,35,15.43,277.74,Cloudy,Weekday,Credit Card,Busy
+S00682,C1056,ST110,Kochi,Kerala,Tata,Punch EV,35,42,98,AC,Type 2,2025-01-29 09:00:00,2025-01-29 11:40:00,160,18.0,324.0,Sunny,Weekday,Debit Card,Available
+S00683,C1071,ST103,Chennai,Tamil Nadu,BYD,Seal EV,82,53,80,AC,CCS2,2025-01-29 10:00:00,2025-01-29 10:26:00,26,22.38,402.84,Cloudy,Weekday,Credit Card,Busy
+S00684,C1002,ST107,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,22,91,AC,Type 2,2025-01-29 11:00:00,2025-01-29 12:27:00,87,37.03,666.54,Cloudy,Weekday,Credit Card,Busy
+S00685,C1090,ST107,Coimbatore,Tamil Nadu,Hyundai,Ioniq 5,72,77,89,DC Fast,Type 2,2025-01-29 12:00:00,2025-01-29 13:30:00,90,48.36,870.48,Sunny,Weekday,Net Banking,Available
+S00686,C1023,ST106,Bangalore,Karnataka,Mahindra,XUV400,40,26,84,DC Fast,Type 2,2025-01-29 13:00:00,2025-01-29 15:33:00,153,17.13,308.34,Rainy,Weekday,Debit Card,Available
+S00687,C1062,ST102,Delhi,Delhi,Mahindra,XUV400,40,16,96,AC,Type 2,2025-01-29 14:00:00,2025-01-29 15:24:00,84,44.26,796.68,Sunny,Weekday,Credit Card,Available
+S00688,C1077,ST105,Coimbatore,Tamil Nadu,Tata,Nexon EV,30,43,94,DC Fast,Type 2,2025-01-29 15:00:00,2025-01-29 17:46:00,166,46.92,844.56,Rainy,Weekday,Credit Card,Busy
+S00689,C1006,ST110,Coimbatore,Tamil Nadu,Tata,Punch EV,35,34,90,AC,CCS2,2025-01-29 16:00:00,2025-01-29 17:47:00,107,16.57,298.26,Cloudy,Weekday,Debit Card,Available
+S00690,C1084,ST103,Delhi,Delhi,MG,Comet EV,17,73,93,DC Fast,Type 2,2025-01-29 17:00:00,2025-01-29 17:52:00,52,42.51,765.18,Rainy,Weekday,UPI,Maintenance
+S00691,C1027,ST107,Hyderabad,Telangana,BYD,Seal EV,82,14,98,AC,Type 2,2025-01-29 18:00:00,2025-01-29 19:56:00,116,25.9,466.2,Cloudy,Weekday,Debit Card,Maintenance
+S00692,C1060,ST108,Kochi,Kerala,Mahindra,BE 6,59,27,100,DC Fast,Type 2,2025-01-29 19:00:00,2025-01-29 20:03:00,63,57.83,1040.94,Sunny,Weekday,Credit Card,Maintenance
+S00693,C1096,ST105,Mumbai,Maharashtra,MG,Comet EV,17,30,93,AC,Type 2,2025-01-29 20:00:00,2025-01-29 20:26:00,26,34.94,628.92,Cloudy,Weekday,Credit Card,Maintenance
+S00694,C1058,ST108,Chennai,Tamil Nadu,Mahindra,BE 6,59,20,81,DC Fast,Type 2,2025-01-29 21:00:00,2025-01-29 23:54:00,174,19.51,351.18,Cloudy,Weekday,Net Banking,Busy
+S00695,C1016,ST104,Pune,Maharashtra,Mahindra,XUV400,40,49,84,DC Fast,CCS2,2025-01-29 22:00:00,2025-01-30 00:27:00,147,55.83,1004.94,Sunny,Weekday,Net Banking,Available
+S00696,C1011,ST105,Coimbatore,Tamil Nadu,Hyundai,Ioniq 5,72,10,99,DC Fast,CCS2,2025-01-29 23:00:00,2025-01-30 00:29:00,89,53.08,955.44,Cloudy,Weekday,Debit Card,Available
+S00697,C1071,ST101,Mumbai,Maharashtra,MG,ZS EV,50,51,87,DC Fast,Type 2,2025-01-30 00:00:00,2025-01-30 01:24:00,84,51.51,927.18,Sunny,Weekday,Debit Card,Available
+S00698,C1090,ST106,Coimbatore,Tamil Nadu,BYD,Seal EV,82,56,81,DC Fast,CCS2,2025-01-30 01:00:00,2025-01-30 03:29:00,149,44.87,807.66,Rainy,Weekday,UPI,Available
+S00699,C1066,ST104,Mumbai,Maharashtra,Mahindra,XUV400,40,64,95,DC Fast,Type 2,2025-01-30 02:00:00,2025-01-30 02:54:00,54,24.82,446.76,Rainy,Weekday,UPI,Busy
+S00700,C1095,ST110,Kochi,Kerala,Mahindra,XUV400,40,35,98,AC,CCS2,2025-01-30 03:00:00,2025-01-30 05:19:00,139,28.07,505.26,Rainy,Weekday,Debit Card,Maintenance
+S00701,C1084,ST108,Kochi,Kerala,MG,Comet EV,17,36,84,DC Fast,CCS2,2025-01-30 04:00:00,2025-01-30 04:53:00,53,30.77,553.86,Rainy,Weekday,Net Banking,Available
+S00702,C1037,ST109,Chennai,Tamil Nadu,Tata,Nexon EV,30,63,94,DC Fast,Type 2,2025-01-30 05:00:00,2025-01-30 07:17:00,137,33.57,604.26,Cloudy,Weekday,Credit Card,Available
+S00703,C1036,ST108,Mumbai,Maharashtra,Mahindra,XUV400,40,11,81,DC Fast,CCS2,2025-01-30 06:00:00,2025-01-30 07:18:00,78,41.05,738.9,Cloudy,Weekday,UPI,Busy
+S00704,C1064,ST105,Coimbatore,Tamil Nadu,Mahindra,XUV400,40,50,85,AC,Type 2,2025-01-30 07:00:00,2025-01-30 07:30:00,30,41.64,749.52,Cloudy,Weekday,UPI,Maintenance
+S00705,C1027,ST109,Bangalore,Karnataka,MG,ZS EV,50,75,91,AC,CCS2,2025-01-30 08:00:00,2025-01-30 10:07:00,127,27.53,495.54,Cloudy,Weekday,Credit Card,Available
+S00706,C1047,ST106,Chennai,Tamil Nadu,Mahindra,BE 6,59,14,84,AC,CCS2,2025-01-30 09:00:00,2025-01-30 10:29:00,89,13.71,246.78,Sunny,Weekday,Debit Card,Maintenance
+S00707,C1064,ST102,Delhi,Delhi,MG,ZS EV,50,15,88,DC Fast,CCS2,2025-01-30 10:00:00,2025-01-30 10:27:00,27,33.76,607.68,Cloudy,Weekday,UPI,Available
+S00708,C1072,ST109,Hyderabad,Telangana,Mahindra,XUV400,40,29,82,AC,Type 2,2025-01-30 11:00:00,2025-01-30 12:47:00,107,46.63,839.34,Sunny,Weekday,UPI,Maintenance
+S00709,C1092,ST101,Mumbai,Maharashtra,Hyundai,Ioniq 5,72,26,83,AC,Type 2,2025-01-30 12:00:00,2025-01-30 14:01:00,121,20.7,372.6,Rainy,Weekday,Debit Card,Busy
+S00710,C1041,ST103,Mumbai,Maharashtra,Tata,Tiago EV,24,41,85,AC,CCS2,2025-01-30 13:00:00,2025-01-30 14:29:00,89,11.15,200.7,Rainy,Weekday,Credit Card,Busy
+S00711,C1080,ST110,Mumbai,Maharashtra,Tata,Nexon EV,30,70,91,AC,Type 2,2025-01-30 14:00:00,2025-01-30 14:34:00,34,44.78,806.04,Sunny,Weekday,Net Banking,Maintenance
+S00712,C1013,ST105,Delhi,Delhi,Hyundai,Kona Electric,39,77,83,AC,CCS2,2025-01-30 15:00:00,2025-01-30 17:48:00,168,53.98,971.64,Sunny,Weekday,UPI,Busy
+S00713,C1086,ST107,Mumbai,Maharashtra,Tata,Tiago EV,24,48,100,AC,CCS2,2025-01-30 16:00:00,2025-01-30 16:27:00,27,57.41,1033.38,Rainy,Weekday,UPI,Busy
+S00714,C1040,ST103,Pune,Maharashtra,Mahindra,XUV400,40,52,100,AC,CCS2,2025-01-30 17:00:00,2025-01-30 19:00:00,120,25.63,461.34,Sunny,Weekday,Credit Card,Busy
+S00715,C1080,ST101,Bangalore,Karnataka,MG,ZS EV,50,21,87,DC Fast,Type 2,2025-01-30 18:00:00,2025-01-30 19:19:00,79,41.43,745.74,Sunny,Weekday,Credit Card,Busy
+S00716,C1043,ST101,Pune,Maharashtra,Mahindra,BE 6,59,79,89,DC Fast,Type 2,2025-01-30 19:00:00,2025-01-30 19:26:00,26,40.4,727.2,Sunny,Weekday,Debit Card,Busy
+S00717,C1100,ST105,Delhi,Delhi,BYD,Atto 3,60,32,85,DC Fast,Type 2,2025-01-30 20:00:00,2025-01-30 20:48:00,48,54.44,979.92,Cloudy,Weekday,UPI,Available
+S00718,C1084,ST104,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,52,97,AC,CCS2,2025-01-30 21:00:00,2025-01-30 21:49:00,49,11.26,202.68,Cloudy,Weekday,Credit Card,Busy
+S00719,C1064,ST106,Coimbatore,Tamil Nadu,MG,Comet EV,17,55,86,AC,CCS2,2025-01-30 22:00:00,2025-01-30 23:19:00,79,29.48,530.64,Rainy,Weekday,Net Banking,Maintenance
+S00720,C1091,ST110,Chennai,Tamil Nadu,MG,Comet EV,17,71,85,DC Fast,CCS2,2025-01-30 23:00:00,2025-01-30 23:49:00,49,15.65,281.7,Rainy,Weekday,Debit Card,Busy
+S00721,C1063,ST107,Hyderabad,Telangana,BYD,Atto 3,60,72,100,AC,Type 2,2025-01-31 00:00:00,2025-01-31 02:43:00,163,31.1,559.8,Cloudy,Weekday,Net Banking,Maintenance
+S00722,C1089,ST101,Mumbai,Maharashtra,Tata,Nexon EV,30,45,93,DC Fast,CCS2,2025-01-31 01:00:00,2025-01-31 03:32:00,152,16.15,290.7,Sunny,Weekday,Credit Card,Available
+S00723,C1088,ST109,Hyderabad,Telangana,Tata,Tiago EV,24,43,92,AC,CCS2,2025-01-31 02:00:00,2025-01-31 04:04:00,124,21.33,383.94,Sunny,Weekday,Debit Card,Available
+S00724,C1035,ST110,Chennai,Tamil Nadu,BYD,Atto 3,60,10,80,DC Fast,CCS2,2025-01-31 03:00:00,2025-01-31 04:25:00,85,30.17,543.06,Cloudy,Weekday,UPI,Available
+S00725,C1098,ST104,Delhi,Delhi,Tata,Punch EV,35,22,87,DC Fast,Type 2,2025-01-31 04:00:00,2025-01-31 06:07:00,127,41.12,740.16,Sunny,Weekday,Net Banking,Available
+S00726,C1012,ST107,Mumbai,Maharashtra,BYD,Seal EV,82,62,87,DC Fast,Type 2,2025-01-31 05:00:00,2025-01-31 06:21:00,81,51.22,921.96,Rainy,Weekday,UPI,Busy
+S00727,C1005,ST103,Bangalore,Karnataka,Mahindra,BE 6,59,56,99,DC Fast,CCS2,2025-01-31 06:00:00,2025-01-31 06:34:00,34,49.42,889.56,Rainy,Weekday,UPI,Maintenance
+S00728,C1029,ST102,Coimbatore,Tamil Nadu,Mahindra,XUV400,40,61,85,AC,CCS2,2025-01-31 07:00:00,2025-01-31 08:06:00,66,13.51,243.18,Rainy,Weekday,Debit Card,Available
+S00729,C1070,ST102,Delhi,Delhi,Hyundai,Kona Electric,39,34,85,DC Fast,Type 2,2025-01-31 08:00:00,2025-01-31 10:11:00,131,32.54,585.72,Rainy,Weekday,Credit Card,Maintenance
+S00730,C1098,ST104,Chennai,Tamil Nadu,Hyundai,Kona Electric,39,72,83,DC Fast,CCS2,2025-01-31 09:00:00,2025-01-31 10:33:00,93,34.95,629.1,Sunny,Weekday,UPI,Available
+S00731,C1033,ST103,Kochi,Kerala,Tata,Punch EV,35,56,99,AC,CCS2,2025-01-31 10:00:00,2025-01-31 10:50:00,50,12.91,232.38,Cloudy,Weekday,UPI,Busy
+S00732,C1008,ST104,Delhi,Delhi,MG,Comet EV,17,39,94,DC Fast,CCS2,2025-01-31 11:00:00,2025-01-31 12:37:00,97,21.03,378.54,Rainy,Weekday,UPI,Available
+S00733,C1086,ST101,Chennai,Tamil Nadu,Hyundai,Ioniq 5,72,50,85,DC Fast,CCS2,2025-01-31 12:00:00,2025-01-31 12:22:00,22,15.14,272.52,Rainy,Weekday,Debit Card,Available
+S00734,C1085,ST104,Bangalore,Karnataka,MG,ZS EV,50,52,88,AC,CCS2,2025-01-31 13:00:00,2025-01-31 13:52:00,52,24.16,434.88,Cloudy,Weekday,Debit Card,Maintenance
+S00735,C1049,ST101,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,72,85,AC,Type 2,2025-01-31 14:00:00,2025-01-31 14:21:00,21,46.86,843.48,Rainy,Weekday,Debit Card,Available
+S00736,C1022,ST104,Mumbai,Maharashtra,BYD,Seal EV,82,15,95,AC,Type 2,2025-01-31 15:00:00,2025-01-31 17:03:00,123,18.88,339.84,Rainy,Weekday,Debit Card,Busy
+S00737,C1091,ST107,Pune,Maharashtra,Hyundai,Ioniq 5,72,13,99,DC Fast,Type 2,2025-01-31 16:00:00,2025-01-31 17:42:00,102,35.9,646.2,Rainy,Weekday,Debit Card,Maintenance
+S00738,C1067,ST106,Bangalore,Karnataka,Hyundai,Ioniq 5,72,28,94,DC Fast,CCS2,2025-01-31 17:00:00,2025-01-31 18:19:00,79,12.05,216.9,Cloudy,Weekday,UPI,Busy
+S00739,C1064,ST106,Hyderabad,Telangana,Mahindra,BE 6,59,69,88,AC,Type 2,2025-01-31 18:00:00,2025-01-31 18:59:00,59,10.1,181.8,Sunny,Weekday,Debit Card,Available
+S00740,C1073,ST101,Kochi,Kerala,Hyundai,Ioniq 5,72,24,83,DC Fast,CCS2,2025-01-31 19:00:00,2025-01-31 20:47:00,107,15.45,278.1,Cloudy,Weekday,UPI,Busy
+S00741,C1070,ST106,Hyderabad,Telangana,Mahindra,XUV400,40,62,91,AC,CCS2,2025-01-31 20:00:00,2025-01-31 21:22:00,82,11.5,207.0,Sunny,Weekday,Debit Card,Maintenance
+S00742,C1076,ST104,Delhi,Delhi,BYD,Seal EV,82,47,88,DC Fast,Type 2,2025-01-31 21:00:00,2025-01-31 22:14:00,74,13.51,243.18,Rainy,Weekday,UPI,Busy
+S00743,C1069,ST101,Coimbatore,Tamil Nadu,Hyundai,Ioniq 5,72,72,90,DC Fast,CCS2,2025-01-31 22:00:00,2025-02-01 00:03:00,123,18.93,340.74,Sunny,Weekday,Credit Card,Maintenance
+S00744,C1043,ST103,Bangalore,Karnataka,MG,Comet EV,17,50,83,DC Fast,Type 2,2025-01-31 23:00:00,2025-02-01 00:16:00,76,14.37,258.66,Cloudy,Weekday,UPI,Busy
+S00745,C1081,ST102,Bangalore,Karnataka,Tata,Punch EV,35,76,98,AC,CCS2,2025-02-01 00:00:00,2025-02-01 01:33:00,93,18.16,326.88,Cloudy,Weekend,Net Banking,Available
+S00746,C1082,ST103,Coimbatore,Tamil Nadu,Mahindra,XUV400,40,48,80,DC Fast,Type 2,2025-02-01 01:00:00,2025-02-01 03:05:00,125,43.94,790.92,Rainy,Weekend,UPI,Maintenance
+S00747,C1090,ST104,Mumbai,Maharashtra,Mahindra,XUV400,40,34,92,DC Fast,Type 2,2025-02-01 02:00:00,2025-02-01 03:23:00,83,54.09,973.62,Cloudy,Weekend,Credit Card,Busy
+S00748,C1068,ST101,Delhi,Delhi,Tata,Nexon EV,30,15,96,DC Fast,Type 2,2025-02-01 03:00:00,2025-02-01 05:44:00,164,18.71,336.78,Sunny,Weekend,Debit Card,Maintenance
+S00749,C1004,ST104,Bangalore,Karnataka,BYD,Seal EV,82,47,90,AC,CCS2,2025-02-01 04:00:00,2025-02-01 05:33:00,93,45.47,818.46,Sunny,Weekend,Debit Card,Maintenance
+S00750,C1049,ST104,Bangalore,Karnataka,Hyundai,Ioniq 5,72,18,90,AC,CCS2,2025-02-01 05:00:00,2025-02-01 07:09:00,129,41.76,751.68,Cloudy,Weekend,Debit Card,Maintenance
+S00751,C1047,ST108,Delhi,Delhi,Tata,Tiago EV,24,26,87,DC Fast,CCS2,2025-02-01 06:00:00,2025-02-01 07:02:00,62,34.33,617.94,Rainy,Weekend,UPI,Maintenance
+S00752,C1039,ST104,Hyderabad,Telangana,Tata,Punch EV,35,18,97,AC,Type 2,2025-02-01 07:00:00,2025-02-01 08:42:00,102,52.86,951.48,Cloudy,Weekend,Credit Card,Available
+S00753,C1032,ST109,Bangalore,Karnataka,BYD,Atto 3,60,30,99,AC,CCS2,2025-02-01 08:00:00,2025-02-01 10:21:00,141,55.47,998.46,Cloudy,Weekend,Debit Card,Maintenance
+S00754,C1014,ST109,Hyderabad,Telangana,Tata,Tiago EV,24,20,92,AC,CCS2,2025-02-01 09:00:00,2025-02-01 11:46:00,166,54.57,982.26,Rainy,Weekend,UPI,Maintenance
+S00755,C1009,ST107,Kochi,Kerala,MG,Comet EV,17,25,92,AC,Type 2,2025-02-01 10:00:00,2025-02-01 11:22:00,82,48.31,869.58,Rainy,Weekend,Net Banking,Maintenance
+S00756,C1051,ST109,Bangalore,Karnataka,BYD,Seal EV,82,58,88,AC,CCS2,2025-02-01 11:00:00,2025-02-01 12:19:00,79,31.22,561.96,Cloudy,Weekend,Net Banking,Maintenance
+S00757,C1094,ST103,Kochi,Kerala,Hyundai,Ioniq 5,72,40,93,DC Fast,Type 2,2025-02-01 12:00:00,2025-02-01 13:40:00,100,48.73,877.14,Sunny,Weekend,Debit Card,Busy
+S00758,C1093,ST106,Chennai,Tamil Nadu,BYD,Atto 3,60,40,95,AC,Type 2,2025-02-01 13:00:00,2025-02-01 14:43:00,103,29.9,538.2,Rainy,Weekend,UPI,Maintenance
+S00759,C1096,ST101,Delhi,Delhi,Tata,Tiago EV,24,15,85,DC Fast,CCS2,2025-02-01 14:00:00,2025-02-01 16:17:00,137,58.88,1059.84,Sunny,Weekend,Credit Card,Busy
+S00760,C1067,ST105,Hyderabad,Telangana,BYD,Seal EV,82,66,93,DC Fast,CCS2,2025-02-01 15:00:00,2025-02-01 16:01:00,61,21.49,386.82,Rainy,Weekend,Net Banking,Maintenance
+S00761,C1047,ST107,Hyderabad,Telangana,Mahindra,XUV400,40,59,90,AC,CCS2,2025-02-01 16:00:00,2025-02-01 16:45:00,45,35.14,632.52,Rainy,Weekend,Net Banking,Maintenance
+S00762,C1095,ST107,Chennai,Tamil Nadu,Mahindra,BE 6,59,11,99,AC,Type 2,2025-02-01 17:00:00,2025-02-01 18:21:00,81,39.61,712.98,Sunny,Weekend,Credit Card,Maintenance
+S00763,C1040,ST103,Coimbatore,Tamil Nadu,MG,ZS EV,50,71,80,AC,Type 2,2025-02-01 18:00:00,2025-02-01 19:00:00,60,46.32,833.76,Sunny,Weekend,Credit Card,Busy
+S00764,C1013,ST103,Hyderabad,Telangana,BYD,Seal EV,82,56,100,AC,CCS2,2025-02-01 19:00:00,2025-02-01 19:54:00,54,47.12,848.16,Cloudy,Weekend,UPI,Busy
+S00765,C1036,ST109,Chennai,Tamil Nadu,Hyundai,Ioniq 5,72,40,85,DC Fast,CCS2,2025-02-01 20:00:00,2025-02-01 20:32:00,32,39.11,703.98,Rainy,Weekend,Net Banking,Busy
+S00766,C1079,ST106,Coimbatore,Tamil Nadu,MG,ZS EV,50,37,85,DC Fast,Type 2,2025-02-01 21:00:00,2025-02-01 23:37:00,157,59.1,1063.8,Rainy,Weekend,UPI,Busy
+S00767,C1092,ST101,Kochi,Kerala,Tata,Tiago EV,24,26,90,AC,Type 2,2025-02-01 22:00:00,2025-02-02 00:00:00,120,22.43,403.74,Sunny,Weekend,Credit Card,Available
+S00768,C1064,ST110,Mumbai,Maharashtra,MG,ZS EV,50,30,95,DC Fast,Type 2,2025-02-01 23:00:00,2025-02-02 01:35:00,155,33.93,610.74,Sunny,Weekend,Credit Card,Available
+S00769,C1075,ST109,Coimbatore,Tamil Nadu,BYD,Seal EV,82,43,98,DC Fast,Type 2,2025-02-02 00:00:00,2025-02-02 00:57:00,57,38.54,693.72,Cloudy,Weekend,Debit Card,Available
+S00770,C1044,ST109,Coimbatore,Tamil Nadu,MG,ZS EV,50,42,82,AC,Type 2,2025-02-02 01:00:00,2025-02-02 01:53:00,53,18.75,337.5,Sunny,Weekend,Debit Card,Maintenance
+S00771,C1086,ST109,Mumbai,Maharashtra,BYD,Atto 3,60,51,80,DC Fast,CCS2,2025-02-02 02:00:00,2025-02-02 03:13:00,73,10.79,194.22,Sunny,Weekend,Credit Card,Maintenance
+S00772,C1008,ST105,Coimbatore,Tamil Nadu,MG,ZS EV,50,71,83,DC Fast,CCS2,2025-02-02 03:00:00,2025-02-02 03:53:00,53,25.58,460.44,Sunny,Weekend,Credit Card,Available
+S00773,C1090,ST102,Hyderabad,Telangana,MG,Comet EV,17,65,98,AC,CCS2,2025-02-02 04:00:00,2025-02-02 06:55:00,175,14.74,265.32,Cloudy,Weekend,Net Banking,Maintenance
+S00774,C1073,ST110,Mumbai,Maharashtra,Mahindra,XUV400,40,65,95,AC,Type 2,2025-02-02 05:00:00,2025-02-02 05:22:00,22,45.04,810.72,Rainy,Weekend,Net Banking,Maintenance
+S00775,C1008,ST103,Mumbai,Maharashtra,Tata,Nexon EV,30,27,83,DC Fast,Type 2,2025-02-02 06:00:00,2025-02-02 07:38:00,98,31.95,575.1,Sunny,Weekend,UPI,Maintenance
+S00776,C1061,ST108,Pune,Maharashtra,MG,Comet EV,17,16,85,DC Fast,CCS2,2025-02-02 07:00:00,2025-02-02 08:30:00,90,12.73,229.14,Rainy,Weekend,Net Banking,Available
+S00777,C1028,ST107,Kochi,Kerala,Mahindra,BE 6,59,24,84,DC Fast,Type 2,2025-02-02 08:00:00,2025-02-02 08:32:00,32,25.36,456.48,Cloudy,Weekend,Credit Card,Maintenance
+S00778,C1040,ST101,Hyderabad,Telangana,MG,ZS EV,50,64,80,AC,Type 2,2025-02-02 09:00:00,2025-02-02 10:18:00,78,50.49,908.82,Sunny,Weekend,Debit Card,Busy
+S00779,C1010,ST105,Kochi,Kerala,Hyundai,Kona Electric,39,14,95,AC,CCS2,2025-02-02 10:00:00,2025-02-02 10:36:00,36,32.5,585.0,Rainy,Weekend,Credit Card,Busy
+S00780,C1010,ST103,Pune,Maharashtra,Tata,Punch EV,35,77,80,DC Fast,Type 2,2025-02-02 11:00:00,2025-02-02 13:20:00,140,17.95,323.1,Rainy,Weekend,Net Banking,Maintenance
+S00781,C1023,ST106,Chennai,Tamil Nadu,Hyundai,Ioniq 5,72,19,81,AC,CCS2,2025-02-02 12:00:00,2025-02-02 13:48:00,108,34.59,622.62,Cloudy,Weekend,UPI,Maintenance
+S00782,C1048,ST107,Bangalore,Karnataka,Mahindra,BE 6,59,22,84,DC Fast,CCS2,2025-02-02 13:00:00,2025-02-02 14:50:00,110,34.55,621.9,Rainy,Weekend,Net Banking,Maintenance
+S00783,C1100,ST107,Hyderabad,Telangana,Tata,Tiago EV,24,29,93,DC Fast,CCS2,2025-02-02 14:00:00,2025-02-02 16:11:00,131,19.32,347.76,Cloudy,Weekend,Debit Card,Busy
+S00784,C1045,ST109,Chennai,Tamil Nadu,Mahindra,BE 6,59,72,92,DC Fast,CCS2,2025-02-02 15:00:00,2025-02-02 16:36:00,96,23.34,420.12,Rainy,Weekend,UPI,Busy
+S00785,C1092,ST105,Coimbatore,Tamil Nadu,BYD,Seal EV,82,57,83,DC Fast,CCS2,2025-02-02 16:00:00,2025-02-02 18:30:00,150,12.42,223.56,Sunny,Weekend,Debit Card,Maintenance
+S00786,C1086,ST101,Coimbatore,Tamil Nadu,MG,Comet EV,17,80,84,DC Fast,Type 2,2025-02-02 17:00:00,2025-02-02 18:00:00,60,53.9,970.2,Cloudy,Weekend,Debit Card,Busy
+S00787,C1041,ST109,Delhi,Delhi,Tata,Nexon EV,30,61,95,DC Fast,Type 2,2025-02-02 18:00:00,2025-02-02 20:10:00,130,46.03,828.54,Cloudy,Weekend,Net Banking,Busy
+S00788,C1069,ST103,Chennai,Tamil Nadu,Hyundai,Ioniq 5,72,57,88,AC,CCS2,2025-02-02 19:00:00,2025-02-02 20:36:00,96,29.02,522.36,Rainy,Weekend,UPI,Busy
+S00789,C1087,ST110,Delhi,Delhi,Hyundai,Kona Electric,39,17,85,AC,Type 2,2025-02-02 20:00:00,2025-02-02 22:14:00,134,58.69,1056.42,Cloudy,Weekend,Debit Card,Busy
+S00790,C1062,ST110,Bangalore,Karnataka,BYD,Seal EV,82,52,95,AC,Type 2,2025-02-02 21:00:00,2025-02-02 23:08:00,128,49.91,898.38,Sunny,Weekend,Credit Card,Busy
+S00791,C1032,ST102,Chennai,Tamil Nadu,Tata,Nexon EV,30,26,84,AC,CCS2,2025-02-02 22:00:00,2025-02-02 23:42:00,102,45.59,820.62,Sunny,Weekend,Net Banking,Maintenance
+S00792,C1034,ST105,Chennai,Tamil Nadu,MG,Comet EV,17,62,93,DC Fast,Type 2,2025-02-02 23:00:00,2025-02-03 01:51:00,171,48.87,879.66,Cloudy,Weekend,Credit Card,Available
+S00793,C1061,ST109,Delhi,Delhi,Tata,Nexon EV,30,30,98,DC Fast,CCS2,2025-02-03 00:00:00,2025-02-03 02:55:00,175,12.2,219.6,Cloudy,Weekday,Debit Card,Maintenance
+S00794,C1072,ST102,Mumbai,Maharashtra,BYD,Seal EV,82,68,89,DC Fast,CCS2,2025-02-03 01:00:00,2025-02-03 02:56:00,116,55.48,998.64,Cloudy,Weekday,UPI,Available
+S00795,C1066,ST102,Bangalore,Karnataka,MG,ZS EV,50,65,94,DC Fast,Type 2,2025-02-03 02:00:00,2025-02-03 04:01:00,121,17.1,307.8,Cloudy,Weekday,Net Banking,Busy
+S00796,C1033,ST108,Hyderabad,Telangana,Hyundai,Ioniq 5,72,51,88,AC,CCS2,2025-02-03 03:00:00,2025-02-03 05:38:00,158,46.74,841.32,Cloudy,Weekday,Credit Card,Available
+S00797,C1087,ST106,Bangalore,Karnataka,BYD,Atto 3,60,33,88,AC,CCS2,2025-02-03 04:00:00,2025-02-03 04:32:00,32,33.29,599.22,Rainy,Weekday,Debit Card,Available
+S00798,C1062,ST104,Hyderabad,Telangana,Mahindra,XUV400,40,36,95,DC Fast,CCS2,2025-02-03 05:00:00,2025-02-03 05:52:00,52,43.87,789.66,Rainy,Weekday,Debit Card,Maintenance
+S00799,C1082,ST105,Kochi,Kerala,Hyundai,Ioniq 5,72,25,82,DC Fast,Type 2,2025-02-03 06:00:00,2025-02-03 06:49:00,49,27.7,498.6,Rainy,Weekday,UPI,Busy
+S00800,C1021,ST109,Coimbatore,Tamil Nadu,Mahindra,BE 6,59,69,82,AC,Type 2,2025-02-03 07:00:00,2025-02-03 09:20:00,140,21.5,387.0,Sunny,Weekday,Credit Card,Busy
+S00801,C1020,ST101,Delhi,Delhi,MG,Comet EV,17,71,96,DC Fast,CCS2,2025-02-03 08:00:00,2025-02-03 10:58:00,178,15.2,273.6,Cloudy,Weekday,Net Banking,Busy
+S00802,C1071,ST106,Pune,Maharashtra,BYD,Seal EV,82,21,97,DC Fast,CCS2,2025-02-03 09:00:00,2025-02-03 09:55:00,55,58.29,1049.22,Cloudy,Weekday,Credit Card,Available
+S00803,C1013,ST109,Hyderabad,Telangana,Mahindra,XUV400,40,30,82,AC,CCS2,2025-02-03 10:00:00,2025-02-03 11:04:00,64,53.7,966.6,Cloudy,Weekday,Net Banking,Busy
+S00804,C1036,ST109,Pune,Maharashtra,MG,ZS EV,50,23,82,AC,Type 2,2025-02-03 11:00:00,2025-02-03 11:30:00,30,56.31,1013.58,Rainy,Weekday,Credit Card,Maintenance
+S00805,C1083,ST106,Coimbatore,Tamil Nadu,Hyundai,Ioniq 5,72,57,80,AC,Type 2,2025-02-03 12:00:00,2025-02-03 13:11:00,71,43.99,791.82,Rainy,Weekday,Debit Card,Available
+S00806,C1062,ST102,Bangalore,Karnataka,Hyundai,Ioniq 5,72,29,93,DC Fast,Type 2,2025-02-03 13:00:00,2025-02-03 13:49:00,49,28.83,518.94,Cloudy,Weekday,UPI,Busy
+S00807,C1030,ST103,Hyderabad,Telangana,Hyundai,Kona Electric,39,55,88,AC,CCS2,2025-02-03 14:00:00,2025-02-03 15:48:00,108,53.41,961.38,Cloudy,Weekday,UPI,Available
+S00808,C1096,ST104,Mumbai,Maharashtra,Hyundai,Ioniq 5,72,66,96,AC,CCS2,2025-02-03 15:00:00,2025-02-03 15:57:00,57,13.56,244.08,Sunny,Weekday,Credit Card,Available
+S00809,C1038,ST102,Hyderabad,Telangana,BYD,Seal EV,82,49,95,DC Fast,Type 2,2025-02-03 16:00:00,2025-02-03 16:55:00,55,41.4,745.2,Rainy,Weekday,Net Banking,Maintenance
+S00810,C1019,ST110,Kochi,Kerala,BYD,Atto 3,60,12,92,AC,Type 2,2025-02-03 17:00:00,2025-02-03 17:35:00,35,46.73,841.14,Cloudy,Weekday,Net Banking,Available
+S00811,C1008,ST102,Hyderabad,Telangana,Mahindra,XUV400,40,45,81,DC Fast,Type 2,2025-02-03 18:00:00,2025-02-03 20:23:00,143,10.1,181.8,Rainy,Weekday,Credit Card,Maintenance
+S00812,C1052,ST109,Mumbai,Maharashtra,Hyundai,Ioniq 5,72,79,81,AC,CCS2,2025-02-03 19:00:00,2025-02-03 21:34:00,154,17.03,306.54,Rainy,Weekday,Debit Card,Maintenance
+S00813,C1025,ST103,Chennai,Tamil Nadu,Hyundai,Kona Electric,39,41,92,AC,CCS2,2025-02-03 20:00:00,2025-02-03 22:48:00,168,23.18,417.24,Sunny,Weekday,Net Banking,Busy
+S00814,C1044,ST110,Hyderabad,Telangana,MG,Comet EV,17,16,88,DC Fast,Type 2,2025-02-03 21:00:00,2025-02-03 23:34:00,154,21.81,392.58,Cloudy,Weekday,Net Banking,Busy
+S00815,C1060,ST103,Delhi,Delhi,Hyundai,Kona Electric,39,69,95,DC Fast,Type 2,2025-02-03 22:00:00,2025-02-04 00:10:00,130,21.51,387.18,Cloudy,Weekday,Credit Card,Busy
+S00816,C1065,ST104,Pune,Maharashtra,BYD,Seal EV,82,61,97,AC,CCS2,2025-02-03 23:00:00,2025-02-04 00:01:00,61,55.99,1007.82,Cloudy,Weekday,UPI,Available
+S00817,C1031,ST110,Coimbatore,Tamil Nadu,Mahindra,XUV400,40,13,88,AC,CCS2,2025-02-04 00:00:00,2025-02-04 01:26:00,86,13.11,235.98,Cloudy,Weekday,Debit Card,Maintenance
+S00818,C1006,ST110,Kochi,Kerala,BYD,Seal EV,82,50,97,AC,Type 2,2025-02-04 01:00:00,2025-02-04 03:03:00,123,22.69,408.42,Rainy,Weekday,UPI,Maintenance
+S00819,C1094,ST104,Hyderabad,Telangana,Tata,Nexon EV,30,42,95,AC,Type 2,2025-02-04 02:00:00,2025-02-04 03:20:00,80,33.73,607.14,Cloudy,Weekday,UPI,Available
+S00820,C1038,ST109,Chennai,Tamil Nadu,MG,Comet EV,17,24,84,AC,CCS2,2025-02-04 03:00:00,2025-02-04 05:12:00,132,27.16,488.88,Rainy,Weekday,Credit Card,Available
+S00821,C1063,ST105,Chennai,Tamil Nadu,Hyundai,Kona Electric,39,19,97,DC Fast,CCS2,2025-02-04 04:00:00,2025-02-04 05:06:00,66,10.8,194.4,Sunny,Weekday,Net Banking,Available
+S00822,C1041,ST104,Mumbai,Maharashtra,MG,Comet EV,17,55,100,DC Fast,Type 2,2025-02-04 05:00:00,2025-02-04 06:38:00,98,29.22,525.96,Sunny,Weekday,UPI,Maintenance
+S00823,C1017,ST102,Chennai,Tamil Nadu,BYD,Seal EV,82,72,81,DC Fast,CCS2,2025-02-04 06:00:00,2025-02-04 08:13:00,133,16.82,302.76,Cloudy,Weekday,UPI,Maintenance
+S00824,C1033,ST104,Chennai,Tamil Nadu,Hyundai,Ioniq 5,72,44,83,DC Fast,Type 2,2025-02-04 07:00:00,2025-02-04 09:35:00,155,14.78,266.04,Sunny,Weekday,UPI,Busy
+S00825,C1069,ST103,Delhi,Delhi,Mahindra,XUV400,40,53,87,AC,CCS2,2025-02-04 08:00:00,2025-02-04 10:51:00,171,34.96,629.28,Sunny,Weekday,Net Banking,Available
+S00826,C1027,ST107,Mumbai,Maharashtra,Tata,Nexon EV,30,78,99,DC Fast,CCS2,2025-02-04 09:00:00,2025-02-04 10:47:00,107,41.16,740.88,Sunny,Weekday,UPI,Maintenance
+S00827,C1044,ST109,Coimbatore,Tamil Nadu,Mahindra,XUV400,40,19,83,DC Fast,CCS2,2025-02-04 10:00:00,2025-02-04 11:21:00,81,18.6,334.8,Sunny,Weekday,Credit Card,Available
+S00828,C1099,ST105,Pune,Maharashtra,MG,ZS EV,50,10,98,DC Fast,Type 2,2025-02-04 11:00:00,2025-02-04 11:28:00,28,26.81,482.58,Sunny,Weekday,UPI,Available
+S00829,C1073,ST104,Bangalore,Karnataka,Tata,Nexon EV,30,16,88,AC,Type 2,2025-02-04 12:00:00,2025-02-04 13:31:00,91,52.25,940.5,Sunny,Weekday,Credit Card,Busy
+S00830,C1064,ST103,Delhi,Delhi,Hyundai,Kona Electric,39,11,87,DC Fast,Type 2,2025-02-04 13:00:00,2025-02-04 14:06:00,66,25.42,457.56,Sunny,Weekday,Net Banking,Busy
+S00831,C1086,ST110,Chennai,Tamil Nadu,Hyundai,Ioniq 5,72,68,81,DC Fast,Type 2,2025-02-04 14:00:00,2025-02-04 15:49:00,109,56.22,1011.96,Rainy,Weekday,Debit Card,Maintenance
+S00832,C1072,ST108,Coimbatore,Tamil Nadu,Hyundai,Ioniq 5,72,40,90,DC Fast,CCS2,2025-02-04 15:00:00,2025-02-04 15:50:00,50,58.37,1050.66,Rainy,Weekday,UPI,Busy
+S00833,C1096,ST105,Coimbatore,Tamil Nadu,Tata,Tiago EV,24,65,81,AC,Type 2,2025-02-04 16:00:00,2025-02-04 17:58:00,118,19.79,356.22,Cloudy,Weekday,Credit Card,Maintenance
+S00834,C1032,ST107,Kochi,Kerala,Hyundai,Kona Electric,39,21,86,AC,CCS2,2025-02-04 17:00:00,2025-02-04 18:47:00,107,22.21,399.78,Sunny,Weekday,Debit Card,Busy
+S00835,C1096,ST107,Kochi,Kerala,BYD,Seal EV,82,12,80,DC Fast,Type 2,2025-02-04 18:00:00,2025-02-04 20:21:00,141,44.62,803.16,Rainy,Weekday,UPI,Available
+S00836,C1030,ST103,Hyderabad,Telangana,BYD,Atto 3,60,74,84,AC,Type 2,2025-02-04 19:00:00,2025-02-04 20:03:00,63,58.4,1051.2,Sunny,Weekday,Net Banking,Maintenance
+S00837,C1059,ST107,Delhi,Delhi,BYD,Seal EV,82,15,84,AC,CCS2,2025-02-04 20:00:00,2025-02-04 21:46:00,106,30.99,557.82,Cloudy,Weekday,Debit Card,Busy
+S00838,C1074,ST108,Delhi,Delhi,MG,ZS EV,50,22,99,AC,CCS2,2025-02-04 21:00:00,2025-02-04 23:36:00,156,56.35,1014.3,Rainy,Weekday,Net Banking,Busy
+S00839,C1046,ST108,Delhi,Delhi,Hyundai,Kona Electric,39,11,92,AC,CCS2,2025-02-04 22:00:00,2025-02-04 23:13:00,73,55.01,990.18,Rainy,Weekday,UPI,Maintenance
+S00840,C1026,ST107,Kochi,Kerala,MG,Comet EV,17,25,100,DC Fast,Type 2,2025-02-04 23:00:00,2025-02-05 00:28:00,88,50.95,917.1,Cloudy,Weekday,Credit Card,Maintenance
+S00841,C1044,ST108,Kochi,Kerala,Hyundai,Ioniq 5,72,22,83,AC,CCS2,2025-02-05 00:00:00,2025-02-05 02:37:00,157,42.51,765.18,Sunny,Weekday,Debit Card,Available
+S00842,C1064,ST106,Mumbai,Maharashtra,BYD,Atto 3,60,33,97,AC,CCS2,2025-02-05 01:00:00,2025-02-05 03:52:00,172,32.79,590.22,Cloudy,Weekday,UPI,Available
+S00843,C1045,ST106,Pune,Maharashtra,Mahindra,BE 6,59,43,83,AC,Type 2,2025-02-05 02:00:00,2025-02-05 04:55:00,175,46.3,833.4,Sunny,Weekday,UPI,Maintenance
+S00844,C1058,ST110,Bangalore,Karnataka,Hyundai,Ioniq 5,72,47,87,AC,CCS2,2025-02-05 03:00:00,2025-02-05 03:53:00,53,10.09,181.62,Cloudy,Weekday,Debit Card,Maintenance
+S00845,C1069,ST104,Pune,Maharashtra,Mahindra,BE 6,59,47,100,AC,CCS2,2025-02-05 04:00:00,2025-02-05 06:44:00,164,50.28,905.04,Cloudy,Weekday,Net Banking,Busy
+S00846,C1063,ST108,Coimbatore,Tamil Nadu,Tata,Punch EV,35,19,94,AC,Type 2,2025-02-05 05:00:00,2025-02-05 07:44:00,164,10.44,187.92,Sunny,Weekday,Debit Card,Busy
+S00847,C1088,ST110,Bangalore,Karnataka,BYD,Seal EV,82,51,99,AC,CCS2,2025-02-05 06:00:00,2025-02-05 08:28:00,148,49.48,890.64,Sunny,Weekday,Net Banking,Busy
+S00848,C1065,ST102,Delhi,Delhi,MG,Comet EV,17,54,99,AC,Type 2,2025-02-05 07:00:00,2025-02-05 08:25:00,85,34.82,626.76,Sunny,Weekday,Net Banking,Maintenance
+S00849,C1011,ST104,Hyderabad,Telangana,Tata,Tiago EV,24,35,89,DC Fast,Type 2,2025-02-05 08:00:00,2025-02-05 09:04:00,64,28.06,505.08,Sunny,Weekday,UPI,Busy
+S00850,C1041,ST110,Delhi,Delhi,Tata,Tiago EV,24,17,93,AC,CCS2,2025-02-05 09:00:00,2025-02-05 10:38:00,98,37.31,671.58,Cloudy,Weekday,Debit Card,Maintenance
+S00851,C1070,ST108,Chennai,Tamil Nadu,MG,ZS EV,50,74,82,AC,CCS2,2025-02-05 10:00:00,2025-02-05 11:02:00,62,43.45,782.1,Cloudy,Weekday,Credit Card,Available
+S00852,C1056,ST103,Delhi,Delhi,MG,Comet EV,17,30,82,DC Fast,Type 2,2025-02-05 11:00:00,2025-02-05 13:43:00,163,28.79,518.22,Sunny,Weekday,UPI,Available
+S00853,C1095,ST101,Mumbai,Maharashtra,Hyundai,Ioniq 5,72,15,82,AC,CCS2,2025-02-05 12:00:00,2025-02-05 12:24:00,24,13.5,243.0,Sunny,Weekday,UPI,Maintenance
+S00854,C1096,ST106,Chennai,Tamil Nadu,Tata,Tiago EV,24,54,100,AC,Type 2,2025-02-05 13:00:00,2025-02-05 14:46:00,106,30.22,543.96,Sunny,Weekday,Net Banking,Busy
+S00855,C1052,ST109,Coimbatore,Tamil Nadu,BYD,Seal EV,82,80,86,AC,CCS2,2025-02-05 14:00:00,2025-02-05 15:05:00,65,54.45,980.1,Cloudy,Weekday,Credit Card,Available
+S00856,C1002,ST106,Coimbatore,Tamil Nadu,Tata,Nexon EV,30,39,90,AC,Type 2,2025-02-05 15:00:00,2025-02-05 17:37:00,157,23.83,428.94,Rainy,Weekday,Net Banking,Available
+S00857,C1048,ST101,Kochi,Kerala,Mahindra,BE 6,59,65,86,DC Fast,CCS2,2025-02-05 16:00:00,2025-02-05 17:06:00,66,38.46,692.28,Rainy,Weekday,UPI,Available
+S00858,C1069,ST104,Mumbai,Maharashtra,MG,ZS EV,50,60,92,AC,CCS2,2025-02-05 17:00:00,2025-02-05 17:42:00,42,45.8,824.4,Cloudy,Weekday,UPI,Available
+S00859,C1064,ST106,Delhi,Delhi,Hyundai,Ioniq 5,72,13,82,AC,Type 2,2025-02-05 18:00:00,2025-02-05 18:43:00,43,59.96,1079.28,Rainy,Weekday,UPI,Maintenance
+S00860,C1012,ST108,Coimbatore,Tamil Nadu,Tata,Punch EV,35,16,99,DC Fast,Type 2,2025-02-05 19:00:00,2025-02-05 20:32:00,92,48.98,881.64,Rainy,Weekday,Debit Card,Maintenance
+S00861,C1031,ST103,Mumbai,Maharashtra,Mahindra,BE 6,59,11,96,DC Fast,CCS2,2025-02-05 20:00:00,2025-02-05 22:34:00,154,29.42,529.56,Sunny,Weekday,Net Banking,Available
+S00862,C1084,ST105,Coimbatore,Tamil Nadu,Mahindra,BE 6,59,27,86,DC Fast,Type 2,2025-02-05 21:00:00,2025-02-05 22:13:00,73,45.22,813.96,Sunny,Weekday,Debit Card,Available
+S00863,C1046,ST109,Delhi,Delhi,BYD,Atto 3,60,69,82,AC,Type 2,2025-02-05 22:00:00,2025-02-05 23:40:00,100,44.0,792.0,Sunny,Weekday,UPI,Maintenance
+S00864,C1025,ST101,Coimbatore,Tamil Nadu,Mahindra,XUV400,40,77,96,AC,Type 2,2025-02-05 23:00:00,2025-02-05 23:45:00,45,43.09,775.62,Cloudy,Weekday,Credit Card,Maintenance
+S00865,C1014,ST104,Bangalore,Karnataka,BYD,Atto 3,60,42,90,AC,Type 2,2025-02-06 00:00:00,2025-02-06 00:48:00,48,55.38,996.84,Rainy,Weekday,UPI,Maintenance
+S00866,C1088,ST102,Bangalore,Karnataka,Mahindra,XUV400,40,53,80,AC,CCS2,2025-02-06 01:00:00,2025-02-06 03:02:00,122,15.65,281.7,Sunny,Weekday,Credit Card,Maintenance
+S00867,C1066,ST103,Pune,Maharashtra,Tata,Punch EV,35,27,85,AC,Type 2,2025-02-06 02:00:00,2025-02-06 03:38:00,98,58.0,1044.0,Rainy,Weekday,Net Banking,Available
+S00868,C1084,ST102,Kochi,Kerala,Tata,Nexon EV,30,56,90,AC,Type 2,2025-02-06 03:00:00,2025-02-06 03:48:00,48,53.85,969.3,Sunny,Weekday,Debit Card,Available
+S00869,C1054,ST104,Mumbai,Maharashtra,Hyundai,Kona Electric,39,26,99,AC,Type 2,2025-02-06 04:00:00,2025-02-06 05:50:00,110,49.5,891.0,Sunny,Weekday,Credit Card,Maintenance
+S00870,C1072,ST105,Delhi,Delhi,MG,ZS EV,50,52,95,AC,Type 2,2025-02-06 05:00:00,2025-02-06 05:59:00,59,32.92,592.56,Sunny,Weekday,Net Banking,Busy
+S00871,C1039,ST110,Bangalore,Karnataka,Hyundai,Ioniq 5,72,29,100,DC Fast,CCS2,2025-02-06 06:00:00,2025-02-06 07:51:00,111,15.84,285.12,Sunny,Weekday,Credit Card,Maintenance
+S00872,C1066,ST102,Hyderabad,Telangana,Hyundai,Ioniq 5,72,76,84,DC Fast,CCS2,2025-02-06 07:00:00,2025-02-06 09:59:00,179,19.38,348.84,Cloudy,Weekday,Debit Card,Available
+S00873,C1012,ST106,Delhi,Delhi,BYD,Atto 3,60,47,82,DC Fast,Type 2,2025-02-06 08:00:00,2025-02-06 10:38:00,158,31.87,573.66,Sunny,Weekday,Net Banking,Busy
+S00874,C1010,ST110,Mumbai,Maharashtra,Tata,Tiago EV,24,77,90,DC Fast,Type 2,2025-02-06 09:00:00,2025-02-06 11:12:00,132,44.65,803.7,Cloudy,Weekday,Net Banking,Busy
+S00875,C1087,ST109,Hyderabad,Telangana,Hyundai,Ioniq 5,72,61,100,AC,CCS2,2025-02-06 10:00:00,2025-02-06 10:56:00,56,34.8,626.4,Cloudy,Weekday,Credit Card,Busy
+S00876,C1040,ST110,Delhi,Delhi,BYD,Seal EV,82,22,96,DC Fast,CCS2,2025-02-06 11:00:00,2025-02-06 13:06:00,126,34.39,619.02,Cloudy,Weekday,Credit Card,Available
+S00877,C1061,ST105,Mumbai,Maharashtra,Hyundai,Ioniq 5,72,39,88,DC Fast,CCS2,2025-02-06 12:00:00,2025-02-06 13:43:00,103,53.17,957.06,Cloudy,Weekday,Debit Card,Maintenance
+S00878,C1031,ST109,Chennai,Tamil Nadu,Hyundai,Ioniq 5,72,60,80,DC Fast,Type 2,2025-02-06 13:00:00,2025-02-06 14:35:00,95,35.35,636.3,Sunny,Weekday,Credit Card,Maintenance
+S00879,C1006,ST108,Coimbatore,Tamil Nadu,Mahindra,XUV400,40,54,88,DC Fast,CCS2,2025-02-06 14:00:00,2025-02-06 16:14:00,134,54.83,986.94,Sunny,Weekday,Net Banking,Busy
+S00880,C1036,ST102,Kochi,Kerala,Tata,Nexon EV,30,39,98,DC Fast,Type 2,2025-02-06 15:00:00,2025-02-06 16:40:00,100,15.41,277.38,Sunny,Weekday,Net Banking,Maintenance
+S00881,C1036,ST109,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,41,82,AC,CCS2,2025-02-06 16:00:00,2025-02-06 18:02:00,122,59.1,1063.8,Cloudy,Weekday,Net Banking,Maintenance
+S00882,C1033,ST106,Hyderabad,Telangana,MG,ZS EV,50,65,90,DC Fast,CCS2,2025-02-06 17:00:00,2025-02-06 18:54:00,114,17.67,318.06,Rainy,Weekday,UPI,Busy
+S00883,C1081,ST106,Delhi,Delhi,MG,Comet EV,17,56,99,DC Fast,Type 2,2025-02-06 18:00:00,2025-02-06 20:52:00,172,42.05,756.9,Sunny,Weekday,Debit Card,Maintenance
+S00884,C1007,ST104,Pune,Maharashtra,Mahindra,BE 6,59,22,85,DC Fast,CCS2,2025-02-06 19:00:00,2025-02-06 19:28:00,28,30.15,542.7,Rainy,Weekday,Credit Card,Busy
+S00885,C1011,ST110,Mumbai,Maharashtra,Hyundai,Kona Electric,39,38,89,AC,CCS2,2025-02-06 20:00:00,2025-02-06 21:01:00,61,36.15,650.7,Cloudy,Weekday,Credit Card,Available
+S00886,C1048,ST106,Bangalore,Karnataka,BYD,Atto 3,60,49,97,DC Fast,CCS2,2025-02-06 21:00:00,2025-02-06 22:57:00,117,18.88,339.84,Cloudy,Weekday,Debit Card,Maintenance
+S00887,C1023,ST103,Kochi,Kerala,Tata,Punch EV,35,39,80,AC,Type 2,2025-02-06 22:00:00,2025-02-06 23:56:00,116,53.42,961.56,Cloudy,Weekday,Net Banking,Maintenance
+S00888,C1068,ST110,Coimbatore,Tamil Nadu,Mahindra,BE 6,59,44,88,AC,Type 2,2025-02-06 23:00:00,2025-02-06 23:38:00,38,34.2,615.6,Sunny,Weekday,Debit Card,Maintenance
+S00889,C1064,ST110,Kochi,Kerala,Tata,Tiago EV,24,11,96,AC,Type 2,2025-02-07 00:00:00,2025-02-07 01:31:00,91,18.36,330.48,Cloudy,Weekday,Net Banking,Maintenance
+S00890,C1098,ST102,Hyderabad,Telangana,Tata,Tiago EV,24,28,85,DC Fast,CCS2,2025-02-07 01:00:00,2025-02-07 01:53:00,53,32.75,589.5,Sunny,Weekday,Net Banking,Busy
+S00891,C1047,ST102,Coimbatore,Tamil Nadu,BYD,Seal EV,82,23,89,AC,CCS2,2025-02-07 02:00:00,2025-02-07 03:36:00,96,36.96,665.28,Sunny,Weekday,UPI,Maintenance
+S00892,C1024,ST101,Hyderabad,Telangana,Hyundai,Kona Electric,39,41,86,AC,Type 2,2025-02-07 03:00:00,2025-02-07 04:41:00,101,37.27,670.86,Cloudy,Weekday,Credit Card,Available
+S00893,C1089,ST104,Chennai,Tamil Nadu,MG,Comet EV,17,30,99,AC,Type 2,2025-02-07 04:00:00,2025-02-07 04:37:00,37,16.22,291.96,Cloudy,Weekday,Net Banking,Maintenance
+S00894,C1058,ST102,Kochi,Kerala,Tata,Punch EV,35,11,97,AC,Type 2,2025-02-07 05:00:00,2025-02-07 05:27:00,27,52.06,937.08,Rainy,Weekday,UPI,Available
+S00895,C1069,ST105,Kochi,Kerala,MG,ZS EV,50,60,87,DC Fast,Type 2,2025-02-07 06:00:00,2025-02-07 08:37:00,157,22.0,396.0,Rainy,Weekday,Credit Card,Available
+S00896,C1092,ST103,Kochi,Kerala,Hyundai,Kona Electric,39,26,99,DC Fast,CCS2,2025-02-07 07:00:00,2025-02-07 09:58:00,178,39.87,717.66,Cloudy,Weekday,Net Banking,Available
+S00897,C1085,ST109,Mumbai,Maharashtra,MG,Comet EV,17,63,91,AC,Type 2,2025-02-07 08:00:00,2025-02-07 09:09:00,69,43.17,777.06,Rainy,Weekday,Credit Card,Available
+S00898,C1027,ST108,Delhi,Delhi,Hyundai,Ioniq 5,72,79,89,AC,CCS2,2025-02-07 09:00:00,2025-02-07 09:23:00,23,56.76,1021.68,Cloudy,Weekday,Net Banking,Busy
+S00899,C1011,ST105,Coimbatore,Tamil Nadu,Mahindra,BE 6,59,45,94,AC,Type 2,2025-02-07 10:00:00,2025-02-07 11:23:00,83,12.32,221.76,Cloudy,Weekday,Debit Card,Maintenance
+S00900,C1084,ST101,Pune,Maharashtra,Mahindra,XUV400,40,63,96,AC,CCS2,2025-02-07 11:00:00,2025-02-07 12:10:00,70,28.83,518.94,Rainy,Weekday,Net Banking,Maintenance
+S00901,C1012,ST108,Chennai,Tamil Nadu,Tata,Tiago EV,24,50,81,DC Fast,CCS2,2025-02-07 12:00:00,2025-02-07 13:02:00,62,57.52,1035.36,Cloudy,Weekday,Credit Card,Maintenance
+S00902,C1060,ST107,Delhi,Delhi,Tata,Nexon EV,30,10,81,AC,CCS2,2025-02-07 13:00:00,2025-02-07 15:59:00,179,14.56,262.08,Rainy,Weekday,Debit Card,Available
+S00903,C1021,ST103,Mumbai,Maharashtra,Mahindra,BE 6,59,73,94,AC,CCS2,2025-02-07 14:00:00,2025-02-07 14:45:00,45,42.14,758.52,Sunny,Weekday,Net Banking,Available
+S00904,C1046,ST105,Chennai,Tamil Nadu,BYD,Atto 3,60,72,85,AC,CCS2,2025-02-07 15:00:00,2025-02-07 15:36:00,36,15.09,271.62,Rainy,Weekday,UPI,Maintenance
+S00905,C1015,ST106,Bangalore,Karnataka,MG,Comet EV,17,59,98,AC,CCS2,2025-02-07 16:00:00,2025-02-07 16:25:00,25,47.19,849.42,Sunny,Weekday,Debit Card,Maintenance
+S00906,C1046,ST108,Pune,Maharashtra,BYD,Atto 3,60,10,84,DC Fast,Type 2,2025-02-07 17:00:00,2025-02-07 17:33:00,33,47.88,861.84,Rainy,Weekday,Credit Card,Maintenance
+S00907,C1070,ST106,Coimbatore,Tamil Nadu,Tata,Nexon EV,30,25,98,AC,Type 2,2025-02-07 18:00:00,2025-02-07 20:13:00,133,10.54,189.72,Cloudy,Weekday,UPI,Available
+S00908,C1020,ST102,Pune,Maharashtra,Tata,Tiago EV,24,24,87,AC,Type 2,2025-02-07 19:00:00,2025-02-07 19:39:00,39,57.77,1039.86,Rainy,Weekday,Credit Card,Busy
+S00909,C1014,ST106,Hyderabad,Telangana,Mahindra,XUV400,40,80,95,DC Fast,Type 2,2025-02-07 20:00:00,2025-02-07 20:37:00,37,17.9,322.2,Sunny,Weekday,UPI,Maintenance
+S00910,C1037,ST109,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,52,91,AC,Type 2,2025-02-07 21:00:00,2025-02-07 22:41:00,101,54.07,973.26,Sunny,Weekday,Credit Card,Maintenance
+S00911,C1032,ST107,Hyderabad,Telangana,Mahindra,XUV400,40,15,83,DC Fast,CCS2,2025-02-07 22:00:00,2025-02-08 00:49:00,169,54.35,978.3,Rainy,Weekday,Debit Card,Available
+S00912,C1070,ST105,Kochi,Kerala,BYD,Seal EV,82,14,99,DC Fast,Type 2,2025-02-07 23:00:00,2025-02-08 00:00:00,60,59.53,1071.54,Cloudy,Weekday,Debit Card,Maintenance
+S00913,C1092,ST105,Delhi,Delhi,Hyundai,Ioniq 5,72,69,94,AC,CCS2,2025-02-08 00:00:00,2025-02-08 00:30:00,30,55.58,1000.44,Sunny,Weekend,UPI,Available
+S00914,C1096,ST108,Hyderabad,Telangana,Tata,Nexon EV,30,36,83,DC Fast,Type 2,2025-02-08 01:00:00,2025-02-08 03:58:00,178,24.47,440.46,Rainy,Weekend,UPI,Maintenance
+S00915,C1025,ST109,Chennai,Tamil Nadu,Hyundai,Ioniq 5,72,59,80,AC,Type 2,2025-02-08 02:00:00,2025-02-08 04:06:00,126,24.1,433.8,Cloudy,Weekend,Net Banking,Available
+S00916,C1090,ST101,Mumbai,Maharashtra,Tata,Punch EV,35,15,95,DC Fast,CCS2,2025-02-08 03:00:00,2025-02-08 05:58:00,178,19.78,356.04,Rainy,Weekend,UPI,Maintenance
+S00917,C1059,ST110,Bangalore,Karnataka,Tata,Tiago EV,24,21,91,AC,Type 2,2025-02-08 04:00:00,2025-02-08 05:29:00,89,26.52,477.36,Sunny,Weekend,Net Banking,Busy
+S00918,C1029,ST101,Coimbatore,Tamil Nadu,Hyundai,Kona Electric,39,40,99,DC Fast,CCS2,2025-02-08 05:00:00,2025-02-08 06:26:00,86,21.1,379.8,Cloudy,Weekend,Debit Card,Available
+S00919,C1048,ST105,Bangalore,Karnataka,Tata,Tiago EV,24,38,83,AC,CCS2,2025-02-08 06:00:00,2025-02-08 08:09:00,129,21.36,384.48,Cloudy,Weekend,Debit Card,Busy
+S00920,C1085,ST101,Kochi,Kerala,Mahindra,XUV400,40,41,81,AC,CCS2,2025-02-08 07:00:00,2025-02-08 07:41:00,41,22.25,400.5,Rainy,Weekend,Credit Card,Busy
+S00921,C1016,ST104,Delhi,Delhi,MG,Comet EV,17,75,86,AC,CCS2,2025-02-08 08:00:00,2025-02-08 09:20:00,80,41.56,748.08,Rainy,Weekend,Debit Card,Maintenance
+S00922,C1070,ST107,Chennai,Tamil Nadu,Hyundai,Kona Electric,39,53,84,DC Fast,Type 2,2025-02-08 09:00:00,2025-02-08 11:30:00,150,56.15,1010.7,Rainy,Weekend,Credit Card,Maintenance
+S00923,C1078,ST102,Hyderabad,Telangana,Mahindra,XUV400,40,61,95,AC,Type 2,2025-02-08 10:00:00,2025-02-08 12:15:00,135,36.56,658.08,Sunny,Weekend,Credit Card,Maintenance
+S00924,C1035,ST101,Kochi,Kerala,Mahindra,XUV400,40,55,86,DC Fast,Type 2,2025-02-08 11:00:00,2025-02-08 11:52:00,52,27.94,502.92,Sunny,Weekend,UPI,Busy
+S00925,C1082,ST102,Coimbatore,Tamil Nadu,Tata,Tiago EV,24,79,98,DC Fast,Type 2,2025-02-08 12:00:00,2025-02-08 14:15:00,135,36.92,664.56,Rainy,Weekend,Credit Card,Available
+S00926,C1058,ST109,Coimbatore,Tamil Nadu,MG,ZS EV,50,48,90,AC,CCS2,2025-02-08 13:00:00,2025-02-08 14:02:00,62,44.24,796.32,Rainy,Weekend,Debit Card,Available
+S00927,C1047,ST104,Chennai,Tamil Nadu,MG,Comet EV,17,51,91,DC Fast,CCS2,2025-02-08 14:00:00,2025-02-08 15:58:00,118,39.83,716.94,Cloudy,Weekend,Credit Card,Maintenance
+S00928,C1030,ST106,Hyderabad,Telangana,Tata,Nexon EV,30,27,85,AC,Type 2,2025-02-08 15:00:00,2025-02-08 15:57:00,57,11.63,209.34,Cloudy,Weekend,UPI,Maintenance
+S00929,C1048,ST106,Bangalore,Karnataka,Hyundai,Kona Electric,39,68,91,DC Fast,Type 2,2025-02-08 16:00:00,2025-02-08 18:54:00,174,49.54,891.72,Sunny,Weekend,Credit Card,Maintenance
+S00930,C1082,ST104,Kochi,Kerala,Mahindra,XUV400,40,58,94,DC Fast,Type 2,2025-02-08 17:00:00,2025-02-08 18:32:00,92,23.66,425.88,Rainy,Weekend,Credit Card,Busy
+S00931,C1088,ST106,Chennai,Tamil Nadu,Hyundai,Ioniq 5,72,78,98,AC,Type 2,2025-02-08 18:00:00,2025-02-08 20:59:00,179,18.03,324.54,Sunny,Weekend,Net Banking,Maintenance
+S00932,C1053,ST106,Coimbatore,Tamil Nadu,Mahindra,XUV400,40,50,86,AC,Type 2,2025-02-08 19:00:00,2025-02-08 20:06:00,66,18.64,335.52,Sunny,Weekend,Credit Card,Maintenance
+S00933,C1073,ST101,Mumbai,Maharashtra,BYD,Atto 3,60,38,90,AC,CCS2,2025-02-08 20:00:00,2025-02-08 22:27:00,147,39.84,717.12,Cloudy,Weekend,UPI,Available
+S00934,C1046,ST104,Coimbatore,Tamil Nadu,Mahindra,XUV400,40,78,81,AC,Type 2,2025-02-08 21:00:00,2025-02-08 21:24:00,24,30.61,550.98,Rainy,Weekend,UPI,Maintenance
+S00935,C1001,ST105,Chennai,Tamil Nadu,BYD,Atto 3,60,66,84,AC,Type 2,2025-02-08 22:00:00,2025-02-09 00:52:00,172,45.31,815.58,Rainy,Weekend,UPI,Busy
+S00936,C1015,ST103,Kochi,Kerala,Tata,Tiago EV,24,35,99,AC,Type 2,2025-02-08 23:00:00,2025-02-08 23:33:00,33,36.27,652.86,Sunny,Weekend,Credit Card,Available
+S00937,C1039,ST101,Hyderabad,Telangana,Hyundai,Kona Electric,39,58,92,AC,CCS2,2025-02-09 00:00:00,2025-02-09 01:44:00,104,48.6,874.8,Cloudy,Weekend,Net Banking,Busy
+S00938,C1055,ST108,Chennai,Tamil Nadu,Tata,Nexon EV,30,16,85,AC,CCS2,2025-02-09 01:00:00,2025-02-09 04:00:00,180,54.23,976.14,Sunny,Weekend,UPI,Busy
+S00939,C1022,ST109,Mumbai,Maharashtra,Hyundai,Ioniq 5,72,47,85,DC Fast,CCS2,2025-02-09 02:00:00,2025-02-09 03:24:00,84,53.32,959.76,Cloudy,Weekend,Net Banking,Busy
+S00940,C1054,ST101,Bangalore,Karnataka,Tata,Tiago EV,24,13,92,AC,CCS2,2025-02-09 03:00:00,2025-02-09 05:17:00,137,58.93,1060.74,Rainy,Weekend,UPI,Busy
+S00941,C1056,ST101,Coimbatore,Tamil Nadu,Hyundai,Ioniq 5,72,46,93,AC,CCS2,2025-02-09 04:00:00,2025-02-09 05:58:00,118,44.08,793.44,Rainy,Weekend,Credit Card,Maintenance
+S00942,C1077,ST102,Mumbai,Maharashtra,BYD,Seal EV,82,18,87,DC Fast,CCS2,2025-02-09 05:00:00,2025-02-09 06:13:00,73,17.54,315.72,Rainy,Weekend,Credit Card,Maintenance
+S00943,C1027,ST109,Mumbai,Maharashtra,Mahindra,XUV400,40,73,95,DC Fast,Type 2,2025-02-09 06:00:00,2025-02-09 07:10:00,70,32.76,589.68,Sunny,Weekend,Debit Card,Maintenance
+S00944,C1094,ST109,Mumbai,Maharashtra,BYD,Atto 3,60,10,86,DC Fast,CCS2,2025-02-09 07:00:00,2025-02-09 08:45:00,105,44.08,793.44,Cloudy,Weekend,Debit Card,Maintenance
+S00945,C1002,ST110,Chennai,Tamil Nadu,Hyundai,Ioniq 5,72,66,84,DC Fast,Type 2,2025-02-09 08:00:00,2025-02-09 10:02:00,122,11.26,202.68,Sunny,Weekend,Net Banking,Available
+S00946,C1030,ST105,Pune,Maharashtra,Tata,Punch EV,35,40,100,DC Fast,Type 2,2025-02-09 09:00:00,2025-02-09 10:14:00,74,17.45,314.1,Cloudy,Weekend,Net Banking,Busy
+S00947,C1078,ST108,Chennai,Tamil Nadu,Tata,Punch EV,35,79,88,AC,Type 2,2025-02-09 10:00:00,2025-02-09 10:36:00,36,28.85,519.3,Cloudy,Weekend,Credit Card,Busy
+S00948,C1054,ST104,Mumbai,Maharashtra,Hyundai,Kona Electric,39,45,87,DC Fast,Type 2,2025-02-09 11:00:00,2025-02-09 12:06:00,66,18.04,324.72,Cloudy,Weekend,UPI,Available
+S00949,C1090,ST109,Delhi,Delhi,Tata,Punch EV,35,74,82,AC,Type 2,2025-02-09 12:00:00,2025-02-09 14:39:00,159,48.16,866.88,Sunny,Weekend,Debit Card,Available
+S00950,C1094,ST102,Coimbatore,Tamil Nadu,Mahindra,XUV400,40,51,86,DC Fast,Type 2,2025-02-09 13:00:00,2025-02-09 14:01:00,61,36.05,648.9,Cloudy,Weekend,Credit Card,Busy
+S00951,C1013,ST108,Kochi,Kerala,MG,Comet EV,17,35,83,AC,CCS2,2025-02-09 14:00:00,2025-02-09 16:55:00,175,54.07,973.26,Cloudy,Weekend,UPI,Available
+S00952,C1086,ST108,Hyderabad,Telangana,Hyundai,Ioniq 5,72,22,84,DC Fast,CCS2,2025-02-09 15:00:00,2025-02-09 15:44:00,44,37.13,668.34,Cloudy,Weekend,Credit Card,Busy
+S00953,C1071,ST107,Kochi,Kerala,MG,ZS EV,50,70,84,AC,CCS2,2025-02-09 16:00:00,2025-02-09 16:41:00,41,30.83,554.94,Sunny,Weekend,UPI,Busy
+S00954,C1034,ST106,Kochi,Kerala,Mahindra,BE 6,59,77,82,DC Fast,CCS2,2025-02-09 17:00:00,2025-02-09 17:53:00,53,17.77,319.86,Rainy,Weekend,Debit Card,Maintenance
+S00955,C1044,ST103,Delhi,Delhi,Hyundai,Ioniq 5,72,70,97,AC,CCS2,2025-02-09 18:00:00,2025-02-09 19:18:00,78,59.74,1075.32,Rainy,Weekend,UPI,Available
+S00956,C1039,ST102,Pune,Maharashtra,MG,ZS EV,50,75,100,DC Fast,CCS2,2025-02-09 19:00:00,2025-02-09 19:53:00,53,41.51,747.18,Cloudy,Weekend,Net Banking,Available
+S00957,C1063,ST109,Chennai,Tamil Nadu,Tata,Tiago EV,24,21,81,AC,CCS2,2025-02-09 20:00:00,2025-02-09 22:58:00,178,43.72,786.96,Cloudy,Weekend,Net Banking,Maintenance
+S00958,C1077,ST106,Kochi,Kerala,Tata,Nexon EV,30,50,99,AC,Type 2,2025-02-09 21:00:00,2025-02-09 23:07:00,127,22.43,403.74,Cloudy,Weekend,Net Banking,Available
+S00959,C1018,ST106,Bangalore,Karnataka,Hyundai,Kona Electric,39,25,85,AC,CCS2,2025-02-09 22:00:00,2025-02-09 22:32:00,32,58.82,1058.76,Rainy,Weekend,Credit Card,Available
+S00960,C1005,ST103,Bangalore,Karnataka,Hyundai,Ioniq 5,72,69,81,AC,CCS2,2025-02-09 23:00:00,2025-02-10 00:53:00,113,19.83,356.94,Sunny,Weekend,Net Banking,Available
+S00961,C1083,ST104,Bangalore,Karnataka,Tata,Nexon EV,30,56,84,AC,Type 2,2025-02-10 00:00:00,2025-02-10 01:18:00,78,51.89,934.02,Rainy,Weekday,Debit Card,Maintenance
+S00962,C1024,ST102,Delhi,Delhi,Hyundai,Ioniq 5,72,18,93,DC Fast,Type 2,2025-02-10 01:00:00,2025-02-10 03:34:00,154,13.35,240.3,Cloudy,Weekday,Debit Card,Available
+S00963,C1041,ST101,Hyderabad,Telangana,Hyundai,Ioniq 5,72,78,93,DC Fast,CCS2,2025-02-10 02:00:00,2025-02-10 03:38:00,98,26.56,478.08,Cloudy,Weekday,Credit Card,Maintenance
+S00964,C1022,ST106,Mumbai,Maharashtra,BYD,Seal EV,82,30,86,AC,CCS2,2025-02-10 03:00:00,2025-02-10 06:00:00,180,30.51,549.18,Cloudy,Weekday,UPI,Busy
+S00965,C1100,ST107,Mumbai,Maharashtra,Hyundai,Kona Electric,39,59,100,AC,CCS2,2025-02-10 04:00:00,2025-02-10 06:57:00,177,25.86,465.48,Rainy,Weekday,Credit Card,Busy
+S00966,C1091,ST110,Kochi,Kerala,MG,ZS EV,50,13,94,DC Fast,CCS2,2025-02-10 05:00:00,2025-02-10 05:53:00,53,41.39,745.02,Cloudy,Weekday,Net Banking,Maintenance
+S00967,C1021,ST108,Chennai,Tamil Nadu,Mahindra,BE 6,59,72,93,AC,CCS2,2025-02-10 06:00:00,2025-02-10 08:36:00,156,12.97,233.46,Cloudy,Weekday,Debit Card,Available
+S00968,C1039,ST101,Kochi,Kerala,Hyundai,Ioniq 5,72,37,95,DC Fast,Type 2,2025-02-10 07:00:00,2025-02-10 07:51:00,51,10.67,192.06,Rainy,Weekday,Debit Card,Maintenance
+S00969,C1094,ST103,Delhi,Delhi,Hyundai,Ioniq 5,72,70,83,DC Fast,Type 2,2025-02-10 08:00:00,2025-02-10 09:31:00,91,32.87,591.66,Rainy,Weekday,UPI,Available
+S00970,C1074,ST105,Coimbatore,Tamil Nadu,Tata,Nexon EV,30,53,88,DC Fast,CCS2,2025-02-10 09:00:00,2025-02-10 10:55:00,115,10.37,186.66,Rainy,Weekday,UPI,Maintenance
+S00971,C1086,ST107,Bangalore,Karnataka,Tata,Tiago EV,24,21,82,DC Fast,CCS2,2025-02-10 10:00:00,2025-02-10 11:02:00,62,19.26,346.68,Sunny,Weekday,Debit Card,Maintenance
+S00972,C1019,ST103,Bangalore,Karnataka,MG,Comet EV,17,45,81,AC,Type 2,2025-02-10 11:00:00,2025-02-10 11:32:00,32,31.48,566.64,Rainy,Weekday,UPI,Busy
+S00973,C1032,ST103,Coimbatore,Tamil Nadu,Hyundai,Ioniq 5,72,34,86,AC,CCS2,2025-02-10 12:00:00,2025-02-10 13:05:00,65,41.53,747.54,Sunny,Weekday,Credit Card,Available
+S00974,C1058,ST103,Kochi,Kerala,BYD,Atto 3,60,23,96,AC,Type 2,2025-02-10 13:00:00,2025-02-10 13:22:00,22,36.81,662.58,Sunny,Weekday,UPI,Busy
+S00975,C1091,ST101,Mumbai,Maharashtra,Mahindra,BE 6,59,37,91,AC,Type 2,2025-02-10 14:00:00,2025-02-10 15:00:00,60,40.59,730.62,Rainy,Weekday,Net Banking,Busy
+S00976,C1094,ST107,Delhi,Delhi,Tata,Punch EV,35,68,87,DC Fast,CCS2,2025-02-10 15:00:00,2025-02-10 15:49:00,49,41.38,744.84,Cloudy,Weekday,UPI,Available
+S00977,C1086,ST106,Kochi,Kerala,BYD,Atto 3,60,31,91,DC Fast,CCS2,2025-02-10 16:00:00,2025-02-10 17:05:00,65,26.72,480.96,Sunny,Weekday,Debit Card,Busy
+S00978,C1066,ST104,Mumbai,Maharashtra,MG,Comet EV,17,27,88,DC Fast,Type 2,2025-02-10 17:00:00,2025-02-10 18:24:00,84,55.19,993.42,Cloudy,Weekday,UPI,Busy
+S00979,C1083,ST101,Mumbai,Maharashtra,Mahindra,BE 6,59,55,86,AC,Type 2,2025-02-10 18:00:00,2025-02-10 19:23:00,83,29.58,532.44,Cloudy,Weekday,Debit Card,Busy
+S00980,C1068,ST102,Bangalore,Karnataka,BYD,Atto 3,60,35,97,AC,CCS2,2025-02-10 19:00:00,2025-02-10 20:30:00,90,55.02,990.36,Rainy,Weekday,Credit Card,Maintenance
+S00981,C1026,ST107,Kochi,Kerala,MG,ZS EV,50,80,90,AC,Type 2,2025-02-10 20:00:00,2025-02-10 22:58:00,178,25.02,450.36,Sunny,Weekday,UPI,Available
+S00982,C1072,ST101,Chennai,Tamil Nadu,Mahindra,XUV400,40,56,90,AC,CCS2,2025-02-10 21:00:00,2025-02-10 23:41:00,161,46.0,828.0,Cloudy,Weekday,Debit Card,Available
+S00983,C1026,ST103,Pune,Maharashtra,Tata,Punch EV,35,43,88,DC Fast,Type 2,2025-02-10 22:00:00,2025-02-11 00:21:00,141,42.2,759.6,Cloudy,Weekday,UPI,Busy
+S00984,C1017,ST102,Kochi,Kerala,BYD,Atto 3,60,76,90,DC Fast,CCS2,2025-02-10 23:00:00,2025-02-11 00:08:00,68,46.98,845.64,Cloudy,Weekday,Net Banking,Maintenance
+S00985,C1036,ST103,Kochi,Kerala,MG,ZS EV,50,13,92,AC,CCS2,2025-02-11 00:00:00,2025-02-11 01:48:00,108,54.0,972.0,Sunny,Weekday,UPI,Available
+S00986,C1094,ST110,Delhi,Delhi,MG,ZS EV,50,40,84,AC,CCS2,2025-02-11 01:00:00,2025-02-11 02:12:00,72,20.31,365.58,Cloudy,Weekday,Debit Card,Maintenance
+S00987,C1049,ST102,Mumbai,Maharashtra,Hyundai,Kona Electric,39,63,84,DC Fast,Type 2,2025-02-11 02:00:00,2025-02-11 03:24:00,84,50.5,909.0,Rainy,Weekday,Net Banking,Available
+S00988,C1025,ST107,Coimbatore,Tamil Nadu,Tata,Punch EV,35,24,92,DC Fast,CCS2,2025-02-11 03:00:00,2025-02-11 04:23:00,83,48.49,872.82,Cloudy,Weekday,Net Banking,Maintenance
+S00989,C1071,ST102,Mumbai,Maharashtra,Mahindra,BE 6,59,29,84,DC Fast,CCS2,2025-02-11 04:00:00,2025-02-11 05:04:00,64,39.48,710.64,Cloudy,Weekday,Debit Card,Busy
+S00990,C1082,ST103,Chennai,Tamil Nadu,Tata,Tiago EV,24,66,95,DC Fast,CCS2,2025-02-11 05:00:00,2025-02-11 06:11:00,71,47.81,860.58,Rainy,Weekday,UPI,Available
+S00991,C1030,ST109,Hyderabad,Telangana,Hyundai,Ioniq 5,72,77,90,DC Fast,CCS2,2025-02-11 06:00:00,2025-02-11 07:12:00,72,36.19,651.42,Sunny,Weekday,UPI,Busy
+S00992,C1001,ST106,Delhi,Delhi,Hyundai,Ioniq 5,72,48,96,DC Fast,CCS2,2025-02-11 07:00:00,2025-02-11 07:55:00,55,40.55,729.9,Sunny,Weekday,Credit Card,Busy
+S00993,C1094,ST105,Delhi,Delhi,Hyundai,Kona Electric,39,74,95,AC,Type 2,2025-02-11 08:00:00,2025-02-11 10:20:00,140,32.94,592.92,Sunny,Weekday,Net Banking,Maintenance
+S00994,C1088,ST102,Chennai,Tamil Nadu,Hyundai,Kona Electric,39,71,80,AC,Type 2,2025-02-11 09:00:00,2025-02-11 11:27:00,147,54.91,988.38,Rainy,Weekday,UPI,Maintenance
+S00995,C1089,ST102,Mumbai,Maharashtra,Hyundai,Ioniq 5,72,32,87,AC,CCS2,2025-02-11 10:00:00,2025-02-11 12:35:00,155,16.44,295.92,Sunny,Weekday,Credit Card,Busy
+S00996,C1056,ST105,Pune,Maharashtra,BYD,Atto 3,60,14,97,DC Fast,CCS2,2025-02-11 11:00:00,2025-02-11 13:21:00,141,32.13,578.34,Sunny,Weekday,Credit Card,Busy
+S00997,C1014,ST106,Chennai,Tamil Nadu,Tata,Nexon EV,30,29,94,DC Fast,Type 2,2025-02-11 12:00:00,2025-02-11 14:31:00,151,53.95,971.1,Rainy,Weekday,Debit Card,Busy
+S00998,C1038,ST106,Pune,Maharashtra,Mahindra,BE 6,59,50,97,DC Fast,CCS2,2025-02-11 13:00:00,2025-02-11 15:47:00,167,10.68,192.24,Rainy,Weekday,Net Banking,Available
+S00999,C1052,ST108,Delhi,Delhi,MG,Comet EV,17,63,99,DC Fast,CCS2,2025-02-11 14:00:00,2025-02-11 14:45:00,45,45.94,826.92,Sunny,Weekday,Debit Card,Maintenance
+S01000,C1073,ST110,Delhi,Delhi,MG,Comet EV,17,69,90,AC,CCS2,2025-02-11 15:00:00,2025-02-11 17:39:00,159,48.85,879.3,Cloudy,Weekday,Debit Card,Busy
