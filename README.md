@@ -138,9 +138,9 @@ Developed a Power BI dashboard to present key metrics and business performance v
 
 **Dashboard Preview**
 
-![EV Charging Station Analytics Dashboard](screenshots/ev_charging_dashboard.png)
+![EV Charging Station Analytics Dashboard](screenshot/ev_charging_dashboard.png)
 
-*The dashboard screenshot will appear here once the image is added to the `screenshots` folder and pushed to GitHub.*
+
 
 ## 📈 Key Business Questions
 
